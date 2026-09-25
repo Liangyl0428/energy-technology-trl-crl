@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+.env
+.env.*
+*.pem
+*.key
+credentials*
+raw_sources/
+research_output/
+build/
+dist/
