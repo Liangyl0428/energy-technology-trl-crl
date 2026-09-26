@@ -1,0 +1,3 @@
+# csv.writer intentionally emits CRLF for spreadsheet interoperability.
+# Preserve bytes because the release manifest hashes the generated files.
+*.csv whitespace=cr-at-eol

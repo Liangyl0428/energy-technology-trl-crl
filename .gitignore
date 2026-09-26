@@ -12,5 +12,6 @@ venv/
 credentials*
 raw_sources/
 research_output/
+work/
 build/
 dist/
