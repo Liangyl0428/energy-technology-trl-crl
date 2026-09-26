@@ -6278,19 +6278,12 @@
     ],
     "source_url_count": 1,
     "associated_case_trl_distribution": {
-      "9": 1
+      "unknown": 1
     },
     "associated_case_crl_distribution": {
-      "2": 1
+      "unknown": 1
     },
-    "same_case_pairs": [
-      {
-        "case_id": "W011",
-        "TRL": 9,
-        "CRL": 2,
-        "period": "2017-11投运"
-      }
-    ],
+    "same_case_pairs": [],
     "direction_trl": null,
     "direction_crl": null,
     "formal_trl": null,

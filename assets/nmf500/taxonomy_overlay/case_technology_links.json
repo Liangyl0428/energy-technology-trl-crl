@@ -3,7 +3,7 @@
     "case_id": "C0009-B01",
     "technology_id": "TR-C0009-B01",
     "assessment_unit_id": "AU-C0009-B01",
-    "category_id": "N0164",
+    "category_id": "N0211",
     "parent_direction_ids": [
       "TD-f3c8506f53f3"
     ],
@@ -18,7 +18,7 @@
     "case_id": "C0493-B01",
     "technology_id": "TR-C0493-B01",
     "assessment_unit_id": "AU-C0493-B01",
-    "category_id": "N0097",
+    "category_id": "N0003",
     "parent_direction_ids": [
       "TD-0f14b93ac103"
     ],
@@ -153,7 +153,7 @@
     "case_id": "C0186-B01",
     "technology_id": "TR-C0186-B01",
     "assessment_unit_id": "AU-C0186-B01",
-    "category_id": "N0367",
+    "category_id": "N0095",
     "parent_direction_ids": [
       "TD-456c50273fbd"
     ],
@@ -258,7 +258,7 @@
     "case_id": "C0254-B01",
     "technology_id": "TR-C0254-B01",
     "assessment_unit_id": "AU-C0254-B01",
-    "category_id": "N0147",
+    "category_id": "N0294",
     "parent_direction_ids": [
       "TD-cdfac0fb0d6b"
     ],
@@ -288,7 +288,7 @@
     "case_id": "C0278-B01",
     "technology_id": "TR-C0278-B01",
     "assessment_unit_id": "AU-C0278-B01",
-    "category_id": "N0243",
+    "category_id": "N0013",
     "parent_direction_ids": [
       "TD-03fabc429504"
     ],
@@ -318,7 +318,7 @@
     "case_id": "C0684-B01",
     "technology_id": "TR-C0684-B01",
     "assessment_unit_id": "AU-C0684-B01",
-    "category_id": "N0441",
+    "category_id": "N0166",
     "parent_direction_ids": [
       "TD-d5098a789e1b"
     ],
@@ -348,7 +348,7 @@
     "case_id": "C0435-B01",
     "technology_id": "TR-C0435-B01",
     "assessment_unit_id": "AU-C0435-B01",
-    "category_id": "N0022",
+    "category_id": "N0421",
     "parent_direction_ids": [
       "TD-2786e9d66efb"
     ],
@@ -394,7 +394,7 @@
     "case_id": "C0665-B01",
     "technology_id": "TR-C0665-B01",
     "assessment_unit_id": "AU-C0665-B01",
-    "category_id": "N0103",
+    "category_id": "N0166",
     "parent_direction_ids": [
       "TD-b93e9651484a"
     ],
@@ -485,7 +485,7 @@
     "case_id": "C0487-N01",
     "technology_id": "TR-C0487-N01",
     "assessment_unit_id": "AU-C0487-N01",
-    "category_id": "N0166",
+    "category_id": "N0034",
     "parent_direction_ids": [
       "TD-bc9274e0e45f"
     ],
@@ -515,7 +515,7 @@
     "case_id": "C0491-N01",
     "technology_id": "TR-C0491-N01",
     "assessment_unit_id": "AU-C0491-N01",
-    "category_id": "N0076",
+    "category_id": "N0031",
     "parent_direction_ids": [
       "TD-cf2af8ae4a11"
     ],
@@ -575,7 +575,7 @@
     "case_id": "C0497-N01",
     "technology_id": "TR-C0497-N01",
     "assessment_unit_id": "AU-C0497-N01",
-    "category_id": "N0267",
+    "category_id": "N0391",
     "parent_direction_ids": [
       "TD-c3bbbb8169b8"
     ],
@@ -1010,7 +1010,7 @@
     "case_id": "C0559-N01",
     "technology_id": "TR-C0559-N01",
     "assessment_unit_id": "AU-C0559-N01",
-    "category_id": "N0035",
+    "category_id": "N0439",
     "parent_direction_ids": [
       "TD-556b8ec095bb"
     ],
@@ -1401,7 +1401,7 @@
     "case_id": "C0657-N01",
     "technology_id": "TR-C0657-N01",
     "assessment_unit_id": "AU-C0657-N01",
-    "category_id": "N0339",
+    "category_id": "N0247",
     "parent_direction_ids": [
       "TD-d70643a25962"
     ],
@@ -1431,7 +1431,7 @@
     "case_id": "C0697-N01",
     "technology_id": "TR-C0697-N01",
     "assessment_unit_id": "AU-C0697-N01",
-    "category_id": "N0031",
+    "category_id": "N0233",
     "parent_direction_ids": [
       "TD-a1837be6519c"
     ],
@@ -1491,7 +1491,7 @@
     "case_id": "C0718-N01",
     "technology_id": "TR-C0718-N01",
     "assessment_unit_id": "AU-C0718-N01",
-    "category_id": "N0290",
+    "category_id": "N0053",
     "parent_direction_ids": [
       "TD-264d4d0725e8"
     ],
@@ -1521,7 +1521,7 @@
     "case_id": "C0737-N01",
     "technology_id": "TR-C0737-N01",
     "assessment_unit_id": "AU-C0737-N01",
-    "category_id": "N0356",
+    "category_id": "N0010",
     "parent_direction_ids": [
       "TD-487cb550fe07"
     ],
@@ -1726,7 +1726,7 @@
     "case_id": "W009",
     "technology_id": "TR-W009",
     "assessment_unit_id": "AU-W009",
-    "category_id": "N0414",
+    "category_id": "N0413",
     "category_ids": [
       "C0062",
       "C0112",

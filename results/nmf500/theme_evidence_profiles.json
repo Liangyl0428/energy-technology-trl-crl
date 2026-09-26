@@ -45,10 +45,16 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 0,
-    "candidate_case_ids": [],
-    "candidate_trl_distribution": {},
-    "candidate_crl_distribution": {},
+    "candidate_case_count": 1,
+    "candidate_case_ids": [
+      "C0493-B01"
+    ],
+    "candidate_trl_distribution": {
+      "4": 1
+    },
+    "candidate_crl_distribution": {
+      "unknown": 1
+    },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -122,7 +128,7 @@
   {
     "category_id": "N0007",
     "name": "Supercapacitor / Capacitance / Electrode",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 1,
@@ -191,10 +197,16 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 0,
-    "candidate_case_ids": [],
-    "candidate_trl_distribution": {},
-    "candidate_crl_distribution": {},
+    "candidate_case_count": 1,
+    "candidate_case_ids": [
+      "C0737-N01"
+    ],
+    "candidate_trl_distribution": {
+      "4": 1
+    },
+    "candidate_crl_distribution": {
+      "unknown": 1
+    },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -248,22 +260,28 @@
   {
     "category_id": "N0013",
     "name": "Overpotential / Oxygen evolution / Catalysis",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 0,
-    "candidate_case_ids": [],
-    "candidate_trl_distribution": {},
-    "candidate_crl_distribution": {},
+    "candidate_case_count": 1,
+    "candidate_case_ids": [
+      "C0278-B01"
+    ],
+    "candidate_trl_distribution": {
+      "4": 1
+    },
+    "candidate_crl_distribution": {
+      "unknown": 1
+    },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
-    "core_followup": false,
+    "core_followup": true,
     "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "Overpotential / Oxygen evolution / Catalysis"
+    "review_display_name": "电解水析氧与析氢催化"
   },
   {
     "category_id": "N0014",
@@ -309,7 +327,7 @@
     "category_id": "N0016",
     "name": "Wind power / Wind speed / Induction generator",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": false,
+    "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
     "candidate_case_count": 1,
     "candidate_case_ids": [
@@ -327,14 +345,14 @@
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
     "core_followup": false,
-    "emerging_followup": false,
+    "emerging_followup": true,
     "potential_followup": false,
-    "review_display_name": "Wind power / Wind speed / Induction generator"
+    "review_display_name": "风能资源评估与功率预测"
   },
   {
     "category_id": "N0017",
     "name": "Photovoltaic system / Electrical engineering / Maximum power point tracking",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
@@ -380,7 +398,7 @@
   {
     "category_id": "N0019",
     "name": "Thermoelectric effect / Thermoelectric materials / Seebeck coefficient",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
@@ -392,10 +410,10 @@
     "theme_crl": null,
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
-    "core_followup": false,
+    "core_followup": true,
     "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "Thermoelectric effect / Thermoelectric materials / Seebeck coefficient"
+    "review_display_name": "热电材料与器件"
   },
   {
     "category_id": "N0020",
@@ -420,7 +438,7 @@
   {
     "category_id": "N0021",
     "name": "Perovskite (structure) / Halide / Energy conversion efficiency",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 4,
@@ -452,23 +470,11 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0435-B01"
-    ],
-    "candidate_trl_distribution": {
-      "4": 1
-    },
-    "candidate_crl_distribution": {
-      "2": 1
-    },
-    "candidate_same_case_pairs": [
-      {
-        "case_id": "C0435-B01",
-        "TRL": 4,
-        "CRL": 2
-      }
-    ],
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
+    "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
     "mapping_review_required": true,
@@ -521,7 +527,7 @@
   {
     "category_id": "N0025",
     "name": "Hydrogen / Hydrogen production / Hydrogen storage",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 3,
@@ -614,7 +620,7 @@
     "name": "Power (physics) / Electric power system / Power flow",
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
-    "potential_numeric_candidate": true,
+    "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
     "candidate_trl_distribution": {},
@@ -652,12 +658,12 @@
   {
     "category_id": "N0031",
     "name": "Anode / Electrode / Chemical engineering",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 1,
     "candidate_case_ids": [
-      "C0697-N01"
+      "C0491-N01"
     ],
     "candidate_trl_distribution": {
       "4": 1
@@ -670,15 +676,15 @@
     "theme_crl": null,
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
-    "core_followup": false,
+    "core_followup": true,
     "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "Anode / Electrode / Chemical engineering"
+    "review_display_name": "电池负极与界面稳定性"
   },
   {
     "category_id": "N0032",
     "name": "Cathode / Electrolyte / Chemical engineering",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
@@ -690,15 +696,15 @@
     "theme_crl": null,
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
-    "core_followup": false,
+    "core_followup": true,
     "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "Cathode / Electrolyte / Chemical engineering"
+    "review_display_name": "电池正极材料与循环性能"
   },
   {
     "category_id": "N0033",
     "name": "Membrane / Permeation / Ion exchange",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 1,
@@ -724,18 +730,19 @@
   {
     "category_id": "N0034",
     "name": "Battery (electricity) / Lithium-ion battery / Battery pack",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
+    "candidate_case_count": 2,
     "candidate_case_ids": [
-      "C0221-B01"
+      "C0221-B01",
+      "C0487-N01"
     ],
     "candidate_trl_distribution": {
-      "4": 1
+      "4": 2
     },
     "candidate_crl_distribution": {
-      "unknown": 1
+      "unknown": 2
     },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
@@ -753,16 +760,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0559-N01"
-    ],
-    "candidate_trl_distribution": {
-      "4": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -882,7 +883,7 @@
   {
     "category_id": "N0041",
     "name": "Heterojunction / Optoelectronics / Chemical engineering",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
@@ -1137,10 +1138,16 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 0,
-    "candidate_case_ids": [],
-    "candidate_trl_distribution": {},
-    "candidate_crl_distribution": {},
+    "candidate_case_count": 1,
+    "candidate_case_ids": [
+      "C0718-N01"
+    ],
+    "candidate_trl_distribution": {
+      "2": 1
+    },
+    "candidate_crl_distribution": {
+      "unknown": 1
+    },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -1302,18 +1309,12 @@
       "W011"
     ],
     "candidate_trl_distribution": {
-      "9": 1
+      "unknown": 1
     },
     "candidate_crl_distribution": {
-      "2": 1
+      "unknown": 1
     },
-    "candidate_same_case_pairs": [
-      {
-        "case_id": "W011",
-        "TRL": 9,
-        "CRL": 2
-      }
-    ],
+    "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
     "mapping_review_required": true,
@@ -1321,7 +1322,7 @@
     "core_followup": false,
     "emerging_followup": false,
     "potential_followup": true,
-    "review_display_name": "新型储能系统与控制"
+    "review_display_name": "储能主题中的系统与控制应用线索"
   },
   {
     "category_id": "N0062",
@@ -1346,7 +1347,7 @@
   {
     "category_id": "N0063",
     "name": "Renewable energy / Energy policy / Environmental economics",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
@@ -1623,16 +1624,15 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 2,
+    "candidate_case_count": 1,
     "candidate_case_ids": [
-      "C0122-B01",
-      "C0491-N01"
+      "C0122-B01"
     ],
     "candidate_trl_distribution": {
-      "4": 2
+      "4": 1
     },
     "candidate_crl_distribution": {
-      "unknown": 2
+      "unknown": 1
     },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
@@ -1647,7 +1647,7 @@
   {
     "category_id": "N0077",
     "name": "Microgrid / Voltage droop / Automatic frequency control",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 1,
@@ -1665,10 +1665,10 @@
     "theme_crl": null,
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
-    "core_followup": false,
+    "core_followup": true,
     "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "Microgrid / Voltage droop / Automatic frequency control"
+    "review_display_name": "微电网控制与通信安全"
   },
   {
     "category_id": "N0078",
@@ -2028,15 +2028,17 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
+    "candidate_case_count": 2,
     "candidate_case_ids": [
+      "C0186-B01",
       "C0725-N01"
     ],
     "candidate_trl_distribution": {
+      "unknown": 1,
       "4": 1
     },
     "candidate_crl_distribution": {
-      "unknown": 1
+      "unknown": 2
     },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
@@ -2074,16 +2076,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0493-B01"
-    ],
-    "candidate_trl_distribution": {
-      "4": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -2200,23 +2196,11 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0665-B01"
-    ],
-    "candidate_trl_distribution": {
-      "9": 1
-    },
-    "candidate_crl_distribution": {
-      "3": 1
-    },
-    "candidate_same_case_pairs": [
-      {
-        "case_id": "C0665-B01",
-        "TRL": 9,
-        "CRL": 3
-      }
-    ],
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
+    "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
     "mapping_review_required": true,
@@ -2681,7 +2665,7 @@
   {
     "category_id": "N0126",
     "name": "Reduction (mathematics) / Mathematics / Oxygen reduction reaction",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
@@ -2702,7 +2686,7 @@
     "category_id": "N0127",
     "name": "Work (physics) / Mechanical engineering / Thermodynamics",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": false,
+    "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -3110,16 +3094,15 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 2,
+    "candidate_case_count": 1,
     "candidate_case_ids": [
-      "C0155-B01",
-      "C0254-B01"
+      "C0155-B01"
     ],
     "candidate_trl_distribution": {
-      "4": 2
+      "4": 1
     },
     "candidate_crl_distribution": {
-      "unknown": 2
+      "unknown": 1
     },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
@@ -3301,7 +3284,7 @@
     "core_followup": false,
     "emerging_followup": true,
     "potential_followup": false,
-    "review_display_name": "电力设备与光伏故障诊断"
+    "review_display_name": "能源设备故障诊断"
   },
   {
     "category_id": "N0156",
@@ -3387,7 +3370,7 @@
     "category_id": "N0160",
     "name": "Faraday efficiency / Reversible hydrogen electrode / Dendrite (mathematics)",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": true,
+    "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 1,
     "candidate_case_ids": [
@@ -3481,16 +3464,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0009-B01"
-    ],
-    "candidate_trl_distribution": {
-      "4": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -3524,20 +3501,29 @@
   {
     "category_id": "N0166",
     "name": "Thermal / Process engineering / Mechanical engineering",
-    "core_numeric_candidate": true,
-    "emerging_numeric_candidate": true,
+    "core_numeric_candidate": false,
+    "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
+    "candidate_case_count": 2,
     "candidate_case_ids": [
-      "C0487-N01"
+      "C0684-B01",
+      "C0665-B01"
     ],
     "candidate_trl_distribution": {
-      "4": 1
+      "4": 1,
+      "9": 1
     },
     "candidate_crl_distribution": {
-      "unknown": 1
+      "unknown": 1,
+      "3": 1
     },
-    "candidate_same_case_pairs": [],
+    "candidate_same_case_pairs": [
+      {
+        "case_id": "C0665-B01",
+        "TRL": 9,
+        "CRL": 3
+      }
+    ],
     "theme_trl": null,
     "theme_crl": null,
     "mapping_review_required": true,
@@ -3677,7 +3663,7 @@
     "core_followup": true,
     "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "相变材料与热能储存"
+    "review_display_name": "相变储热材料与系统"
   },
   {
     "category_id": "N0173",
@@ -4031,7 +4017,7 @@
     "core_followup": false,
     "emerging_followup": false,
     "potential_followup": true,
-    "review_display_name": "电力网络安全与工业互联网防护"
+    "review_display_name": "网络安全主题中的电力应用线索"
   },
   {
     "category_id": "N0190",
@@ -4089,7 +4075,7 @@
     "core_followup": false,
     "emerging_followup": false,
     "potential_followup": true,
-    "review_display_name": "电动车充电与车网互动"
+    "review_display_name": "电动车主题中的充电与车网互动线索"
   },
   {
     "category_id": "N0192",
@@ -4114,7 +4100,7 @@
   {
     "category_id": "N0193",
     "name": "Robustness (evolution) / Control engineering / Robust control",
-    "core_numeric_candidate": false,
+    "core_numeric_candidate": true,
     "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
     "candidate_case_count": 1,
@@ -4161,7 +4147,7 @@
     "category_id": "N0195",
     "name": "Offshore wind power / Submarine pipeline / Marine engineering",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": true,
+    "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 1,
     "candidate_case_ids": [
@@ -4185,9 +4171,9 @@
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
     "core_followup": false,
-    "emerging_followup": true,
+    "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "海上风电布局与运行"
+    "review_display_name": "Offshore wind power / Submarine pipeline / Marine engineering"
   },
   {
     "category_id": "N0196",
@@ -4219,7 +4205,7 @@
     "category_id": "N0197",
     "name": "Nonlinear system / Finite element method / Structural engineering",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": false,
+    "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -4519,10 +4505,16 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 0,
-    "candidate_case_ids": [],
-    "candidate_trl_distribution": {},
-    "candidate_crl_distribution": {},
+    "candidate_case_count": 1,
+    "candidate_case_ids": [
+      "C0009-B01"
+    ],
+    "candidate_trl_distribution": {
+      "4": 1
+    },
+    "candidate_crl_distribution": {
+      "unknown": 1
+    },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -4977,10 +4969,16 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 0,
-    "candidate_case_ids": [],
-    "candidate_trl_distribution": {},
-    "candidate_crl_distribution": {},
+    "candidate_case_count": 1,
+    "candidate_case_ids": [
+      "C0697-N01"
+    ],
+    "candidate_trl_distribution": {
+      "4": 1
+    },
+    "candidate_crl_distribution": {
+      "unknown": 1
+    },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -5203,16 +5201,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0278-B01"
-    ],
-    "candidate_trl_distribution": {
-      "4": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -5298,17 +5290,18 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 2,
+    "candidate_case_count": 3,
     "candidate_case_ids": [
       "C0609-N01",
+      "C0657-N01",
       "C0708-N01"
     ],
     "candidate_trl_distribution": {
-      "4": 1,
+      "4": 2,
       "2": 1
     },
     "candidate_crl_distribution": {
-      "unknown": 2
+      "unknown": 3
     },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
@@ -5474,9 +5467,9 @@
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
     "core_followup": false,
-    "emerging_followup": true,
+    "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "能源系统柔性与需求响应"
+    "review_display_name": "Flexibility (engineering) / Environmental economics / Prosumer"
   },
   {
     "category_id": "N0255",
@@ -5731,16 +5724,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0497-N01"
-    ],
-    "candidate_trl_distribution": {
-      "4": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -5775,7 +5762,7 @@
     "category_id": "N0269",
     "name": "Sustainability / Ecology / Environmental resource management",
     "core_numeric_candidate": true,
-    "emerging_numeric_candidate": false,
+    "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -6224,16 +6211,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0718-N01"
-    ],
-    "candidate_trl_distribution": {
-      "2": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -6310,10 +6291,16 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 0,
-    "candidate_case_ids": [],
-    "candidate_trl_distribution": {},
-    "candidate_crl_distribution": {},
+    "candidate_case_count": 1,
+    "candidate_case_ids": [
+      "C0254-B01"
+    ],
+    "candidate_trl_distribution": {
+      "4": 1
+    },
+    "candidate_crl_distribution": {
+      "unknown": 1
+    },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -6488,7 +6475,7 @@
     "category_id": "N0303",
     "name": "Irradiance / Remote sensing / Solar irradiance",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": false,
+    "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -6688,7 +6675,7 @@
     "category_id": "N0313",
     "name": "Quality (philosophy) / Power quality / Voltage sag",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": false,
+    "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -7218,9 +7205,9 @@
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
     "core_followup": false,
-    "emerging_followup": true,
+    "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "能源效率与节能系统"
+    "review_display_name": "Efficient energy use / Energy conservation / Energy accounting"
   },
   {
     "category_id": "N0338",
@@ -7248,16 +7235,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0657-N01"
-    ],
-    "candidate_trl_distribution": {
-      "4": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -7614,16 +7595,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0737-N01"
-    ],
-    "candidate_trl_distribution": {
-      "4": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -7846,16 +7821,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0186-B01"
-    ],
-    "candidate_trl_distribution": {
-      "unknown": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -8288,7 +8257,7 @@
     "category_id": "N0388",
     "name": "Electronic structure / Valence (chemistry) / Electronic band structure",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": true,
+    "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -8300,9 +8269,9 @@
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
     "core_followup": false,
-    "emerging_followup": true,
+    "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "能源材料电子结构"
+    "review_display_name": "Electronic structure / Valence (chemistry) / Electronic band structure"
   },
   {
     "category_id": "N0389",
@@ -8350,15 +8319,16 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
+    "candidate_case_count": 2,
     "candidate_case_ids": [
-      "C0492-N01"
+      "C0492-N01",
+      "C0497-N01"
     ],
     "candidate_trl_distribution": {
-      "4": 1
+      "4": 2
     },
     "candidate_crl_distribution": {
-      "unknown": 1
+      "unknown": 2
     },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
@@ -8452,15 +8422,15 @@
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
     "core_followup": false,
-    "emerging_followup": true,
+    "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "湍流与聚变等离子体输运"
+    "review_display_name": "Turbulence / Turbulence kinetic energy / Reynolds number"
   },
   {
     "category_id": "N0396",
     "name": "Incentive / Microeconomics / Tariff",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": false,
+    "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -8738,7 +8708,7 @@
     "category_id": "N0409",
     "name": "HVAC / Air conditioning / Ventilation (architecture)",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": true,
+    "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 4,
     "candidate_case_ids": [
@@ -8774,9 +8744,9 @@
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
     "core_followup": false,
-    "emerging_followup": true,
+    "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "建筑暖通与热储能控制"
+    "review_display_name": "HVAC / Air conditioning / Ventilation (architecture)"
   },
   {
     "category_id": "N0410",
@@ -8844,18 +8814,21 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 2,
+    "candidate_case_count": 3,
     "candidate_case_ids": [
       "C0703-N01",
-      "W008"
+      "W008",
+      "W009"
     ],
     "candidate_trl_distribution": {
       "4": 1,
-      "9": 1
+      "9": 1,
+      "unknown": 1
     },
     "candidate_crl_distribution": {
       "unknown": 1,
-      "2": 1
+      "2": 1,
+      "3": 1
     },
     "candidate_same_case_pairs": [
       {
@@ -8879,16 +8852,15 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 2,
+    "candidate_case_count": 1,
     "candidate_case_ids": [
-      "W009",
       "W016"
     ],
     "candidate_trl_distribution": {
-      "unknown": 2
+      "unknown": 1
     },
     "candidate_crl_distribution": {
-      "3": 2
+      "3": 1
     },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
@@ -9032,11 +9004,23 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 0,
-    "candidate_case_ids": [],
-    "candidate_trl_distribution": {},
-    "candidate_crl_distribution": {},
-    "candidate_same_case_pairs": [],
+    "candidate_case_count": 1,
+    "candidate_case_ids": [
+      "C0435-B01"
+    ],
+    "candidate_trl_distribution": {
+      "4": 1
+    },
+    "candidate_crl_distribution": {
+      "2": 1
+    },
+    "candidate_same_case_pairs": [
+      {
+        "case_id": "C0435-B01",
+        "TRL": 4,
+        "CRL": 2
+      }
+    ],
     "theme_trl": null,
     "theme_crl": null,
     "mapping_review_required": true,
@@ -9404,10 +9388,16 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 0,
-    "candidate_case_ids": [],
-    "candidate_trl_distribution": {},
-    "candidate_crl_distribution": {},
+    "candidate_case_count": 1,
+    "candidate_case_ids": [
+      "C0559-N01"
+    ],
+    "candidate_trl_distribution": {
+      "4": 1
+    },
+    "candidate_crl_distribution": {
+      "unknown": 1
+    },
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -9444,16 +9434,10 @@
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
-    "candidate_case_count": 1,
-    "candidate_case_ids": [
-      "C0684-B01"
-    ],
-    "candidate_trl_distribution": {
-      "4": 1
-    },
-    "candidate_crl_distribution": {
-      "unknown": 1
-    },
+    "candidate_case_count": 0,
+    "candidate_case_ids": [],
+    "candidate_trl_distribution": {},
+    "candidate_crl_distribution": {},
     "candidate_same_case_pairs": [],
     "theme_trl": null,
     "theme_crl": null,
@@ -9761,7 +9745,7 @@
     "name": "Demand response / Peak demand / Load management",
     "core_numeric_candidate": false,
     "emerging_numeric_candidate": false,
-    "potential_numeric_candidate": false,
+    "potential_numeric_candidate": true,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
     "candidate_trl_distribution": {},
@@ -9800,7 +9784,7 @@
     "category_id": "N0458",
     "name": "Computation / Computational science / Finite element method",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": true,
+    "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -10052,7 +10036,7 @@
     "category_id": "N0470",
     "name": "Life-cycle assessment / Environmental impact assessment / Environmental engineering",
     "core_numeric_candidate": false,
-    "emerging_numeric_candidate": true,
+    "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -10064,9 +10048,9 @@
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
     "core_followup": false,
-    "emerging_followup": true,
+    "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "能源与材料生命周期评价"
+    "review_display_name": "Life-cycle assessment / Environmental impact assessment / Environmental engineering"
   },
   {
     "category_id": "N0471",
@@ -10138,7 +10122,7 @@
     "category_id": "N0474",
     "name": "Reinforcement learning / Convergence (economics) / Artificial intelligence",
     "core_numeric_candidate": true,
-    "emerging_numeric_candidate": false,
+    "emerging_numeric_candidate": true,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],
@@ -10149,10 +10133,10 @@
     "theme_crl": null,
     "mapping_review_required": true,
     "interpretation": "候选关联案例的证据分布；关联未经语义确认，不能视为主题统一TRL/CRL",
-    "core_followup": true,
+    "core_followup": false,
     "emerging_followup": false,
     "potential_followup": false,
-    "review_display_name": "强化学习用于微电网与能源调度"
+    "review_display_name": "Reinforcement learning / Convergence (economics) / Artificial intelligence"
   },
   {
     "category_id": "N0475",
@@ -10529,8 +10513,8 @@
   {
     "category_id": "N0493",
     "name": "Sustainable development / Economic growth / Sustainable energy",
-    "core_numeric_candidate": true,
-    "emerging_numeric_candidate": true,
+    "core_numeric_candidate": false,
+    "emerging_numeric_candidate": false,
     "potential_numeric_candidate": false,
     "candidate_case_count": 0,
     "candidate_case_ids": [],

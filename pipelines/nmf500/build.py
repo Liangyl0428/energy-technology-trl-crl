@@ -6,6 +6,7 @@ from collections import Counter
 import hashlib
 import json
 from pathlib import Path
+import shutil
 import sys
 
 import numpy as np
@@ -19,24 +20,10 @@ sys.path.insert(0, str(ROOT / 'energy-topic-hotspots/pipelines/nmf500'))
 from trl_crl.pipeline import INPUT_NAMES, write_outputs
 from trl_crl.common import read, write, file_sha, canonical_sha
 from build import safe_excel
+from mapping import ranked_links
 
 NMF = ROOT / 'energy-topic-identification/pipelines/keyword_nmf/results'
-HOT = ROOT / 'energy-topic-hotspots/outputs/nmf500'
-
-
-def ranked_links(rows, embeddings, centroids, catalog):
-    embeddings = embeddings / np.linalg.norm(embeddings, axis=1, keepdims=True)
-    norms = np.linalg.norm(centroids, axis=1, keepdims=True)
-    centroids = centroids / np.maximum(norms, 1e-12)
-    similarity = embeddings @ centroids.T
-    similarity[:, norms.ravel() <= 1e-12] = -np.inf
-    order = np.argsort(-similarity, axis=1, kind='stable')[:, :3]
-    links = []
-    names = catalog.set_index('topic_id').name
-    for i, row in enumerate(rows):
-        for rank, tid in enumerate(order[i], 1):
-            links.append({'entity_type': row['entity_type'], 'entity_id': row['entity_id'], 'entity_name': row['name'], 'rank': rank, 'topic_id': int(tid), 'category_id': f'N{tid + 1:04d}', 'category_name': names.loc[tid], 'cosine': float(similarity[i, tid]), 'top1_top2_margin': float(similarity[i, order[i, 0]] - similarity[i, order[i, 1]]), 'association_status': 'automatic_candidate_needs_semantic_review', 'needs_review': True, 'transfers_maturity': False})
-    return pd.DataFrame(links)
+HOT = ROOT / 'energy-topic-hotspots/outputs/nmf500_v021'
 
 
 def build(work, output):
@@ -54,7 +41,7 @@ def build(work, output):
     original_manifest = {n: file_sha(REPO / 'data' / f'{n}.json') for n in INPUT_NAMES}
     cases = links[links.entity_type.eq('case') & links['rank'].eq(1)].set_index('entity_id')
     directions = links[links.entity_type.eq('direction') & links['rank'].eq(1)].set_index('entity_id')
-    # IDs, scopes, profiles, gate reviews, observations and quotations remain intact.
+    # Remapping preserves the current audited IDs, scopes, profiles and evidence.
     # New category fields are retrieval associations, not amendments to evidence scope.
     for obj in data['objects']:
         cid = obj['case_id']
@@ -78,12 +65,18 @@ def build(work, output):
         themes.append({'category_id': r.category_id, 'category_name': r.name, 'documents': int(r.uniform_assigned_papers) + npat + npol, 'paper_documents': int(r.uniform_assigned_papers), 'patent_documents': npat, 'policy_documents': npol, 'candidate_direction_ids': children.index.tolist(), 'candidate_direction_names': children.entity_name.tolist(), 'processing_status': 'automatic_candidate_mapping_needs_review', 'processing_reason': '新NMF主题；方向与案例余弦关联待核读，证据等级仅属于原有有界对象', 'formal_trl': None, 'formal_crl': None})
     data['themes'] = themes
     hot_summary = read(HOT / 'SUMMARY.json')
-    data['dataset'].update(classification_themes=500, candidate_directions=len(directions), total_source_records=hot_summary['input_papers'] + len(transfer), assigned_records=hot_summary['eligible_papers'] + len(transfer), unassigned_or_quarantined_records=hot_summary['input_papers']-hot_summary['eligible_papers'], source_document_distribution_note='NMF500 frozen-sample theme counts; papers use uniform transform, patents/policies use paper-centroid cosine; dates and confidence audited separately.', new_evidence_search_performed=False, taxonomy_run='nmf500-sample-v1', evidence_refresh_note='Existing accepted evidence re-evaluated independently; evidence cutoff remains 2026-09-25; theme mapping alone does not upgrade either axis')
+    data['dataset'].update(classification_themes=500, candidate_directions=len(directions), total_source_records=hot_summary['input_papers'] + len(transfer), assigned_records=hot_summary['eligible_papers'] + len(transfer), unassigned_or_quarantined_records=hot_summary['input_papers']-hot_summary['eligible_papers'], source_document_distribution_note='NMF500 frozen-sample theme counts; papers use fixed-H L2 contribution labels, patents/policies use paper-centroid cosine; dates and confidence audited separately.', new_evidence_search_performed=False, taxonomy_run='nmf500-sample-v0.2.1', evidence_refresh_note='Existing accepted evidence re-evaluated independently; evidence cutoff remains 2026-09-25; theme mapping alone does not upgrade either axis')
     inputs = work / 'inputs'
     inputs.mkdir(parents=True, exist_ok=True)
     output.mkdir(parents=True, exist_ok=True)
+    overlay_names = {'dataset', 'objects', 'case_technology_links', 'themes', 'theme_direction_links'}
     for name, values in data.items():
-        write(inputs / f'{name}.json', values)
+        if name in overlay_names:
+            write(inputs / f'{name}.json', values)
+        else:
+            # Preserve the evidence bytes too, so portable replay has the same
+            # input hashes rather than merely equivalent JSON serialization.
+            shutil.copy2(REPO / 'data' / f'{name}.json', inputs / f'{name}.json')
     links.to_csv(output / 'theme_context_top3.csv', index=False, encoding='utf-8-sig')
     summary = write_outputs(inputs, output)
     units = pd.DataFrame(read(output / 'assessment_units.json'))
@@ -135,7 +128,7 @@ def build(work, output):
     safe_excel({'统计与范围': pd.DataFrame([{'item': k, 'value': v} for k, v in {**summary, **coverage}.items()]), '500主题证据分布': profile_frame, '技术对象与热点': units, '主题关联Top3': links, '原文来源': pd.DataFrame(data['sources']), '逐项证据引文': pd.DataFrame(data['evidence']), '同对象双轴': pd.DataFrame(read(output/'same_case_coordinates.json')), '缺项': pd.DataFrame(read(output/'evidence_gaps.json'))}, output/'500主题热点与TRL_CRL.xlsx')
     report = output / '评估报告.md'
     with report.open('a') as f:
-        f.write(f'''\n## NMF500重算范围\n\n500主题目录已接入；391个已有技术方向和122个有界对象重新建立同空间BGE-M3候选关联，保存Top3、余弦和间隔。500主题中有{coverage['themes_with_top1_candidate_cases']}个获得Top1候选案例关联，其余{coverage['themes_without_top1_candidate_cases']}个尚无此类案例覆盖。关联需要语义确认，主题级TRL/CRL均留空。\n\n全部122个对象从原始判据、观测和引文重新计算，两轴结果与原证据计算一致：TRL有值109，CRL有值24，同对象两轴有值14，两轴均未知3。此次未增加外部证据，不能据主题变更宣称成熟度升级。证据截止2026-09-25，热点趋势截止2026-06-30；二者时间含义分别记录。\n\n联合查看500主题热点与TRL_CRL.xlsx中的“技术对象与热点”和“500主题证据分布”。样本规模约16.6万条，不是原约512万条全量重分类。\n''')
+        f.write(f'''\n## NMF500重算范围\n\n500主题目录已接入；391个已有技术方向和122个有界对象重新建立同空间BGE-M3候选关联，保存Top3、余弦和间隔。500主题中有{coverage['themes_with_top1_candidate_cases']}个获得Top1候选案例关联，其余{coverage['themes_without_top1_candidate_cases']}个尚无此类案例覆盖。关联需要语义确认，主题级TRL/CRL均留空。\n\n全部122个对象从原始判据、观测和引文重新计算，TRL有值{summary['objects_with_trl']}，CRL有值{summary['objects_with_crl']}，同对象两轴有值{summary['objects_with_both']}，两轴均未知{summary['objects_with_neither']}。v0.2.1已撤回W011缺乏运行结果与用户反馈支持的两轴；其余判定不因主题变化而改变。此次未增加外部证据，不能据主题变更宣称成熟度升级。证据截止2026-09-25，热点趋势截止2026-06-30；二者时间含义分别记录。\n\n联合查看500主题热点与TRL_CRL.xlsx中的“技术对象与热点”和“500主题证据分布”。样本规模约16.6万条，不是原约512万条全量重分类。\n''')
     print(json.dumps({**summary, **coverage}, ensure_ascii=False, indent=2), flush=True)
 
 

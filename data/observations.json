@@ -6537,9 +6537,9 @@
     "targets": [
       "TRL:9:application"
     ],
-    "polarity": "support",
+    "polarity": "context",
     "assertion": "completed",
-    "rationale": "官网记录已调试投运及调频、无功、容量用途",
+    "rationale": "调试完成和用途说明只构成背景，没有实际运行功能性能结果；v0.2.1撤销对此TRL9门槛的支持。",
     "independent_expert": false,
     "reviewer_id": "agent-assisted-evidence-review"
   },
@@ -6617,9 +6617,9 @@
     "targets": [
       "CRL:2:value"
     ],
-    "polarity": "support",
+    "polarity": "context",
     "assertion": "completed",
-    "rationale": "实现项目容量和频率服务用途；未披露买方法人及结算",
+    "rationale": "所列预定用途不能证明已形成用户价值反馈；v0.2.1撤销对此CRL2门槛的支持。",
     "independent_expert": false,
     "reviewer_id": "agent-assisted-evidence-review"
   },

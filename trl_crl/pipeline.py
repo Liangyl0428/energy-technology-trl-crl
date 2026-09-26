@@ -6,7 +6,7 @@ from datetime import date
 from collections import Counter
 import csv,hashlib,json,copy
 from .common import read,write,canonical_sha,file_sha
-from .engine import evaluate_case,unique_index
+from .engine import evaluate_case,unique_index,validate_excerpt,validate_observation
 
 INPUT_NAMES=['dataset','objects','technical_profiles','gate_reviews','observations','evidence','sources','technology_registry','case_technology_links','themes','theme_direction_links','observed_facts']
 
@@ -21,6 +21,7 @@ def load_inputs(data_dir):
   if any(k in c for k in ['trl_public_evidence_stage','crl_public_evidence_stage','expected_level','formal_trl','formal_crl']):
    raise ValueError('Computed scores must not be provided as object inputs')
  for e in d['evidence']:
+  validate_excerpt(e,d['dataset']['assessment_cutoff'])
   if e['case_id'] not in objects or e['source_id'] not in sources:raise ValueError('Invalid evidence foreign key')
   if e['source_url']!=sources[e['source_id']]['url']:raise ValueError('Evidence URL differs from catalog')
   if e['disposition']!='accepted':raise ValueError('Nonaccepted material cannot enter scoring')
@@ -32,9 +33,12 @@ def load_inputs(data_dir):
   if published and date.fromisoformat(published[:10])>cutoff:raise ValueError('Evidence published after cutoff')
  materialized=[]
  for o in d['observations']:
+  if o.get('case_id') not in objects or o.get('evidence_id') not in ev:raise ValueError('Invalid observation foreign key')
   e=ev[o['evidence_id']];o=copy.deepcopy(o)
   if not e['quote_start']<=o['quote_start']<o['quote_end']<=e['quote_end']:raise ValueError('Observation outside excerpt')
-  o['quote']=e['quote'][o['quote_start']-e['quote_start']:o['quote_end']-e['quote_start']];materialized.append(o)
+  o['quote']=e['quote'][o['quote_start']-e['quote_start']:o['quote_end']-e['quote_start']]
+  validate_observation(o,objects[o['case_id']],ev)
+  materialized.append(o)
  d['observations']=materialized
  tech=unique_index(d['technology_registry'],'technology_id');themes=unique_index(d['themes'],'category_id')
  for l in d['case_technology_links']:

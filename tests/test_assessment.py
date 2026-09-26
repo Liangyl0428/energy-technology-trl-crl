@@ -11,7 +11,7 @@ class AssessmentTests(unittest.TestCase):
   d=self.data;c=next(x for x in d['objects'] if x['case_id']=='W001');r=next(x for x in d['gate_reviews'] if x['case_id']=='W001');p=next(x for x in d['technical_profiles'] if x['case_id']=='W001');o=[x for x in d['observations'] if x['case_id']=='W001'];e={x['evidence_id']:x for x in d['evidence']}
   return copy.deepcopy((c,r,p,o,e))
  def test_current_counts_and_unique_ids(self):
-  s=self.outputs['SUMMARY'];self.assertEqual((s['bounded_object_count'],s['objects_with_trl'],s['objects_with_crl'],s['objects_with_both']),(122,109,24,14))
+  s=self.outputs['SUMMARY'];self.assertEqual((s['bounded_object_count'],s['objects_with_trl'],s['objects_with_crl'],s['objects_with_both']),(122,108,23,13))
   self.assertEqual(len({u['case_id'] for u in self.outputs['assessment_units']}),122)
  def test_axes_are_independent(self):
   c,r,p,o,e=self.sample()

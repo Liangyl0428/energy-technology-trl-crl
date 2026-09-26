@@ -1567,7 +1567,10 @@
   {
     "case_id": "W011",
     "canonical_name": "Pelham储能项目26台Sunny Central Storage 2475",
-    "missing_axes": [],
+    "missing_axes": [
+      "TRL",
+      "CRL"
+    ],
     "evidence_period": "2017-11投运",
     "required_evidence": [
       "存在签约到调试的时间记录，但买方法人未在该页面明确",

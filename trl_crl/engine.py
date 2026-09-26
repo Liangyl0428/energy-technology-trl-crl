@@ -6,12 +6,41 @@ the truth of a publication or replace a technical expert's semantic assessment.
 from datetime import date
 import hashlib
 import math
+import re
 from .common import canonical_sha
-from .rules import requirements
+from .rules import requirements, TRL, CRL
 
 STATES = {'met', 'unknown', 'not_met', 'conflict'}
 FORBIDDEN = {'trl_expected', 'crl_expected', 'expected_level', 'model_suggested_level',
              'trl_evidence_level', 'crl_evidence_level', 'formal_level'}
+
+
+def scope_sha256(case):
+    """Bind the semantic object, independent of its retrieval/theme association."""
+    fields = ['case_id', 'scope_id', 'canonical_name', 'object_configuration',
+              'application_or_target_function', 'boundary', 'evidence_period']
+    if any(not isinstance(case.get(k), str) or not case[k].strip() for k in fields):
+        raise ValueError('Bounded object requires explicit configuration, function and period')
+    return canonical_sha({k: case[k] for k in fields})
+
+
+def rules_sha256():
+    return canonical_sha({'TRL': TRL, 'CRL': CRL})
+
+
+def validate_excerpt(e, cutoff):
+    """Enforce excerpt integrity and knowledge time at every public entry point."""
+    start, end = e['quote_start'], e['quote_end']
+    if not (type(start) is int and type(end) is int and 0 <= start < end
+            and isinstance(e['quote'], str) and len(e['quote']) == end - start):
+        raise ValueError('Invalid excerpt bounds')
+    if hashlib.sha256(e['quote'].encode()).hexdigest() != e['quote_sha256']:
+        raise ValueError('Excerpt hash mismatch')
+    limit = date.fromisoformat(cutoff)
+    if not e.get('available_by') or date.fromisoformat(e['available_by'][:10]) > limit:
+        raise ValueError('Evidence unavailable by cutoff')
+    if e.get('published_at') and date.fromisoformat(e['published_at'][:10]) > limit:
+        raise ValueError('Evidence published after cutoff')
 
 
 def ensure_no_grade_inputs(value):
@@ -49,6 +78,8 @@ def validate_evidence(evidence, source_texts, cutoff):
 
 
 def validate_observation(o, case, evidence):
+    if o.get('evidence_id') not in evidence:
+        raise ValueError('Unknown observation evidence')
     e = evidence[o['evidence_id']]
     if e['disposition'] != 'accepted' or e['case_id'] != case['case_id']:
         raise ValueError('excluded or cross-object evidence')
@@ -59,7 +90,7 @@ def validate_observation(o, case, evidence):
     if o['assertion'] not in {'completed', 'application_concept', 'confirmed_absence', 'planned', 'background'}:
         raise ValueError('invalid assertion')
     start, end = o['quote_start'], o['quote_end']
-    if not (e['quote_start'] <= start < end <= e['quote_end']):
+    if not (type(start) is int and type(end) is int and e['quote_start'] <= start < end <= e['quote_end']):
         raise ValueError('observation outside cited passage')
     if e['quote'][start-e['quote_start']:end-e['quote_start']] != o['quote']:
         raise ValueError('observation quotation mismatch')
@@ -72,6 +103,8 @@ def validate_observation(o, case, evidence):
         cited = evidence.get(record['evidence_id'], {})
         if cited.get('case_id') != case['case_id'] or cited.get('disposition') != 'accepted':
             raise ValueError('resolution evidence must concern the same object')
+    if not o['targets'] or len(o['targets']) != len(set(o['targets'])):
+        raise ValueError('Observation requires unique gate targets')
     for target in o['targets']:
         axis, level, key = target.split(':')
         if key not in requirements(axis, int(level)):
@@ -112,7 +145,8 @@ def qualification_supported(gate, profile, supporting):
             raise ValueError('missing/non-finite threshold or result')
         if m['unit'] != r['unit']:
             raise ValueError('unit or measurement evidence mismatch')
-        if format(value, 'g') not in o['quote']:
+        literals = re.findall(r'(?<![\w.,])[+-]?(?:(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d*)?|\.\d+)(?:[eE][+-]?\d+)?(?![\w.,])', o['quote'])
+        if not any(float(literal.replace(',', '')) == value for literal in literals):
             raise ValueError('measurement literal is not in the cited passage')
         comparator = r['operator']
         passed = {'>=': value >= threshold, '<=': value <= threshold, '==': value == threshold}.get(comparator)
@@ -124,6 +158,7 @@ def qualification_supported(gate, profile, supporting):
 
 
 def evaluate_case(case, review, observations, evidence, profile, cutoff):
+    date.fromisoformat(cutoff)
     ensure_no_grade_inputs(review)
     if review['case_id'] != case['case_id'] or profile['case_id'] != case['case_id']:
         raise ValueError('case/profile/review mismatch')
@@ -131,16 +166,28 @@ def evaluate_case(case, review, observations, evidence, profile, cutoff):
         raise ValueError('reviewer required')
     if review['profile_sha256'] != canonical_sha(profile):
         raise ValueError('criteria changed: review must be renewed')
-    date.fromisoformat(cutoff)
+    if review.get('scope_sha256') != scope_sha256(case):
+        raise ValueError('Object scope changed: review must be renewed')
+    if review.get('rules_sha256') != rules_sha256():
+        raise ValueError('Stage rules changed: review must be renewed')
+    if review.get('review_date') and date.fromisoformat(review['review_date'][:10]) > date.fromisoformat(cutoff):
+        raise ValueError('Review unavailable by cutoff')
+    if set(review['axes']) != {'TRL', 'CRL'}:
+        raise ValueError('Both independent axes must be explicitly recorded')
     obs = unique_index(observations, 'observation_id')
     own = [o for o in observations if o['case_id'] == case['case_id']]
     for o in own:
         validate_observation(o, case, evidence)
+        validate_excerpt(evidence[o['evidence_id']], cutoff)
+        if o.get('resolution') == 'resolved':
+            validate_excerpt(evidence[o['resolution_record']['evidence_id']], cutoff)
     outputs = {}
     all_rows = []
     for axis in ['TRL', 'CRL']:
         stages = review['axes'][axis]
         unique_index(stages, 'level')
+        if {st['level'] for st in stages} != set(TRL if axis == 'TRL' else CRL):
+            raise ValueError('Every stage needs an explicit reviewed/unreviewed record')
         passed = []
         evaluated = []
         for st in stages:
@@ -187,6 +234,8 @@ def evaluate_case(case, review, observations, evidence, profile, cutoff):
                         qualification_supported({**g, 'stage': level}, profile, selected)
                 if g['status'] in {'not_met', 'conflict'} and not selected and not negative:
                     raise ValueError('negative determination needs evidence; otherwise use unknown')
+                if g['status'] == 'not_met' and not any(o['polarity'] == 'contradict' for o in selected.values()) and not negative:
+                    raise ValueError('not_met requires contradicting evidence')
                 statuses.append(effective)
                 all_rows.append({'case_id': case['case_id'], 'axis': axis, 'level': level,
                                  'key': key, 'requirement': expected[key], 'declared_status': g['status'],
@@ -202,4 +251,6 @@ def evaluate_case(case, review, observations, evidence, profile, cutoff):
                          'current_industry_level': None,
                          'interpretation': '仅适用于限定对象与证据期间；未知不代表技术退步'}
     return {'case_id': case['case_id'], 'axes': outputs, 'gates': all_rows,
-            'review_sha256': canonical_sha(review), 'profile_sha256': canonical_sha(profile)}
+            'review_sha256': canonical_sha(review), 'profile_sha256': canonical_sha(profile),
+            'scope_sha256': scope_sha256(case), 'rules_sha256': rules_sha256(),
+            'review_date': review.get('review_date'), 'review_date_known': bool(review.get('review_date'))}

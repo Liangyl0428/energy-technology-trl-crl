@@ -14,12 +14,12 @@
     "unique_news_urls": 5154,
     "scope": "Google News RSS与政府/项目/机构库/供应商资料；检索命中不等于已接受证据"
   },
-  "source_document_distribution_note": "NMF500 frozen-sample theme counts; papers use uniform transform, patents/policies use paper-centroid cosine; dates and confidence audited separately.",
+  "source_document_distribution_note": "NMF500 frozen-sample theme counts; papers use fixed-H L2 contribution labels, patents/policies use paper-centroid cosine; dates and confidence audited separately.",
   "patent_rule": "专利申请/授权仅可作辅助信息，不独立决定CRL；许可/转让需同对象实际履约证据",
   "total_source_records": 165783,
-  "assigned_records": 165678,
-  "unassigned_or_quarantined_records": 105,
+  "assigned_records": 165677,
+  "unassigned_or_quarantined_records": 106,
   "new_evidence_search_performed": false,
-  "taxonomy_run": "nmf500-sample-v1",
+  "taxonomy_run": "nmf500-sample-v0.2.1",
   "evidence_refresh_note": "Existing accepted evidence re-evaluated independently; evidence cutoff remains 2026-09-25; theme mapping alone does not upgrade either axis"
 }

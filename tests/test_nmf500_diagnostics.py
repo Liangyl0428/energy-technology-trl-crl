@@ -32,6 +32,17 @@ class DiagnosticsTests(unittest.TestCase):
             self.assertEqual(result['upgrades'],0)
             self.assertTrue(result['cross_axis_ablation_independence_passed'])
 
+    def test_portable_500_replay_matches_results_and_input_hashes(self):
+        spec = importlib.util.spec_from_file_location('trl_nmf_replay', REPO/'pipelines/nmf500/replay.py')
+        replay = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(replay)
+        with tempfile.TemporaryDirectory(prefix='trl-500-replay-test-') as tmp:
+            replay.replay(Path(tmp))
+            for name in ['assessment_units', 'assessments', 'direction_evidence_profiles',
+                         'same_case_coordinates', 'evidence_gaps', 'SUMMARY', 'INPUT_CHECKSUMS']:
+                self.assertEqual(json.loads((Path(tmp)/(name+'.json')).read_text()),
+                    json.loads((REPO/'results/nmf500'/(name+'.json')).read_text()), name)
+
 
 if __name__=='__main__':
     unittest.main()

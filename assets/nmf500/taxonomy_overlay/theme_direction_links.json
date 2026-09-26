@@ -1,12 +1,12 @@
 [
   {
     "link_id": "NMF500-TD-bc9274e0e45f",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-bc9274e0e45f",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6660042405128479,
+    "cosine": 0.6666302762877682,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -17,7 +17,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6457995772361755,
+    "cosine": 0.6533705787059861,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -28,7 +28,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.663947582244873,
+    "cosine": 0.6654588269201513,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -39,7 +39,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.677870512008667,
+    "cosine": 0.6788684810532662,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -50,7 +50,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6447350382804871,
+    "cosine": 0.6490464977580612,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -61,18 +61,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.69520103931427,
+    "cosine": 0.6891413804609859,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-7006106bb1f8",
-    "category_id": "N0464",
+    "category_id": "N0492",
     "technology_id": "TD-7006106bb1f8",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6611070036888123,
+    "cosine": 0.6653937756140182,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -83,7 +83,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6699995398521423,
+    "cosine": 0.6720421115801876,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -94,7 +94,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6688740849494934,
+    "cosine": 0.6708028524448338,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -105,7 +105,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6696359515190125,
+    "cosine": 0.6705721512410935,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -116,18 +116,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6506422758102417,
+    "cosine": 0.6531338878330633,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-2fcf8c8538a6",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-2fcf8c8538a6",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6562617421150208,
+    "cosine": 0.6565252091072817,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -138,7 +138,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6231582760810852,
+    "cosine": 0.6223045751472556,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -149,29 +149,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6230606436729431,
+    "cosine": 0.6221984441166684,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-6340d8da0763",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-6340d8da0763",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6572768688201904,
+    "cosine": 0.6598264510609468,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-dbc64cde7e29",
-    "category_id": "N0105",
+    "category_id": "N0034",
     "technology_id": "TD-dbc64cde7e29",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6454854607582092,
+    "cosine": 0.6409624209873133,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -182,7 +182,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6407948732376099,
+    "cosine": 0.6430810191920349,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -193,7 +193,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6357988119125366,
+    "cosine": 0.6393095784449639,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -204,7 +204,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6383235454559326,
+    "cosine": 0.6421665607984778,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -215,29 +215,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6380195617675781,
+    "cosine": 0.6412835197123506,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-b226be5bdae1",
-    "category_id": "N0199",
+    "category_id": "N0424",
     "technology_id": "TD-b226be5bdae1",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6448652148246765,
+    "cosine": 0.6472577426570856,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-49bb9d2994cc",
-    "category_id": "N0061",
+    "category_id": "N0034",
     "technology_id": "TD-49bb9d2994cc",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6379872560501099,
+    "cosine": 0.6341535365206007,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -248,29 +248,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6261952519416809,
+    "cosine": 0.6242220521203142,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-084312e9f54f",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-084312e9f54f",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6577970385551453,
+    "cosine": 0.6598692099024246,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-61f07497b611",
-    "category_id": "N0492",
+    "category_id": "N0034",
     "technology_id": "TD-61f07497b611",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6324247121810913,
+    "cosine": 0.6342896610244058,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -281,40 +281,40 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6462540626525879,
+    "cosine": 0.6448935144949929,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-ff915d8024e1",
-    "category_id": "N0005",
+    "category_id": "N0296",
     "technology_id": "TD-ff915d8024e1",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6535784006118774,
+    "cosine": 0.6407628106880516,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-2ee39fb605bb",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-2ee39fb605bb",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6225677728652954,
+    "cosine": 0.6205668828354294,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-2d3d8bc71b49",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-2d3d8bc71b49",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6064828634262085,
+    "cosine": 0.6092327411505092,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -325,7 +325,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6013609766960144,
+    "cosine": 0.599852490514349,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -336,7 +336,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6493169069290161,
+    "cosine": 0.6460968329307569,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -347,40 +347,40 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6392990350723267,
+    "cosine": 0.6397308648345705,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-ee7bb1ff2458",
-    "category_id": "N0087",
+    "category_id": "N0464",
     "technology_id": "TD-ee7bb1ff2458",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6439568400382996,
+    "cosine": 0.6377391040129965,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-85030e485d3d",
-    "category_id": "N0087",
+    "category_id": "N0492",
     "technology_id": "TD-85030e485d3d",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6141973733901978,
+    "cosine": 0.6167782017317711,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-4e69434758f2",
-    "category_id": "N0087",
+    "category_id": "N0492",
     "technology_id": "TD-4e69434758f2",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6653653383255005,
+    "cosine": 0.6674596550235801,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -391,7 +391,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6614155173301697,
+    "cosine": 0.6636367094809122,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -402,7 +402,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6662479639053345,
+    "cosine": 0.6691973456474372,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -413,7 +413,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6796802282333374,
+    "cosine": 0.6745713001458138,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -424,7 +424,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.633364200592041,
+    "cosine": 0.6299188395101492,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -435,7 +435,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6342506408691406,
+    "cosine": 0.6339657951939357,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -446,29 +446,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.5905742645263672,
+    "cosine": 0.59228761935095,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-69b1a46da667",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-69b1a46da667",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.615756094455719,
+    "cosine": 0.6172463597394307,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-686d000ebfcd",
-    "category_id": "N0131",
+    "category_id": "N0208",
     "technology_id": "TD-686d000ebfcd",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6805577278137207,
+    "cosine": 0.6792154445956877,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -479,7 +479,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.676571249961853,
+    "cosine": 0.6758817892120761,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -490,18 +490,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6397884488105774,
+    "cosine": 0.6389997110348848,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-a94fd8727007",
-    "category_id": "N0005",
+    "category_id": "N0492",
     "technology_id": "TD-a94fd8727007",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.620842695236206,
+    "cosine": 0.6189089824760886,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -512,7 +512,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6369525194168091,
+    "cosine": 0.6352918703043133,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -523,7 +523,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6061512231826782,
+    "cosine": 0.609563889644053,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -534,7 +534,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.644927978515625,
+    "cosine": 0.6484895964585068,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -545,7 +545,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.630663275718689,
+    "cosine": 0.6370141574181766,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -556,18 +556,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6631399989128113,
+    "cosine": 0.6671201587174047,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-6a226f86c8b1",
-    "category_id": "N0040",
+    "category_id": "N0492",
     "technology_id": "TD-6a226f86c8b1",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6576546430587769,
+    "cosine": 0.6563332391900767,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -578,7 +578,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6493052840232849,
+    "cosine": 0.6469755789742722,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -589,29 +589,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6527940034866333,
+    "cosine": 0.6507269687578514,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-aa543176cdd2",
-    "category_id": "N0310",
+    "category_id": "N0492",
     "technology_id": "TD-aa543176cdd2",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6325315237045288,
+    "cosine": 0.6320167143434673,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-e128010c582d",
-    "category_id": "N0425",
+    "category_id": "N0492",
     "technology_id": "TD-e128010c582d",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6354548335075378,
+    "cosine": 0.6360664434885108,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -622,7 +622,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6637399196624756,
+    "cosine": 0.6601648200922655,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -633,7 +633,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6741746068000793,
+    "cosine": 0.6764839251499322,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -644,7 +644,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.696509063243866,
+    "cosine": 0.6961314968266071,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -655,18 +655,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6694400906562805,
+    "cosine": 0.6693358455502831,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-5713ccfba6a3",
-    "category_id": "N0425",
+    "category_id": "N0492",
     "technology_id": "TD-5713ccfba6a3",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6528320908546448,
+    "cosine": 0.645885485699883,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -677,7 +677,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6229432821273804,
+    "cosine": 0.6208690476732279,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -688,7 +688,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6424910426139832,
+    "cosine": 0.6389098246635138,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -699,7 +699,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6431022882461548,
+    "cosine": 0.6390990309046455,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -710,7 +710,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6471859812736511,
+    "cosine": 0.6479347960702221,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -721,7 +721,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6557130813598633,
+    "cosine": 0.654762616170701,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -732,7 +732,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6592384576797485,
+    "cosine": 0.65563838516136,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -743,7 +743,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6517059206962585,
+    "cosine": 0.6550771093404799,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -754,7 +754,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6713113784790039,
+    "cosine": 0.6743644046994592,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -765,7 +765,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6463823914527893,
+    "cosine": 0.6496088672878165,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -776,18 +776,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6261227130889893,
+    "cosine": 0.6252042487959923,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-83f3be2d220b",
-    "category_id": "N0334",
+    "category_id": "N0089",
     "technology_id": "TD-83f3be2d220b",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6453027725219727,
+    "cosine": 0.6433303222468559,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -798,7 +798,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6584386229515076,
+    "cosine": 0.6584635230141753,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -809,7 +809,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6574296951293945,
+    "cosine": 0.6563224159584602,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -820,18 +820,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6604195833206177,
+    "cosine": 0.6643318567416236,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-8dbb24c80ff3",
-    "category_id": "N0492",
+    "category_id": "N0144",
     "technology_id": "TD-8dbb24c80ff3",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6295053958892822,
+    "cosine": 0.6295451520907609,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -842,7 +842,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6278821229934692,
+    "cosine": 0.6265251060892981,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -853,7 +853,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6543787121772766,
+    "cosine": 0.6523586804702645,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -864,7 +864,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6575160026550293,
+    "cosine": 0.6554275751070049,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -875,18 +875,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6549726724624634,
+    "cosine": 0.6557005737332862,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-785edc80c8a0",
-    "category_id": "N0144",
+    "category_id": "N0199",
     "technology_id": "TD-785edc80c8a0",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6481767892837524,
+    "cosine": 0.6506640856521065,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -897,7 +897,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.656461238861084,
+    "cosine": 0.6540082175694624,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -908,7 +908,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6296800971031189,
+    "cosine": 0.6311280601746352,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -919,7 +919,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6503203511238098,
+    "cosine": 0.6497399461109515,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -930,7 +930,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6803680062294006,
+    "cosine": 0.6740054656613071,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -941,7 +941,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6475946307182312,
+    "cosine": 0.6387910315679157,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -952,29 +952,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6536943912506104,
+    "cosine": 0.653844029016797,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-5ae2fa50cead",
-    "category_id": "N0464",
+    "category_id": "N0498",
     "technology_id": "TD-5ae2fa50cead",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6628146767616272,
+    "cosine": 0.6601295803154127,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-97b535e60e5c",
-    "category_id": "N0498",
+    "category_id": "N0492",
     "technology_id": "TD-97b535e60e5c",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.651789665222168,
+    "cosine": 0.6537885127573242,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -985,7 +985,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6735540628433228,
+    "cosine": 0.6667844571194069,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -996,7 +996,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6381756067276001,
+    "cosine": 0.6409722083443844,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1007,7 +1007,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6570197343826294,
+    "cosine": 0.6566996625260809,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1018,7 +1018,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6641899347305298,
+    "cosine": 0.6642090423513823,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1029,18 +1029,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6634259819984436,
+    "cosine": 0.6629874215752125,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-4462cc4da3ea",
-    "category_id": "N0046",
+    "category_id": "N0205",
     "technology_id": "TD-4462cc4da3ea",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6699870824813843,
+    "cosine": 0.6631286334568671,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1051,7 +1051,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6560916304588318,
+    "cosine": 0.6550682884169756,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1062,29 +1062,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.653251051902771,
+    "cosine": 0.6543069822560085,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-993ddcae9638",
-    "category_id": "N0087",
+    "category_id": "N0144",
     "technology_id": "TD-993ddcae9638",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6364114880561829,
+    "cosine": 0.6296425727989885,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-a0a40ee7ee32",
-    "category_id": "N0087",
+    "category_id": "N0144",
     "technology_id": "TD-a0a40ee7ee32",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6309666633605957,
+    "cosine": 0.6326664433522219,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1095,7 +1095,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6545723080635071,
+    "cosine": 0.6533772492767789,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1106,7 +1106,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6480321884155273,
+    "cosine": 0.6498412672747462,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1117,7 +1117,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6656705141067505,
+    "cosine": 0.6651648177839886,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1128,7 +1128,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6642807722091675,
+    "cosine": 0.6639922274627195,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1139,7 +1139,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6479610800743103,
+    "cosine": 0.6513189754197344,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1150,7 +1150,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.663120448589325,
+    "cosine": 0.6629706456757267,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1161,7 +1161,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6498373746871948,
+    "cosine": 0.6489223753448703,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1172,7 +1172,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6461313962936401,
+    "cosine": 0.6470359239001193,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1183,7 +1183,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6366620063781738,
+    "cosine": 0.6360365783206655,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1194,7 +1194,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.627514660358429,
+    "cosine": 0.6273459583250112,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1205,7 +1205,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6239409446716309,
+    "cosine": 0.6255502913497956,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1216,7 +1216,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6226092576980591,
+    "cosine": 0.6240434886367333,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1227,7 +1227,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6251974105834961,
+    "cosine": 0.6261650939058137,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1238,7 +1238,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6378659009933472,
+    "cosine": 0.6382272233351061,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1249,7 +1249,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6516751050949097,
+    "cosine": 0.6517731252825696,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1260,18 +1260,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6328600645065308,
+    "cosine": 0.637270891044971,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-a54deaf44470",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-a54deaf44470",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6343281269073486,
+    "cosine": 0.637249525072641,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1282,7 +1282,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6039906740188599,
+    "cosine": 0.6003976533388062,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1293,7 +1293,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6239563822746277,
+    "cosine": 0.6219696310435574,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1304,7 +1304,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6537356972694397,
+    "cosine": 0.6497278455588796,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1315,18 +1315,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6568350791931152,
+    "cosine": 0.6491225006271082,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-761f92e0290c",
-    "category_id": "N0087",
+    "category_id": "N0358",
     "technology_id": "TD-761f92e0290c",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6483958959579468,
+    "cosine": 0.6416144950139335,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1337,18 +1337,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6942710876464844,
+    "cosine": 0.6942368452596168,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-ffc4d89a4ea5",
-    "category_id": "N0492",
+    "category_id": "N0039",
     "technology_id": "TD-ffc4d89a4ea5",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6764367818832397,
+    "cosine": 0.6780466892911726,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1359,7 +1359,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6416481733322144,
+    "cosine": 0.6391813923010883,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1370,7 +1370,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6880652904510498,
+    "cosine": 0.6887263850069474,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1381,7 +1381,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6870973706245422,
+    "cosine": 0.6868143180401091,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1392,7 +1392,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6893138885498047,
+    "cosine": 0.6918310574860466,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1403,7 +1403,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6715717911720276,
+    "cosine": 0.6757703513259561,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1414,7 +1414,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6736600399017334,
+    "cosine": 0.6757053324755049,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1425,7 +1425,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6968486309051514,
+    "cosine": 0.6970553612443927,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1436,7 +1436,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6772845983505249,
+    "cosine": 0.6788316677145574,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1447,7 +1447,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6959606409072876,
+    "cosine": 0.6966830124893214,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1458,18 +1458,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6733693480491638,
+    "cosine": 0.6721358955692116,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-0b5d842144bb",
-    "category_id": "N0464",
+    "category_id": "N0492",
     "technology_id": "TD-0b5d842144bb",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6837332844734192,
+    "cosine": 0.6857813198605485,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1480,7 +1480,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6775755882263184,
+    "cosine": 0.6783899468862651,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1491,7 +1491,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6757076382637024,
+    "cosine": 0.6779565457559975,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1502,7 +1502,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6855829358100891,
+    "cosine": 0.6847848939365481,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1513,7 +1513,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6711961627006531,
+    "cosine": 0.6700028600580874,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1524,7 +1524,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.679399847984314,
+    "cosine": 0.6800438142204732,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1535,7 +1535,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6973016262054443,
+    "cosine": 0.6985796915687305,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1546,7 +1546,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6735690832138062,
+    "cosine": 0.6700364010238969,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1557,18 +1557,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6939817667007446,
+    "cosine": 0.6920580402610164,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-fd09de762c72",
-    "category_id": "N0420",
+    "category_id": "N0363",
     "technology_id": "TD-fd09de762c72",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6766778230667114,
+    "cosine": 0.6778452181194847,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1579,7 +1579,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6896791458129883,
+    "cosine": 0.6928351603931374,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1590,7 +1590,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6772269010543823,
+    "cosine": 0.6778893377781227,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1601,7 +1601,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.700529932975769,
+    "cosine": 0.70118967245499,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1612,7 +1612,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6906473636627197,
+    "cosine": 0.6919794388153143,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1623,7 +1623,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6750119924545288,
+    "cosine": 0.677550556691428,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1634,18 +1634,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7090327739715576,
+    "cosine": 0.7095589954587899,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-1bdd40ce5e8b",
-    "category_id": "N0047",
+    "category_id": "N0492",
     "technology_id": "TD-1bdd40ce5e8b",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6618197560310364,
+    "cosine": 0.6620609147859686,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1656,7 +1656,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6711062788963318,
+    "cosine": 0.6739253483396872,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1667,18 +1667,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6445358991622925,
+    "cosine": 0.6466026437990786,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-12d718c83d53",
-    "category_id": "N0420",
+    "category_id": "N0421",
     "technology_id": "TD-12d718c83d53",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6538495421409607,
+    "cosine": 0.6553003323529267,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1689,7 +1689,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6611664295196533,
+    "cosine": 0.6557456319804797,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1700,7 +1700,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6588213443756104,
+    "cosine": 0.6612321272952428,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1711,7 +1711,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6630508899688721,
+    "cosine": 0.6645199968515655,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1722,7 +1722,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6863617300987244,
+    "cosine": 0.6863115453358581,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1733,7 +1733,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6764457821846008,
+    "cosine": 0.677637274767399,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1744,7 +1744,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6808681488037109,
+    "cosine": 0.680506994738722,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1755,18 +1755,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6697339415550232,
+    "cosine": 0.6728629127561072,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-40ab594e37cb",
-    "category_id": "N0464",
+    "category_id": "N0250",
     "technology_id": "TD-40ab594e37cb",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6727022528648376,
+    "cosine": 0.6707500632350228,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1777,7 +1777,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7008843421936035,
+    "cosine": 0.7035367897529069,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1788,7 +1788,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6446073055267334,
+    "cosine": 0.6452401412001414,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1799,7 +1799,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6850224733352661,
+    "cosine": 0.6871514164034462,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1810,29 +1810,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6733062267303467,
+    "cosine": 0.6740426484856217,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-06f19c1f19b4",
-    "category_id": "N0150",
+    "category_id": "N0111",
     "technology_id": "TD-06f19c1f19b4",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6722117066383362,
+    "cosine": 0.6739543156493719,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-42a3fffc197f",
-    "category_id": "N0111",
+    "category_id": "N0002",
     "technology_id": "TD-42a3fffc197f",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6489191651344299,
+    "cosine": 0.6522140246730312,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1843,7 +1843,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6747263073921204,
+    "cosine": 0.6775022729871715,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1854,7 +1854,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.652105987071991,
+    "cosine": 0.6525828624995018,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1865,7 +1865,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6632258296012878,
+    "cosine": 0.6662074398084604,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1876,7 +1876,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.663780689239502,
+    "cosine": 0.6654408290089816,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1887,7 +1887,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6441919803619385,
+    "cosine": 0.6496521107139395,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1898,18 +1898,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6555774211883545,
+    "cosine": 0.6593125600695559,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-a117845f7d16",
-    "category_id": "N0425",
+    "category_id": "N0492",
     "technology_id": "TD-a117845f7d16",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6337936520576477,
+    "cosine": 0.636232442289858,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1920,7 +1920,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6464779376983643,
+    "cosine": 0.6481766554623354,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1931,7 +1931,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6671332716941833,
+    "cosine": 0.6695922108891031,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1942,7 +1942,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6527485847473145,
+    "cosine": 0.6503517797059006,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1953,7 +1953,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6667039394378662,
+    "cosine": 0.6687170697890116,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1964,7 +1964,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.639600932598114,
+    "cosine": 0.6437121974567971,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -1975,40 +1975,40 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6535269618034363,
+    "cosine": 0.6570680010155077,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-facf3b1e7373",
-    "category_id": "N0492",
+    "category_id": "N0425",
     "technology_id": "TD-facf3b1e7373",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6482991576194763,
+    "cosine": 0.6506319733545676,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-d79e7a1f9260",
-    "category_id": "N0425",
+    "category_id": "N0492",
     "technology_id": "TD-d79e7a1f9260",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6592583060264587,
+    "cosine": 0.6662082814004173,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-d05afee7dc4f",
-    "category_id": "N0425",
+    "category_id": "N0492",
     "technology_id": "TD-d05afee7dc4f",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6699573397636414,
+    "cosine": 0.6720356477259137,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2019,7 +2019,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6791054010391235,
+    "cosine": 0.6765967946474768,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2030,18 +2030,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6688737273216248,
+    "cosine": 0.6664576048011234,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-c8df26ed5e91",
-    "category_id": "N0002",
+    "category_id": "N0492",
     "technology_id": "TD-c8df26ed5e91",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6050043106079102,
+    "cosine": 0.6046441785603175,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2052,18 +2052,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6443876624107361,
+    "cosine": 0.6458895177335775,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-4f1200a90d0f",
-    "category_id": "N0464",
+    "category_id": "N0492",
     "technology_id": "TD-4f1200a90d0f",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6528886556625366,
+    "cosine": 0.6552986757379982,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2074,7 +2074,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6434965133666992,
+    "cosine": 0.6412814207884172,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2085,18 +2085,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6591182947158813,
+    "cosine": 0.6552843202476561,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-de6f2bccd5a9",
-    "category_id": "N0127",
+    "category_id": "N0441",
     "technology_id": "TD-de6f2bccd5a9",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.650109052658081,
+    "cosine": 0.6472589937820545,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2107,40 +2107,40 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6683704853057861,
+    "cosine": 0.675338825607544,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-7fe3183ccd8d",
-    "category_id": "N0127",
+    "category_id": "N0425",
     "technology_id": "TD-7fe3183ccd8d",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6596240401268005,
+    "cosine": 0.6619992915140895,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-18b5e8b3071f",
-    "category_id": "N0492",
+    "category_id": "N0002",
     "technology_id": "TD-18b5e8b3071f",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6656383275985718,
+    "cosine": 0.6678893891245016,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-68f057525811",
-    "category_id": "N0492",
+    "category_id": "N0002",
     "technology_id": "TD-68f057525811",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6650953888893127,
+    "cosine": 0.6676775862657622,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2151,29 +2151,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6668272018432617,
+    "cosine": 0.669717073755301,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-44e86742f670",
-    "category_id": "N0464",
+    "category_id": "N0002",
     "technology_id": "TD-44e86742f670",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.667754054069519,
+    "cosine": 0.6680817410180852,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-e7d3fda1fd62",
-    "category_id": "N0464",
+    "category_id": "N0492",
     "technology_id": "TD-e7d3fda1fd62",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6255884170532227,
+    "cosine": 0.6244712702424078,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2184,7 +2184,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6469020843505859,
+    "cosine": 0.6472200089489305,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2195,7 +2195,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6972315311431885,
+    "cosine": 0.6969852110415329,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2206,7 +2206,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.695846676826477,
+    "cosine": 0.694707140676607,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2217,29 +2217,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6471434235572815,
+    "cosine": 0.6479948183342829,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-3d2da1f71b6c",
-    "category_id": "N0464",
+    "category_id": "N0321",
     "technology_id": "TD-3d2da1f71b6c",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6654393076896667,
+    "cosine": 0.6642708127279296,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-596895e3bbb4",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-596895e3bbb4",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6512620449066162,
+    "cosine": 0.651323846736682,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2250,40 +2250,40 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6561997532844543,
+    "cosine": 0.6498479860819115,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-ec2e2bfdd456",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-ec2e2bfdd456",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6418070197105408,
+    "cosine": 0.6385198181163273,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-329be0a65eee",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-329be0a65eee",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6482666730880737,
+    "cosine": 0.6463895431444343,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-596062ed97ef",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-596062ed97ef",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6520670056343079,
+    "cosine": 0.6534305150544049,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2294,7 +2294,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6525017023086548,
+    "cosine": 0.6511277268028326,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2305,7 +2305,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.658530592918396,
+    "cosine": 0.6586109241978308,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2316,7 +2316,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6512260437011719,
+    "cosine": 0.6525195229472753,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2327,29 +2327,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6336485147476196,
+    "cosine": 0.6306324403843194,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-b14f25e746ef",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-b14f25e746ef",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6518546342849731,
+    "cosine": 0.6539826220682987,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-1e53e878b4b1",
-    "category_id": "N0498",
+    "category_id": "N0061",
     "technology_id": "TD-1e53e878b4b1",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.651887834072113,
+    "cosine": 0.6525633470827684,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2360,40 +2360,40 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6429459452629089,
+    "cosine": 0.6433434634392903,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-b93e9651484a",
-    "category_id": "N0127",
+    "category_id": "N0498",
     "technology_id": "TD-b93e9651484a",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.679774284362793,
+    "cosine": 0.6807847005787822,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-d453a3ccd271",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-d453a3ccd271",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6722286939620972,
+    "cosine": 0.6722042824222625,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-9b2981df91df",
-    "category_id": "N0337",
+    "category_id": "N0310",
     "technology_id": "TD-9b2981df91df",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6979275941848755,
+    "cosine": 0.7016872371373941,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2404,7 +2404,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6305505633354187,
+    "cosine": 0.634949338066943,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2415,7 +2415,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6613841652870178,
+    "cosine": 0.6639044885085261,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2426,29 +2426,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6518272161483765,
+    "cosine": 0.6523265666438491,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-a161d7412a36",
-    "category_id": "N0255",
+    "category_id": "N0127",
     "technology_id": "TD-a161d7412a36",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6364481449127197,
+    "cosine": 0.6378592443603723,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-c5fc2da0880a",
-    "category_id": "N0127",
+    "category_id": "N0413",
     "technology_id": "TD-c5fc2da0880a",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6265530586242676,
+    "cosine": 0.6242583084494835,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2459,7 +2459,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.656250536441803,
+    "cosine": 0.6560890886984085,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2470,18 +2470,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6434299349784851,
+    "cosine": 0.6442222103359809,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-d0e5e393a30a",
-    "category_id": "N0498",
+    "category_id": "N0413",
     "technology_id": "TD-d0e5e393a30a",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6301167607307434,
+    "cosine": 0.6306849982370686,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2492,7 +2492,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6505959033966064,
+    "cosine": 0.6444115960545167,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2503,7 +2503,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6177072525024414,
+    "cosine": 0.6167318273064494,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2514,7 +2514,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6332939863204956,
+    "cosine": 0.6343560088316543,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2525,18 +2525,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6449299454689026,
+    "cosine": 0.6467365303774971,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-3c5abba2caa6",
-    "category_id": "N0096",
+    "category_id": "N0420",
     "technology_id": "TD-3c5abba2caa6",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6292465925216675,
+    "cosine": 0.6275763838730762,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2547,7 +2547,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6522170305252075,
+    "cosine": 0.6555211631528073,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2558,7 +2558,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6651896238327026,
+    "cosine": 0.6653197825095898,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2569,18 +2569,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6235339641571045,
+    "cosine": 0.6197508216842444,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-99883f0d5d03",
-    "category_id": "N0441",
+    "category_id": "N0492",
     "technology_id": "TD-99883f0d5d03",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6191486716270447,
+    "cosine": 0.6181634968670376,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2591,29 +2591,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6704763174057007,
+    "cosine": 0.6659913508207564,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-fb47a3df765b",
-    "category_id": "N0464",
+    "category_id": "N0492",
     "technology_id": "TD-fb47a3df765b",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6533386707305908,
+    "cosine": 0.6548957526026249,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-5d52406d7e29",
-    "category_id": "N0087",
+    "category_id": "N0492",
     "technology_id": "TD-5d52406d7e29",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6468173861503601,
+    "cosine": 0.6463889799445622,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2624,7 +2624,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6717641949653625,
+    "cosine": 0.6683607627468086,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2635,18 +2635,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6736283302307129,
+    "cosine": 0.6705456759553692,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-ff37efe1af0a",
-    "category_id": "N0061",
+    "category_id": "N0492",
     "technology_id": "TD-ff37efe1af0a",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6501332521438599,
+    "cosine": 0.6522923346346688,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2657,18 +2657,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6489696502685547,
+    "cosine": 0.6500065356657093,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-3a1b5457e4b4",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-3a1b5457e4b4",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6366551518440247,
+    "cosine": 0.633692087151116,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2679,29 +2679,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6458667516708374,
+    "cosine": 0.6501349800571112,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-d327fbc5121d",
-    "category_id": "N0177",
+    "category_id": "N0425",
     "technology_id": "TD-d327fbc5121d",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6002898216247559,
+    "cosine": 0.6007256552580617,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-25a2fa0e23b2",
-    "category_id": "N0334",
+    "category_id": "N0104",
     "technology_id": "TD-25a2fa0e23b2",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6298176050186157,
+    "cosine": 0.6301610421784757,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2712,7 +2712,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6706566214561462,
+    "cosine": 0.6693164696474958,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2723,7 +2723,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.621999979019165,
+    "cosine": 0.6291370206182437,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2734,7 +2734,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6289229393005371,
+    "cosine": 0.6330992613362756,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2745,18 +2745,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6248352527618408,
+    "cosine": 0.6241867302739217,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-3cc61ee0b345",
-    "category_id": "N0412",
+    "category_id": "N0492",
     "technology_id": "TD-3cc61ee0b345",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6686285734176636,
+    "cosine": 0.6683882709690344,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2767,7 +2767,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6565224528312683,
+    "cosine": 0.6583437337634234,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2778,7 +2778,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.64874267578125,
+    "cosine": 0.6537057170747081,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2789,18 +2789,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.637819230556488,
+    "cosine": 0.6404788839897536,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-2859f55d52e9",
-    "category_id": "N0087",
+    "category_id": "N0492",
     "technology_id": "TD-2859f55d52e9",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6429048180580139,
+    "cosine": 0.6395027438148251,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2811,7 +2811,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6035352945327759,
+    "cosine": 0.6023772904687092,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2822,18 +2822,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6269173622131348,
+    "cosine": 0.6273209764183171,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-fa5688bd81f7",
-    "category_id": "N0230",
+    "category_id": "N0056",
     "technology_id": "TD-fa5688bd81f7",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.608410120010376,
+    "cosine": 0.6142128613170141,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2844,7 +2844,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6340210437774658,
+    "cosine": 0.6318889331958911,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2855,7 +2855,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6194465756416321,
+    "cosine": 0.6180238796129236,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2866,29 +2866,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6389374732971191,
+    "cosine": 0.6401268920704248,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-51ac40a053f6",
-    "category_id": "N0087",
+    "category_id": "N0492",
     "technology_id": "TD-51ac40a053f6",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6244323253631592,
+    "cosine": 0.6229283447548257,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-1f753c021ab6",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-1f753c021ab6",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6318907737731934,
+    "cosine": 0.6366665217401681,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2899,7 +2899,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.65218585729599,
+    "cosine": 0.653031435950354,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2910,7 +2910,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6338450908660889,
+    "cosine": 0.6338199225775892,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2921,7 +2921,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6910637617111206,
+    "cosine": 0.6958054389148481,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2932,7 +2932,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6682871580123901,
+    "cosine": 0.6668277788046026,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2943,7 +2943,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6604984998703003,
+    "cosine": 0.6596427004277159,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2954,29 +2954,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6690223813056946,
+    "cosine": 0.6699007519518719,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-6f6bab065508",
-    "category_id": "N0005",
+    "category_id": "N0144",
     "technology_id": "TD-6f6bab065508",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6422191262245178,
+    "cosine": 0.6335596446559675,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-95f7bda4c624",
-    "category_id": "N0105",
+    "category_id": "N0492",
     "technology_id": "TD-95f7bda4c624",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6574254631996155,
+    "cosine": 0.6582822075740945,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2987,7 +2987,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6328282356262207,
+    "cosine": 0.6332799850839825,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -2998,18 +2998,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6677405834197998,
+    "cosine": 0.6678007459109936,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-e1bdd55fbc6d",
-    "category_id": "N0002",
+    "category_id": "N0492",
     "technology_id": "TD-e1bdd55fbc6d",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6531851291656494,
+    "cosine": 0.6503032484822625,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3020,7 +3020,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6671019792556763,
+    "cosine": 0.6669444416913755,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3031,7 +3031,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6633599996566772,
+    "cosine": 0.6619681143645781,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3042,18 +3042,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6691499948501587,
+    "cosine": 0.6747224123997173,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-d6eaf35fff5a",
-    "category_id": "N0127",
+    "category_id": "N0492",
     "technology_id": "TD-d6eaf35fff5a",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6659905910491943,
+    "cosine": 0.6704548359545968,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3064,29 +3064,29 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6524990797042847,
+    "cosine": 0.650966496047002,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-29064b5b3974",
-    "category_id": "N0425",
+    "category_id": "N0492",
     "technology_id": "TD-29064b5b3974",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6108923554420471,
+    "cosine": 0.6113354589509101,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-193763704d67",
-    "category_id": "N0001",
+    "category_id": "N0461",
     "technology_id": "TD-193763704d67",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6475763916969299,
+    "cosine": 0.6494040242526131,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3097,18 +3097,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6585489511489868,
+    "cosine": 0.6576043598492828,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-7a525d010ab8",
-    "category_id": "N0459",
+    "category_id": "N0004",
     "technology_id": "TD-7a525d010ab8",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.68479984998703,
+    "cosine": 0.6833705903181313,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3119,7 +3119,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6988811492919922,
+    "cosine": 0.6971754736873279,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3130,18 +3130,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6983656883239746,
+    "cosine": 0.700098509166498,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-3c1a258cdfc7",
-    "category_id": "N0386",
+    "category_id": "N0355",
     "technology_id": "TD-3c1a258cdfc7",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6647000312805176,
+    "cosine": 0.6667311168521107,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3152,7 +3152,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.683891773223877,
+    "cosine": 0.6845005898813772,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3163,7 +3163,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6652077436447144,
+    "cosine": 0.6664565645376141,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3174,7 +3174,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6558875441551208,
+    "cosine": 0.6568880525403075,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3185,7 +3185,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6963511109352112,
+    "cosine": 0.688853016717562,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3196,7 +3196,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7038278579711914,
+    "cosine": 0.7064417058452155,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3207,7 +3207,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6790390014648438,
+    "cosine": 0.6767256078091921,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3218,7 +3218,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6244910359382629,
+    "cosine": 0.6290315795145625,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3229,7 +3229,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6791018843650818,
+    "cosine": 0.679213686392997,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3240,7 +3240,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6521941423416138,
+    "cosine": 0.6528852490516067,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3251,7 +3251,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6355077624320984,
+    "cosine": 0.6363391011397364,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3262,7 +3262,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6716232299804688,
+    "cosine": 0.6715678929650024,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3273,7 +3273,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.699877917766571,
+    "cosine": 0.6978505891903778,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3284,18 +3284,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6732286214828491,
+    "cosine": 0.6716767454827248,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-dc2c9c556ad6",
-    "category_id": "N0001",
+    "category_id": "N0115",
     "technology_id": "TD-dc2c9c556ad6",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.692197322845459,
+    "cosine": 0.6864619059143995,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3306,7 +3306,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6517624855041504,
+    "cosine": 0.6430509774441053,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3317,7 +3317,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.599789023399353,
+    "cosine": 0.6016906122283237,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3328,7 +3328,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6712700128555298,
+    "cosine": 0.668509737542901,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3339,7 +3339,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6340078115463257,
+    "cosine": 0.6325487750175284,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3350,7 +3350,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6845963001251221,
+    "cosine": 0.6857256173603573,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3361,7 +3361,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6748844981193542,
+    "cosine": 0.6784663167949059,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3372,7 +3372,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.641916811466217,
+    "cosine": 0.6457242278829933,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3383,18 +3383,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6831918954849243,
+    "cosine": 0.6809388884729739,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-333f2a057420",
-    "category_id": "N0363",
+    "category_id": "N0435",
     "technology_id": "TD-333f2a057420",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6936190128326416,
+    "cosine": 0.6921027704948911,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3405,7 +3405,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.611553430557251,
+    "cosine": 0.6150444224795576,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3416,18 +3416,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6901942491531372,
+    "cosine": 0.69187373956934,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-d33289010d44",
-    "category_id": "N0033",
+    "category_id": "N0076",
     "technology_id": "TD-d33289010d44",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6710684299468994,
+    "cosine": 0.6717115589204624,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3438,18 +3438,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6310489177703857,
+    "cosine": 0.6336401290252227,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-f8df6efb53cf",
-    "category_id": "N0439",
+    "category_id": "N0076",
     "technology_id": "TD-f8df6efb53cf",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7017197608947754,
+    "cosine": 0.7046521223785283,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3460,7 +3460,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.619204580783844,
+    "cosine": 0.6181175977495517,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3471,7 +3471,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7184841632843018,
+    "cosine": 0.7172011519427988,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3482,7 +3482,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6563787460327148,
+    "cosine": 0.6570733543902421,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3493,7 +3493,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7069306969642639,
+    "cosine": 0.7060515940649783,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3504,7 +3504,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6999304294586182,
+    "cosine": 0.7019772883305863,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3515,7 +3515,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6305384635925293,
+    "cosine": 0.631085515646262,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3526,7 +3526,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7144863605499268,
+    "cosine": 0.7138454473923204,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3537,7 +3537,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7012943029403687,
+    "cosine": 0.6967581525767667,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3548,7 +3548,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6393083930015564,
+    "cosine": 0.6404570400098624,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3559,7 +3559,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.75197833776474,
+    "cosine": 0.7538290137700163,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3570,7 +3570,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6059463024139404,
+    "cosine": 0.6044729031719365,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3581,7 +3581,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6886720657348633,
+    "cosine": 0.6888282486953599,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3592,7 +3592,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6214725375175476,
+    "cosine": 0.616236000529933,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3603,7 +3603,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.702820360660553,
+    "cosine": 0.7004967866122875,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3614,7 +3614,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7238828539848328,
+    "cosine": 0.7256225945898404,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3625,7 +3625,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7013806104660034,
+    "cosine": 0.7029025343322627,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3636,7 +3636,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6411033868789673,
+    "cosine": 0.6389339058691954,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3647,7 +3647,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6645113229751587,
+    "cosine": 0.6579841341643832,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3658,7 +3658,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6486660838127136,
+    "cosine": 0.6510422552093531,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3669,7 +3669,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6909694671630859,
+    "cosine": 0.6903076298262958,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3680,18 +3680,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6566412448883057,
+    "cosine": 0.65734911971618,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-b25b4591f7b5",
-    "category_id": "N0027",
+    "category_id": "N0321",
     "technology_id": "TD-b25b4591f7b5",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6875053644180298,
+    "cosine": 0.6872865597439027,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3702,7 +3702,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6711435914039612,
+    "cosine": 0.668781322484977,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3713,7 +3713,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6362321376800537,
+    "cosine": 0.6350451925674063,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3724,7 +3724,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7061697244644165,
+    "cosine": 0.7033465745932971,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3735,18 +3735,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.622368574142456,
+    "cosine": 0.6192082989268609,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-1559dff250b2",
-    "category_id": "N0196",
+    "category_id": "N0154",
     "technology_id": "TD-1559dff250b2",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6558418273925781,
+    "cosine": 0.6531050880393834,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3757,18 +3757,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6871031522750854,
+    "cosine": 0.6866499734306176,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-4d4b75b1a587",
-    "category_id": "N0230",
+    "category_id": "N0084",
     "technology_id": "TD-4d4b75b1a587",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6728695631027222,
+    "cosine": 0.6691105377338475,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3779,7 +3779,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7168963551521301,
+    "cosine": 0.7160313095188109,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3790,7 +3790,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6676962375640869,
+    "cosine": 0.6678056548409614,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3801,7 +3801,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6294939517974854,
+    "cosine": 0.6342293320905625,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3812,7 +3812,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6604728698730469,
+    "cosine": 0.6644137480217812,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3823,7 +3823,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6450710296630859,
+    "cosine": 0.6405995645674745,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3834,7 +3834,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6601179838180542,
+    "cosine": 0.6613260030400105,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3845,7 +3845,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6989604234695435,
+    "cosine": 0.7010654032628282,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3856,7 +3856,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6585538387298584,
+    "cosine": 0.6588715213291758,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3867,7 +3867,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6724459528923035,
+    "cosine": 0.6763338035153799,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3878,7 +3878,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.63116455078125,
+    "cosine": 0.6316209614641111,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3889,7 +3889,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6297458410263062,
+    "cosine": 0.6287327488420478,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3900,7 +3900,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6172072291374207,
+    "cosine": 0.6100335678387023,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3911,7 +3911,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.652001678943634,
+    "cosine": 0.6476383620508395,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3922,7 +3922,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7020371556282043,
+    "cosine": 0.7014979098198939,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3933,7 +3933,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6430106163024902,
+    "cosine": 0.6444570099563207,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3944,7 +3944,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6854502558708191,
+    "cosine": 0.6830713786948935,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3955,7 +3955,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.690941572189331,
+    "cosine": 0.6919318395751648,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3966,7 +3966,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6901929974555969,
+    "cosine": 0.6887540511054306,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3977,7 +3977,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6290512681007385,
+    "cosine": 0.6314193499274333,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3988,7 +3988,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7211368680000305,
+    "cosine": 0.7225909080525519,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -3999,7 +3999,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6634148359298706,
+    "cosine": 0.6567139031512703,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4010,7 +4010,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6729729175567627,
+    "cosine": 0.6726410319122775,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4021,7 +4021,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6262891292572021,
+    "cosine": 0.6281587608191648,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4032,7 +4032,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.7169594764709473,
+    "cosine": 0.7175578565776493,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4043,7 +4043,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6694855093955994,
+    "cosine": 0.6700805166012664,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4054,7 +4054,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6444953680038452,
+    "cosine": 0.6448092779529114,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4065,7 +4065,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6232092380523682,
+    "cosine": 0.6210813119966532,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4076,7 +4076,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.661646842956543,
+    "cosine": 0.6664807819906539,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4087,7 +4087,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6129639148712158,
+    "cosine": 0.6137752528279834,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4098,7 +4098,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6880174875259399,
+    "cosine": 0.6899968318331623,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4109,7 +4109,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6714403033256531,
+    "cosine": 0.6715810680200838,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4120,7 +4120,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6446192264556885,
+    "cosine": 0.6476667707806805,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4131,7 +4131,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.66935795545578,
+    "cosine": 0.6719704345257439,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4142,7 +4142,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6938213109970093,
+    "cosine": 0.6936091775836775,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4153,7 +4153,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6664483547210693,
+    "cosine": 0.6697089300752489,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4164,7 +4164,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6184496879577637,
+    "cosine": 0.6192356157590982,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4175,7 +4175,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6935919523239136,
+    "cosine": 0.6930989931171484,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4186,18 +4186,18 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6931913495063782,
+    "cosine": 0.6912287690010563,
     "relabels_documents": false,
     "transfers_maturity": false
   },
   {
     "link_id": "NMF500-TD-10d06e8138ae",
-    "category_id": "N0276",
+    "category_id": "N0061",
     "technology_id": "TD-10d06e8138ae",
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6685201525688171,
+    "cosine": 0.6730495824451166,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4208,7 +4208,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6708497405052185,
+    "cosine": 0.6727798395165372,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4219,7 +4219,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6765369176864624,
+    "cosine": 0.6716620100011432,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4230,7 +4230,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6714161038398743,
+    "cosine": 0.6711772375900084,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4241,7 +4241,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6643473505973816,
+    "cosine": 0.664028723692839,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4252,7 +4252,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6658369898796082,
+    "cosine": 0.6661790506083252,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4263,7 +4263,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6534816026687622,
+    "cosine": 0.6564100573791369,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4274,7 +4274,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6815447211265564,
+    "cosine": 0.6835474559400557,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4285,7 +4285,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6305531859397888,
+    "cosine": 0.6299736340142664,
     "relabels_documents": false,
     "transfers_maturity": false
   },
@@ -4296,7 +4296,7 @@
     "relation": "retrieval_candidate_direction_in_theme",
     "mapping_status": "automatic_candidate_needs_semantic_review",
     "basis": "BGE-M3 direction context cosine to NMF paper centroid; pending semantic verification",
-    "cosine": 0.6949940323829651,
+    "cosine": 0.7010138496513243,
     "relabels_documents": false,
     "transfers_maturity": false
   }

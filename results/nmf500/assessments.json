@@ -497,8 +497,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "9e6f5d53d86e5795ecc13d0ff30c8524690cb2aea0d5cfb9a5952fc3a8501a8e",
-    "profile_sha256": "ed452f141510375b308530cb9583bfd1fc32c966f7fb7636fca5048f96b16433"
+    "review_sha256": "cea44a809add97845581028007d349a238d117ef247cf93d90fd1b638c98f38e",
+    "profile_sha256": "ed452f141510375b308530cb9583bfd1fc32c966f7fb7636fca5048f96b16433",
+    "scope_sha256": "277fdd7ca670aaea722cbb2be40a248d3ef49ac2ecb65d363f60451e10cce5e5",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0493-B01",
@@ -1005,8 +1009,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "6afbd8069c99c0eb41854c58c6e4adc0b60fcc0fa18c6e695289512c2ccb0089",
-    "profile_sha256": "f77be2c76086cae1566e0a8edbdff58fdbc91ab034991ca8b55524ae587911a8"
+    "review_sha256": "ca938542deaa1d01043f0948fc7f9b7b7bc6dca6d527a7fc6dffa6eee25cfd8e",
+    "profile_sha256": "f77be2c76086cae1566e0a8edbdff58fdbc91ab034991ca8b55524ae587911a8",
+    "scope_sha256": "4e0893073ef2ab1b68f67a8c8f43930678083aa0e96fe95cbdbc6527edbacbc9",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0060-B01",
@@ -1511,8 +1519,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "709230dc64b87831ebbd90b26d5bcb6d0bb9712f6405a7bd4993a3567dc0c103",
-    "profile_sha256": "1679f62564b7ea3ef38894ef3162c3b6e1a13007126876849eef76eb4f663b40"
+    "review_sha256": "3105de6dcaebe387854ca185f0a9f07bad95be3a05d82c3774a8abcd5d8bf709",
+    "profile_sha256": "1679f62564b7ea3ef38894ef3162c3b6e1a13007126876849eef76eb4f663b40",
+    "scope_sha256": "103806568ea9a1d356e7ce0f013c725d76a11133e2d783df8980f83364be2b80",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0067-B01",
@@ -2012,8 +2024,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "15f26b6bf05cafad759b36b85335929c818f3d551b37db437f7ddf72877d267e",
-    "profile_sha256": "d30772634c0112d4e9a3aeb125826cf19609c23697edc5b5c04bbf188ec37fd7"
+    "review_sha256": "06bc08890d44b8d337c3055dad09d68e49d8ff1c15d58562d2bf0bce35b8a423",
+    "profile_sha256": "d30772634c0112d4e9a3aeb125826cf19609c23697edc5b5c04bbf188ec37fd7",
+    "scope_sha256": "54b0c20a66a82e996eb79a5a79cdd985588177043b0425443d79b772c879016a",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0091-B01",
@@ -2520,8 +2536,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "3e16e80ba9812468d3c8e8950d5d5a6fc04bf5ab658536d03b8045b81dd262c4",
-    "profile_sha256": "af5fd2f1180d8f84ed94e966e23c45ced2e412e44a448f0dde9f7650cd240bd4"
+    "review_sha256": "0451dc208b2d7eb15db550a058902b0bc85a406f7ded4e2449a98b8e832bbd87",
+    "profile_sha256": "af5fd2f1180d8f84ed94e966e23c45ced2e412e44a448f0dde9f7650cd240bd4",
+    "scope_sha256": "c09c2a1cf77a437e7da81fc34db9664340fddef8d602979509d7d6725def68ad",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0098-B01",
@@ -3028,8 +3048,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "61193fc615b98b5d907449630acae4c154436a8844e1d87342f93519302e3727",
-    "profile_sha256": "d3c1599868732c967ef4e1957bb3fe5db1a018e9f5e62be35f227e17a6dfa5cb"
+    "review_sha256": "ba04298bc10f1214af853aa03663a547a868b219871e7e42265e1016eb97d754",
+    "profile_sha256": "d3c1599868732c967ef4e1957bb3fe5db1a018e9f5e62be35f227e17a6dfa5cb",
+    "scope_sha256": "085d365e1488c8f4be12cb61c77daba26ac48ca5b8d319853f4a0919ba77ebc0",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0122-B01",
@@ -3534,8 +3558,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "3948db916127d618441ac4b9557656cac49e56f6d08ff709d3c7843d58703708",
-    "profile_sha256": "04db94f3d6bba34fc0e8eecb96eed9e75aa00a3a09eacf2948cd20865396b5ad"
+    "review_sha256": "ba8aa0f25e9d0c1ca084673eb34e005a640aeb5a53db9a7dfeee64f3efd5d35e",
+    "profile_sha256": "04db94f3d6bba34fc0e8eecb96eed9e75aa00a3a09eacf2948cd20865396b5ad",
+    "scope_sha256": "feee0e41b3e64fdb0638b91ca32928388c1e7db174a08f6431ae365d1f55a43a",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0124-B01",
@@ -4031,8 +4059,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "99d6e217f51460032925b81b8d66900ac64211dfce9ad4c823eb86dc37332786",
-    "profile_sha256": "3f3e9d39d304dbcb1fc9eb6fe5018849d016b4c5f541d4d12387f13edd8ad6f4"
+    "review_sha256": "a983c8416900965b572697cadfa884445d133697f15eaa2ed80b2fa9d4bfd45c",
+    "profile_sha256": "3f3e9d39d304dbcb1fc9eb6fe5018849d016b4c5f541d4d12387f13edd8ad6f4",
+    "scope_sha256": "89378a9d67212ec0b172e691bfd25bf08760e7d9c77bafb9f37e6b09a4ee5aaf",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0155-B01",
@@ -4539,8 +4571,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e1d6c1e6ef2dc9c0bf5852253631f65d76c7d0a97e4d264e87ec6acfb9c90506",
-    "profile_sha256": "058ce9b4812a6aeb56399c9ddf43b5408e4ee3fd0675156bc6125345337a1e74"
+    "review_sha256": "0358b1b1659dd0f387b27fdb4c6f76ad3e063eacf0624afd8d991cf068dbc4fd",
+    "profile_sha256": "058ce9b4812a6aeb56399c9ddf43b5408e4ee3fd0675156bc6125345337a1e74",
+    "scope_sha256": "ec9bc4e866f1f50ac8c6d44b71d2c4ea0fd5a7798be51ec6a46f40ebdab0f867",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0593-B01",
@@ -5040,8 +5076,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "1eaf6bebb19b4db47c71cba502a9355e025851b367a4ed1c8f4fe98c6eba4580",
-    "profile_sha256": "6b046f90a472fea9a25ca618b3e1b43e904fcd230fd08e99f7c3ba507426a6ff"
+    "review_sha256": "66162b547108e1dceb2fae5279bab297d25eb93f89ad4af10eacc13b189a5fa4",
+    "profile_sha256": "6b046f90a472fea9a25ca618b3e1b43e904fcd230fd08e99f7c3ba507426a6ff",
+    "scope_sha256": "bc48318122af92bc7bb568074a848265164101c45afc4b3baafd66d1bb6a9571",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0186-B01",
@@ -5541,8 +5581,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "31a339c5a4d19a00fdb06d8628246ae2f6451e66a006869257d8c67e27cd793d",
-    "profile_sha256": "4c6dc3784f58cf55d91407f09903782d6ec8480a5307dc1c90d5a87f82710bd5"
+    "review_sha256": "9d0d0e879ce0bae031fe73099e8582060c3260b44414d6786525f87a43020ca9",
+    "profile_sha256": "4c6dc3784f58cf55d91407f09903782d6ec8480a5307dc1c90d5a87f82710bd5",
+    "scope_sha256": "e519271c74a4e91fc6422b66e730b8cef5a80b4faa15ac6043d610bc27c824f8",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0191-B01",
@@ -6044,8 +6088,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "99bc8182cf1d7cfebb94ed061fd3db74cf343fda39c340c99b45cb5c255d6607",
-    "profile_sha256": "ab860c20b26a2e6c9c3fbc000c88a7c2962b5a7b53eb660544fdcae84b8c1727"
+    "review_sha256": "596ed4fad978c9ba45b862229b85f5318c0236e3e521cdc62b30d44a3459784f",
+    "profile_sha256": "ab860c20b26a2e6c9c3fbc000c88a7c2962b5a7b53eb660544fdcae84b8c1727",
+    "scope_sha256": "ba2efcc477e5fe1417d40629083d2672d6462eaa47dee0b2a4098cf08c271e9b",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0210-B01",
@@ -6550,8 +6598,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "480822a8e52a8482a20aded6a91152042bac5d9fdfc44aa369a3d306cdf6dfff",
-    "profile_sha256": "c6948f105b950b3347d784353055a0847423b323869522b5751ea95472775c7a"
+    "review_sha256": "9ba7b94a7f413f2e2c2a3133229ec591a125eadb8e6922fc6d47d99888bd21d2",
+    "profile_sha256": "c6948f105b950b3347d784353055a0847423b323869522b5751ea95472775c7a",
+    "scope_sha256": "44b544d8bf9f0288b4a57417eb39a32f044d6c6fd67698d192cdddfe6ebb8a15",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0216-B01",
@@ -7058,8 +7110,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "9823ec554f9322be0a7a7cfb69cfae84907909e2c64f5a9f207f9dc5a733cb83",
-    "profile_sha256": "664ec4023af80312cb20e9a037577182984e72be04dc295826f5153d1c0cdc66"
+    "review_sha256": "02d76f3c2402ee52a65f058aae256dba328205c323af8df93bb4f67017cfee85",
+    "profile_sha256": "664ec4023af80312cb20e9a037577182984e72be04dc295826f5153d1c0cdc66",
+    "scope_sha256": "6b1bed1180114b2a3f6749a6539168c4d1ee8898f9de7e84a3594b440d0344b5",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0221-B01",
@@ -7559,8 +7615,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "1fe88974c1ef7a6c55bb79c134f5bae2b81d643be04b53585336141003b7fd52",
-    "profile_sha256": "a90d002ee935bd742ddbaab3ae57ad3150a3b4dd99bb74bdae7d1fcf052c1a26"
+    "review_sha256": "77666199bb0527c70c2fef3e95dfdc140a22b3d441f20dcd46eb338f0d73594d",
+    "profile_sha256": "a90d002ee935bd742ddbaab3ae57ad3150a3b4dd99bb74bdae7d1fcf052c1a26",
+    "scope_sha256": "48d21c80ec029bb7cb598af0fed15c8da5bb02b6b6ae4b0141b0ecfe3cba47dd",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0246-B01",
@@ -8068,8 +8128,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "0e1c0c3955154f5aef60e7981dcebc3e1889c1b84b6d6edc147a1e82d7c95ded",
-    "profile_sha256": "ff7c3a34759d6839fd58cb97387e221ea35f32f6b0ddf225bc211c564dab5c2f"
+    "review_sha256": "4b4a2593134350634918a3e6f89fa9d5567d8d9793e8df971c0aea1ebd2ebdc1",
+    "profile_sha256": "ff7c3a34759d6839fd58cb97387e221ea35f32f6b0ddf225bc211c564dab5c2f",
+    "scope_sha256": "87968a738e3136609c4ab9ca5235df8fb78cf257365c1757135872b3cedeaa6e",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0251-B01",
@@ -8574,8 +8638,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "49d49f3ed00ad5fcd924351843786a202b5152d0355112dfc759b6c026c25225",
-    "profile_sha256": "a6843ab43b9f309105b75155820194ba590001353860fae8f6076548097439ba"
+    "review_sha256": "4d3cdf2df9f071708b8934138a0ddf14265e50d54af544660ce60d6c0963e241",
+    "profile_sha256": "a6843ab43b9f309105b75155820194ba590001353860fae8f6076548097439ba",
+    "scope_sha256": "6782098fba9a88757637a42b4a966c59deac1fee298c8bc8351a9e64346569ce",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0254-B01",
@@ -9082,8 +9150,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "67c00b18c2c61939d779ee6c1ce8b4d32d8cd8cc37e28222956398a757fdee28",
-    "profile_sha256": "8fa78173b0e3175c7e2b9b2faa1ac39df0dd0f29deeec2c3078f3cb077822c1e"
+    "review_sha256": "4560b44a9c76b3f8184c217b07c926a430a2535370b14722d959954807f84be2",
+    "profile_sha256": "8fa78173b0e3175c7e2b9b2faa1ac39df0dd0f29deeec2c3078f3cb077822c1e",
+    "scope_sha256": "02d9c2849541ed7b832bd0b074b54ba8cd87bc74b68b057ad37357d8ad3fcfaf",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0518-B01",
@@ -9590,8 +9662,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e29309bf78f7a92422027c5729a7d57e1292db50f86e2842929e8cddd614cb83",
-    "profile_sha256": "88b927d0c11029346ab5fa5526f3798e4b4e9f7d07d7f41bf4d8cc1b53de8faa"
+    "review_sha256": "5feee43a283c6b39cb1147322685eaaace67eafa5f6c157e90f6a44e8af59f41",
+    "profile_sha256": "88b927d0c11029346ab5fa5526f3798e4b4e9f7d07d7f41bf4d8cc1b53de8faa",
+    "scope_sha256": "794ba205fcaf07296442a600a25dc5612a5824106659cdb985c8a69ea0372ba0",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0278-B01",
@@ -10096,8 +10172,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "f99e6d1ac4b794f2067a165b0ccaca6a3a84b0417cf880a9de599acc9dd3365d",
-    "profile_sha256": "3957bed93c4fa90346236d4991fecd1cc08af6fe4b75f8f61fed36558e6dd1a6"
+    "review_sha256": "bcf53836c996fbb81200b2bd72a7b95d73344b3de6233492fa648353cc90a4ac",
+    "profile_sha256": "3957bed93c4fa90346236d4991fecd1cc08af6fe4b75f8f61fed36558e6dd1a6",
+    "scope_sha256": "fe5a4bdc6a10e9e1a56af6f85c52fc84baf4c1d8c075e7e784fe5f869d03556d",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0294-B01",
@@ -10604,8 +10684,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "59a28400e22dbc2c3370ab33ef4c676a4c5a6eae3b0f24333c1e79c069807c02",
-    "profile_sha256": "e2cd9555618ae3cbbd07e10c8e2a4290f38ab53da074593b0411db43fe2570fa"
+    "review_sha256": "025ce55b07a9039e84e529eb9c8d3a268779a7bef7f6f039069d3d24d1d1447e",
+    "profile_sha256": "e2cd9555618ae3cbbd07e10c8e2a4290f38ab53da074593b0411db43fe2570fa",
+    "scope_sha256": "e393b787413f46658a72e8d111fa759fc0c34d4ff223397d561050e4dffcdef4",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0684-B01",
@@ -11105,8 +11189,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "f5e05a7ed337d4741fbd25f6765b056bd3a7d619fe3b0510c0236d61a7a61b0f",
-    "profile_sha256": "ecb829085b1fdaaeaedc17208ac6cdec159927ff1ebb1a1b152a149e52e08f62"
+    "review_sha256": "cef37e0ed9c62a430131c7ff7d6a1beccb5f05c035636159c22072457921b5c1",
+    "profile_sha256": "ecb829085b1fdaaeaedc17208ac6cdec159927ff1ebb1a1b152a149e52e08f62",
+    "scope_sha256": "d2902dde089fd33680a94facf29d1bce10effde0056e1563540b5ed354feb5af",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0356-B01",
@@ -11602,8 +11690,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "53796b40fb5997807b718c232add21e13568177908471703af1279a27f4dd026",
-    "profile_sha256": "ce4513d353bf15134ef193fd2c3cb281752b6961969890a32dd9ea8fa651e1b1"
+    "review_sha256": "84dac403cb9376ba62e831a2a68e11af16e948337d79a82ce4e015e570a58bd9",
+    "profile_sha256": "ce4513d353bf15134ef193fd2c3cb281752b6961969890a32dd9ea8fa651e1b1",
+    "scope_sha256": "9dc933cb517e98e4496670d55ca5c725ac6b79e1f2d6c80c17e416f576ad1c48",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0435-B01",
@@ -12118,8 +12210,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "7954fc5d6e20ae95a85d9f3ae7db3613200e9696c3b956d841ed81c83cbe5992",
-    "profile_sha256": "d561760b41ec5f683f9058ba8696d2f9df6236c4c8f6563efa5e2296b3ca9985"
+    "review_sha256": "1a0d05e9a25c5786b384662825f405305e721d4ad3ff4e68aeae1933df1dfad9",
+    "profile_sha256": "d561760b41ec5f683f9058ba8696d2f9df6236c4c8f6563efa5e2296b3ca9985",
+    "scope_sha256": "a8b327a16b6dc5d3cbcb237e052f1ce07205d224f59ed4f7317359bcea66fd36",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0443-B01",
@@ -12619,8 +12715,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "45d23481175ba819907bc85f3787418263dc0b8d945ad9970555b8aadbfd4210",
-    "profile_sha256": "4fdd79c2110bd5634ee11873066a8bb57e2d5a4c420f42f094561cb25fb8bea3"
+    "review_sha256": "dd66919d25847953427f875e89d87b1251b1484e8918c350fb96d277425a6c2d",
+    "profile_sha256": "4fdd79c2110bd5634ee11873066a8bb57e2d5a4c420f42f094561cb25fb8bea3",
+    "scope_sha256": "b17436a400bb0d7ee1a87747fb12a308325e444ef47bcbc585c59845ed691258",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0191-B02",
@@ -13128,8 +13228,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "d7247d951595b704f73dd752eff6c7ccbe1ed92a35adb1e820cb56d21c21e71b",
-    "profile_sha256": "d9a7c479ceb496b3bd2271cb139c0ac2036d08125b0835740da0cb4932389fa6"
+    "review_sha256": "800460f9c601505ad0fbc2f388883f721ba2b5375f8ab067f03546c4b21d51e5",
+    "profile_sha256": "d9a7c479ceb496b3bd2271cb139c0ac2036d08125b0835740da0cb4932389fa6",
+    "scope_sha256": "ab14e1dba2a75c530fc34c76fbd5aa958e5083442db974cfda0b1d631c19d1dd",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0665-B01",
@@ -13639,8 +13743,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "c0e05674092c9f89d173bf8de10aa17f81ed97a9a5bd1acb062c1ab6ae4714c6",
-    "profile_sha256": "6121999e2c98779a370c69232b446e5658d2e0246b50bb743ee795b295df4ba7"
+    "review_sha256": "763e4b3466dd3a6492e3c94784c56897ad0fbdc91968b2ed4d7f2a8aa6d7e3d7",
+    "profile_sha256": "6121999e2c98779a370c69232b446e5658d2e0246b50bb743ee795b295df4ba7",
+    "scope_sha256": "f654c7a6e6a7124175c010d253098355e69af037cdc6b3f4b2545124df08fa16",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0098-B02",
@@ -14148,8 +14256,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "934a7eb08040f04e235feccbff97b684efa1d06868f5b033ed3da2d15cb1f756",
-    "profile_sha256": "e3507e62eb410929f52b8f0c906f8937920f9815db4fcfaea532209c4dd0ac7f"
+    "review_sha256": "62317b66081f00a77b30ada6e4104c0ff788b32f96f4ad12b8aac51e122a2295",
+    "profile_sha256": "e3507e62eb410929f52b8f0c906f8937920f9815db4fcfaea532209c4dd0ac7f",
+    "scope_sha256": "3db9a81926af402c6871aa7ebac7575fe0f646bd69f1f2f41b60f469127764e0",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0509-B01",
@@ -14657,8 +14769,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "be77e64eb285150036ac275d95a64dd9532dd1a05d6f03e7e03db8d44ba0e2e1",
-    "profile_sha256": "133d1b0e74b611a7d35da19d3d7cd9e2f3d368af56aab4a4dbae530947f0371d"
+    "review_sha256": "a8a8562e6cc04a1b6ab314131c17c183bebc4bd306ef7e3473c8afd538545d15",
+    "profile_sha256": "133d1b0e74b611a7d35da19d3d7cd9e2f3d368af56aab4a4dbae530947f0371d",
+    "scope_sha256": "a764a75b0a08d1d51537785125621ca05735c710399c3d0f265c5e82eb49ce38",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0246-B02",
@@ -15154,8 +15270,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "d4e72ba2aedb791b0cd742784e926fbbccc6eb7c99b1e30801af24e62c2b6283",
-    "profile_sha256": "141ad6a57b0984f6dc1df233abed865eacf240e7e9975bdbabaec4054c157839"
+    "review_sha256": "f05c0fdf4db3978922b235ae86e7459d1eb4a0e0660634ddda143e3e5fd9735f",
+    "profile_sha256": "141ad6a57b0984f6dc1df233abed865eacf240e7e9975bdbabaec4054c157839",
+    "scope_sha256": "693ecee9b17df5e7ac8a3b9e44e9ecf38c5c8071963c57d04ef2393d50d22b11",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0356-B02",
@@ -15651,8 +15771,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "8918518d72819d85d5e039550b68500ff5c17eca8c403b0d14e7be2b6ecfc9ef",
-    "profile_sha256": "9a23ac925fd8b177e9a4dc901bcca754d815bc130d46dd4ff25227602298d230"
+    "review_sha256": "24537e8eabdb4105c6021891ce9ef7d82d018c192d095017953e5c42f79b46d0",
+    "profile_sha256": "9a23ac925fd8b177e9a4dc901bcca754d815bc130d46dd4ff25227602298d230",
+    "scope_sha256": "b76851c0543b470e2f116cf3b96c35483a4b2d9ef988edc36d307d8647129865",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0124-B02",
@@ -16148,8 +16272,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "dedc36c25161b87f1ff395e1abb96c48143ffe37a3a3c45f5215be26d82a4422",
-    "profile_sha256": "332af0ccfe8ebccbda019c5ad5f8cd3b6be3d6caddd020c194f44388e7813b8d"
+    "review_sha256": "e492555b05cc25e61931541936589c4a49589dad003a25500c9a138fff38a3b8",
+    "profile_sha256": "332af0ccfe8ebccbda019c5ad5f8cd3b6be3d6caddd020c194f44388e7813b8d",
+    "scope_sha256": "c143544860e483af4ae718f2159e0f7fa3bce8fb323109439c709e19825aa462",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0487-N01",
@@ -16649,8 +16777,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "f8a59ba98b2b870158dffdbc9be7a05c4c50d85e9479d08ff83c08d26c28c197",
-    "profile_sha256": "533ac14c6774d98f58bf7bd66a9acee81a9956a3b49912d60be304f82fcf60b6"
+    "review_sha256": "cfb1aebac1b7364ea39874d636571c63c0238ac7d0c1c802affe5f7eed65f833",
+    "profile_sha256": "533ac14c6774d98f58bf7bd66a9acee81a9956a3b49912d60be304f82fcf60b6",
+    "scope_sha256": "cbdc878a0be34b3e839c3f9dbd945acabe1222430869608605bf422d6e0f991e",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0490-N01",
@@ -17150,8 +17282,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "bba5206945c35688b1c2f1255a84f9febaba7ad02b9cd76801e3d289fc3708c0",
-    "profile_sha256": "2f95a5560e3703d7e88b77fe76effd10219f98777bff0e2c3d38d4ed847ad5e7"
+    "review_sha256": "aa43033453c52f5c737da85df87766cac7f5cb70af84df8c23fb22ac5926d853",
+    "profile_sha256": "2f95a5560e3703d7e88b77fe76effd10219f98777bff0e2c3d38d4ed847ad5e7",
+    "scope_sha256": "f1089c9abdf03edbec23eca45b70daf419094c24558ebd7366a81d4d3ee2da05",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0491-N01",
@@ -17651,8 +17787,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "907e15add58a3b2725a9409bca2769b6b87c967bc402382ee374fc23a1369683",
-    "profile_sha256": "2d180afc41e211f45716ed0c27d5645eef1f3f6dc108d46b308a6b02498a8537"
+    "review_sha256": "29019c200afb683a4c475b06da73d9c2855c895e41aa94315e7738521d9c9131",
+    "profile_sha256": "2d180afc41e211f45716ed0c27d5645eef1f3f6dc108d46b308a6b02498a8537",
+    "scope_sha256": "1064d60494aa9566ccd8cffd5b688835a08c910fd9129ec13f736e17c024f2ec",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0492-N01",
@@ -18152,8 +18292,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "61e4b276bbd85253e632ecf97023ddfd6bf067bf3d8cb2eaabd615db3abf6d27",
-    "profile_sha256": "ea2e8acf33f3cfa56207698631e92c8fc2f85898d30e7f72fafb7a792f875c18"
+    "review_sha256": "bb077d0c82bacdb6215a88d00414a950fa2f73a3e4d616c0ce24d961f0e0470b",
+    "profile_sha256": "ea2e8acf33f3cfa56207698631e92c8fc2f85898d30e7f72fafb7a792f875c18",
+    "scope_sha256": "c11afad548609e1961e4e519a9bf08fc51fb660fcf13a0580b00be6d204feab0",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0494-N01",
@@ -18653,8 +18797,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "439dc2b2e3886725a72a411896154ca7355838bed8cec101b6b90d4aa61ab8f8",
-    "profile_sha256": "76ef94827c021ffe22eab634eb57773fc7f375e4738d845255abe60716675bed"
+    "review_sha256": "9723874ab91621b2e25ae052321b4d75d154d461ecb4f0f76d3c0e6858bffb7b",
+    "profile_sha256": "76ef94827c021ffe22eab634eb57773fc7f375e4738d845255abe60716675bed",
+    "scope_sha256": "bded4e93a2b359683a5d736b21848b3ea5350bf3f8601850fe6381e9efc1f04a",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0495-N01",
@@ -19154,8 +19302,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "c9c2b0632b6b573a18f945cca2c23c72cd146685703c91f921d622639d6f29cd",
-    "profile_sha256": "12c7efeca109dafa2d55da7bc37b5cb9a8d37c1e1554178e97576ce277f19a0d"
+    "review_sha256": "b675beb64467d874d01afad41d6b83e456574df77349cb36eb1144652d455709",
+    "profile_sha256": "12c7efeca109dafa2d55da7bc37b5cb9a8d37c1e1554178e97576ce277f19a0d",
+    "scope_sha256": "964144927587ffea45a07e28d7923d7e1b1f651737d86e9b3b1ddaa439aaa943",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0497-N01",
@@ -19655,8 +19807,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "4039229eb66580a2b1bde21a38852f5c5547439fe13656d2c8c77105996716b5",
-    "profile_sha256": "315b9589d3f44fd90a4e4e17ada2c75e9fe09820676d9b3677c1f2328b3005a7"
+    "review_sha256": "ff4a358243602210cc8f967142465eb609ae3d9c53597d70055e928a777fe7be",
+    "profile_sha256": "315b9589d3f44fd90a4e4e17ada2c75e9fe09820676d9b3677c1f2328b3005a7",
+    "scope_sha256": "2a2b4bca02d6af8224b82b760fa090566f6cab5b1246fd5ee0d20f39431ea8c5",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0499-N01",
@@ -20156,8 +20312,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "a2a1a8081ea123457230f977a6d3a083d5301daf9e85d68a3c5d6f6751b4f87a",
-    "profile_sha256": "5f93dac624c29dc8306a1dde7c1db7a76638bc47d202109d11a31d7b2ff06ab5"
+    "review_sha256": "0bfc1a3e5bc3ea8d69750af1b588229a6dcca4ef97cabb7fbebe91a9f907b78c",
+    "profile_sha256": "5f93dac624c29dc8306a1dde7c1db7a76638bc47d202109d11a31d7b2ff06ab5",
+    "scope_sha256": "16843cf0feaca310c2a6565934d3190746002deac92f9dd82c0ca56a3ed4149e",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0500-N01",
@@ -20657,8 +20817,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "6eb8aaca791dcaf3a996fef6ca0e0ba57c0a50fbb99dd6258128a88337de5ebc",
-    "profile_sha256": "c9c011cdaca0155320055ccef6f6f58a16dbbb1332f6c20167e614898143625b"
+    "review_sha256": "d0ee2b69b1dfb228098a72db0952cfb301cefa39c47216fc8960361c1501d519",
+    "profile_sha256": "c9c011cdaca0155320055ccef6f6f58a16dbbb1332f6c20167e614898143625b",
+    "scope_sha256": "cff18d3c7336fa5e26f9a04f1cab714f78435fd8ef8eb27c636149a876779e2e",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0501-N01",
@@ -21158,8 +21322,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "4503c2371af99c4094cce2aa160fab28d2b25d8179e94b3020e855e9ff17b9a8",
-    "profile_sha256": "ed19d55d2e9bf8cde3dfa637b24cf9addea8fc39fcea773555d8549d1c8a941b"
+    "review_sha256": "1fbc2a94d1efd4997e6f32ba696ad4b8e87a0b91217812d016d60259e54737df",
+    "profile_sha256": "ed19d55d2e9bf8cde3dfa637b24cf9addea8fc39fcea773555d8549d1c8a941b",
+    "scope_sha256": "acd853134302164c7236dc6593bf1c00f09fef65023f16fcbbd5e429a5941bf8",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0502-N01",
@@ -21659,8 +21827,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "3f0c26ea32c392596e283a53ddf378523995444ef11900648ae38783a3bb9bd3",
-    "profile_sha256": "6635e9d5cb225ea97880c2f1c3eff66c55503e46661a618fd56347aba02850de"
+    "review_sha256": "24f556d532cc61c55996e708d8016e2f800f21900e03f0cdaa872a5eac766b36",
+    "profile_sha256": "6635e9d5cb225ea97880c2f1c3eff66c55503e46661a618fd56347aba02850de",
+    "scope_sha256": "1764f72fb557d75daf46b9e07fb347a47874ac1add08cdde823127212aaad9ea",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0504-N01",
@@ -22160,8 +22332,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "7a1e3f6d033ea6f913554c6c27eabe01a1c84a4d72b17536e2481b86fcd2333d",
-    "profile_sha256": "49e77400cd047d23b9fe70b04c8af8a5353459188c49682a9f36b4352dba2a97"
+    "review_sha256": "e8a3dc3424a4b2ee4109a67efe9d3fb610d0ece03c4dffbac631bcb84d5c87ad",
+    "profile_sha256": "49e77400cd047d23b9fe70b04c8af8a5353459188c49682a9f36b4352dba2a97",
+    "scope_sha256": "d5a10cd0d3e216fa010198fff9c4ae8b935b7b988a6016d50764b7627020e995",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0507-N01",
@@ -22661,8 +22837,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "47411a8542534db9b090679153488de9835aa82ce2fb8d87e12e20df94e216c2",
-    "profile_sha256": "c3a9d83cf0ae3285223cd29a4f73862e3efe5764585c316be9d233083cd5281e"
+    "review_sha256": "626038f33d4ef8bddad3425443a7eef914f5be9ab48dd1048162817058ad1aae",
+    "profile_sha256": "c3a9d83cf0ae3285223cd29a4f73862e3efe5764585c316be9d233083cd5281e",
+    "scope_sha256": "dd02cfcb507868f49b36b3ce072434abf915b45a6d62c514d7b3095040815dab",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0510-N01",
@@ -23162,8 +23342,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e7bff4ba24b91d975120e36e2d1861492b1e34362ce19406af117a8724d2e798",
-    "profile_sha256": "621ec7db277c49e23c06ee05a89b43b38d326d4d7a2af939a4d07e8d422b74bc"
+    "review_sha256": "5b9b2cc915627edb079390ccf6efbb2728a6b30ac46948bc4b74b5d796b6bb27",
+    "profile_sha256": "621ec7db277c49e23c06ee05a89b43b38d326d4d7a2af939a4d07e8d422b74bc",
+    "scope_sha256": "84d2c04f0c767a6a13f45d33acc79f8772f68a4b830aa060fa30d7e2451968a2",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0512-N01",
@@ -23663,8 +23847,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "b65888e888f56ef2cc38575c4a84a7332f9a45bcbae69690ded278a5c3246442",
-    "profile_sha256": "a0b7d80a500492580d2f2bc9f18cd766b9a20879c1bce336b3d1193a4b82645e"
+    "review_sha256": "b3a0e319aed73494a9b75a7d556058f3828621a0d40136a0bebe78de6fc26dd1",
+    "profile_sha256": "a0b7d80a500492580d2f2bc9f18cd766b9a20879c1bce336b3d1193a4b82645e",
+    "scope_sha256": "8650f4f83f2a519992f0783ff59d962aab78224006838d365fd7fbd7df2e5652",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0513-N01",
@@ -24164,8 +24352,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "78a0f0dbdaaeffb2c07d5ad3b1e13d990aedb157d0454f049c6d8956bd9709a0",
-    "profile_sha256": "6da8b1cf20868add66052b5a675e69dd144efc3fd58ae74a951da1d5fb6ed4f4"
+    "review_sha256": "c04e731ad832e222fc54138c3162ca40c7b8eeb187b49f0ba68132a8d5cfb0c5",
+    "profile_sha256": "6da8b1cf20868add66052b5a675e69dd144efc3fd58ae74a951da1d5fb6ed4f4",
+    "scope_sha256": "3870593d5e5c76e699e0d8367b8f84d573e297fe9a480f3838743ce1739b0343",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0514-N01",
@@ -24665,8 +24857,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "a17aa4473229ffdd48eae2621e2bf58eb4c337b91fe10af710be04082e4430ae",
-    "profile_sha256": "19598d790dfbf0677d3aacba3356c63b93b65cb36ec7aa9b042c853578e170a3"
+    "review_sha256": "e8356dfb6321fe79d9fa7fe43984623e661566525044b28fbc3288a80580c00a",
+    "profile_sha256": "19598d790dfbf0677d3aacba3356c63b93b65cb36ec7aa9b042c853578e170a3",
+    "scope_sha256": "f3f6ecad690bb239553f9f94e447823e2449ec63507b38f22119b3ea8ee66cfb",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0515-N01",
@@ -25166,8 +25362,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e5a502bdbf79928cd2936400d19bab00900cbfe9ddfda4a13d95ce42f4833bef",
-    "profile_sha256": "3a98f0b7726174bcd5d670ae1f79fd3bedc584d0e2eb488ef2c1e72828cb9d97"
+    "review_sha256": "7ee4bd74b179590d9ea64bad4f32d02818b4350b3898725886646135589b5e82",
+    "profile_sha256": "3a98f0b7726174bcd5d670ae1f79fd3bedc584d0e2eb488ef2c1e72828cb9d97",
+    "scope_sha256": "01475b3e33482af5df12f1071ac8490b166f531ee0588f7dca10f55e81be78b5",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0517-N01",
@@ -25667,8 +25867,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e57ea0917279fedf35e80bcdb5aa2d1f29c16372d967187ed0772a2ef91cad03",
-    "profile_sha256": "9ceee586d21680f9b9ffc2280e070ffa98416580c4ddcea4d16750394a6f26d8"
+    "review_sha256": "4296591006a5cdb54269ff6eb1cb512f660eeaac2bd0bfd6ef8f91783e237ba7",
+    "profile_sha256": "9ceee586d21680f9b9ffc2280e070ffa98416580c4ddcea4d16750394a6f26d8",
+    "scope_sha256": "07c8e1da6c2557acef86aa2c8e50835dc3157121f3b4d2be6e42237dfd2ccd63",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0519-N01",
@@ -26168,8 +26372,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "132b41d83dcc6ffcc6aeac8c10f00b837e206508fcbacec2ca6a0e8aae79c141",
-    "profile_sha256": "0e5b9eaf9202e89474cbe5dc103a8ebcc063ee7774447d68abfcebd21a496764"
+    "review_sha256": "a6f3d9e87868951487193b6445ce825d043e022a963b0d09b6d72f0b618b97d7",
+    "profile_sha256": "0e5b9eaf9202e89474cbe5dc103a8ebcc063ee7774447d68abfcebd21a496764",
+    "scope_sha256": "002a85ecc1213a517a2712e165e6b9010d28f024e0cc1c683b5522da80af7ea2",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0520-N01",
@@ -26665,8 +26873,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "528f2db14a1064ed1715413647ccee06e8c06709669ac66ef7a57ea130dc6006",
-    "profile_sha256": "faa945728a6b8f496ddbad2540d89830a1c1e0528cad7517c4d35e479a024c15"
+    "review_sha256": "0204d8a6b72a6ee5032fe1335fd66c886ab8f5d6661198fc755fdc970a0c86ff",
+    "profile_sha256": "faa945728a6b8f496ddbad2540d89830a1c1e0528cad7517c4d35e479a024c15",
+    "scope_sha256": "600b20f29a8c7b8164030d4ae4bce47251b7bb163b3e075fb82cca67920167d3",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0521-N01",
@@ -27166,8 +27378,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "82dddd67d19dd162efe457fc48c0bd5be2e60e9afa50862d972855996420d54d",
-    "profile_sha256": "dc750e34406ba282949126e3c85210481d5e412a41fc746773d9c50670b46575"
+    "review_sha256": "fb70789fa549eeb5ec9963620a6d66b1565a2b89a45ff3af3b84e926bff499cc",
+    "profile_sha256": "dc750e34406ba282949126e3c85210481d5e412a41fc746773d9c50670b46575",
+    "scope_sha256": "85eb21f423b4354a562e9d6e46130c857edf5cb45118f328a4d20c5984457ade",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0524-N01",
@@ -27667,8 +27883,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e0d6dc9c9a71b1424a95aec5859e0687500eb53b6277ae50270085765d4e0151",
-    "profile_sha256": "9766a2cdcb158e39c666532a130bd2831ce45158a8c8d04556a3a8286b2d5db0"
+    "review_sha256": "cb0f17ca09f730e70cee9ff92770cf9c4cd8077c80118137b5fd35b13e48fded",
+    "profile_sha256": "9766a2cdcb158e39c666532a130bd2831ce45158a8c8d04556a3a8286b2d5db0",
+    "scope_sha256": "4ea8f0c633e8bb21f6ab849161439830f4af49d97e2efbda81147da12d91c3e5",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0525-N01",
@@ -28168,8 +28388,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "524d050ac5d87dbcbfbfeca95189186f1bada00c35a18c54c2f669ffdfca8795",
-    "profile_sha256": "05b8805bdd2bccd6aa04d545298ffa82aacab0af9ab2a9e5997d92d324b7b1d2"
+    "review_sha256": "066e4dfb5f8c1fe673381f7c1a3448fd4c48d93ec6efe0a64bc0e6f7cdceb56c",
+    "profile_sha256": "05b8805bdd2bccd6aa04d545298ffa82aacab0af9ab2a9e5997d92d324b7b1d2",
+    "scope_sha256": "a1c410c91c028d45862cc408fe26f3ac4277d9b4f6ddac2e27897522a69e1437",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0529-N01",
@@ -28669,8 +28893,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "9c47a7e4e8547c0e414d034f98ef5c42c20440e0c1fe1d61f1c7ccb7e902b765",
-    "profile_sha256": "da512df61beb6f835411eddd0ba133140c1088ff4d214d1bb1dafde6d95693d3"
+    "review_sha256": "b6338e61b23b3e06c42639f25e50328769d866b734b0e10aed1d0ba1322f6c5c",
+    "profile_sha256": "da512df61beb6f835411eddd0ba133140c1088ff4d214d1bb1dafde6d95693d3",
+    "scope_sha256": "198535ed472584e896f75bd38180d1f709bd8765f03c6c3bc9c4ccb57d344f57",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0531-N01",
@@ -29170,8 +29398,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "5f894585b1879ebab552151bfdd852ad577133201e230cccb40c9870003f0217",
-    "profile_sha256": "50046101c9a49a78d2c13bcf1bef6da8e79272461281ccfe095795a5c8fa9d31"
+    "review_sha256": "f1dc0bd0a8c8c1aefbc7f2275022232d6d4e1e71f3e4fbd9a6b93b0f995e8024",
+    "profile_sha256": "50046101c9a49a78d2c13bcf1bef6da8e79272461281ccfe095795a5c8fa9d31",
+    "scope_sha256": "cccbcc8f0f109c9b888f4b693a72ffb798255109a51f572e1defdef417721576",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0532-N01",
@@ -29671,8 +29903,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "000ad305ca3349187d96f4c276b301b21fa9437d4b9fb654343cb59aae0da571",
-    "profile_sha256": "50b09a6da96dcebf48a06b1f0319a7da60b6ee2fc35de4858af5ea00c95716b0"
+    "review_sha256": "b69eb568c0d25c97096fe42d080f98b1bf9b6f8ec4b475ada44ec5cd6c97f551",
+    "profile_sha256": "50b09a6da96dcebf48a06b1f0319a7da60b6ee2fc35de4858af5ea00c95716b0",
+    "scope_sha256": "a2a6114d722434578e733a22767cbdc26b933a647172352cfd300e2aafa03a7c",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0533-N01",
@@ -30172,8 +30408,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "b8f4b589ad49fba201ec2ab997a711e1fb3c31a51cc91dfefd0b8a60f4f59abb",
-    "profile_sha256": "449a89a040254c9c8c852c002fb0b33a2167d19dbe57b485e46373cef317d2af"
+    "review_sha256": "3d05ddbff3bd5f91fba725cb63897594cb3e8d527373f54af041be4e7c9da3bc",
+    "profile_sha256": "449a89a040254c9c8c852c002fb0b33a2167d19dbe57b485e46373cef317d2af",
+    "scope_sha256": "127dc7881e8142fc5bea013b0b1eee4ab6be6f3eb027aafb8deb7643c35a9dad",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0535-N01",
@@ -30673,8 +30913,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "5bec413a657b38eca29cdc5856f90874b4a2735c889a7875c522725e293d955d",
-    "profile_sha256": "bde72b8869cc3dc619d87a2c7bd75fb33280fcea51f5702062dbdda83aafbf86"
+    "review_sha256": "30f90513f9c4bb3f0e20311967fc794cbfb95035129afb73c5ad4053ed8b7711",
+    "profile_sha256": "bde72b8869cc3dc619d87a2c7bd75fb33280fcea51f5702062dbdda83aafbf86",
+    "scope_sha256": "592a71be040d9f7053e53cd6849e584fccdeccce1b9fc67f5bab3e6bbd380fdf",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0540-N01",
@@ -31184,8 +31428,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "06e099719c1f8f3c150bf43a8af60a35999dc0081ccb3c70af4d94e4f1eb6937",
-    "profile_sha256": "7c663b4083272b60a57b072cbf51a325adbac35a5ae687e834ed915b5673a8bc"
+    "review_sha256": "ca5be187ce13b88db68bdd62d7d8ff854470be4fd7423f76b74b55a88342efdd",
+    "profile_sha256": "7c663b4083272b60a57b072cbf51a325adbac35a5ae687e834ed915b5673a8bc",
+    "scope_sha256": "a5e149061cb76d10dffa51507bb35697ee19ad3ffa32bf38ea3f1c422d89d91a",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0543-N01",
@@ -31685,8 +31933,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "c812f6d143a53461c151ac71c04dee0cbea5bfddbceeb9a23ac1e72bcbbfaf15",
-    "profile_sha256": "fce4aaee968a5f677a0a10a32fe574f16231e142ce420d20a0bb71357375828c"
+    "review_sha256": "564e8e44643eeed842566927eeb6d309bb472388eed92b8b5068586378bcd663",
+    "profile_sha256": "fce4aaee968a5f677a0a10a32fe574f16231e142ce420d20a0bb71357375828c",
+    "scope_sha256": "abef4cfe5041cc9b950aa683cd4962a172a61fe3a6beb5bb1fcf6f9dcfbec461",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0546-N01",
@@ -32186,8 +32438,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "3b02e901725935a180f41bfaba11c8c1978661ed56168f9236b6904a4e28b23d",
-    "profile_sha256": "bfbe161e85ed2a46e027ccf58988163e53bfdea078283b2b54060bd199608b46"
+    "review_sha256": "8bb1cbf0b189160daac3cf39c16b19a8bc94db8f8b80f10daa8d92f1439b9652",
+    "profile_sha256": "bfbe161e85ed2a46e027ccf58988163e53bfdea078283b2b54060bd199608b46",
+    "scope_sha256": "59873185f744c43f2da6f2cbcef9261e41e33ce448b30259adb066799c16037f",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0549-N01",
@@ -32687,8 +32943,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "fb8e692b557ff0653e9b8baa83febc5fec7d8e432a53b8329c140bdaff120fc7",
-    "profile_sha256": "429462e39807a57793c919a5de95a012199e22253b8407f5eec0f6f80399b314"
+    "review_sha256": "c73e77bc39bc2591f1b665120e56fdf2fb06feea91eb4408c6b7defa4a3f47b7",
+    "profile_sha256": "429462e39807a57793c919a5de95a012199e22253b8407f5eec0f6f80399b314",
+    "scope_sha256": "f42b1cea4e920c9bddf97fafd57b10a45b71c10593b6a400cb29cc01991640d1",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0552-N01",
@@ -33188,8 +33448,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "0c22b854c128c009fc1788d6412dd1d821bd17c42fa4748cacf79d9af61edc10",
-    "profile_sha256": "a8f419a199e3df0b6c18b5a6cd40c3af7f57f51e053e7a4ae8a0b6342a40c3ec"
+    "review_sha256": "d9ef11af73bd28176e5ad6a3e1253d2c42b29b66d66c84ff98ed16becbe4edd7",
+    "profile_sha256": "a8f419a199e3df0b6c18b5a6cd40c3af7f57f51e053e7a4ae8a0b6342a40c3ec",
+    "scope_sha256": "60bdf728435d44c1af92e88f461b6f5ba0ac884649ff8181d5cb7f8caa2eea96",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0556-N01",
@@ -33689,8 +33953,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "20a6901f0a97db19abf44f7497843a595a03c7aceecffdf8b57720a5cc4a5106",
-    "profile_sha256": "7d7365280a6b0a374db3ddffe120282686ebd9c471ecce8f7a9d53d5dea56559"
+    "review_sha256": "a467c18887bc9ddf737f9d76be009b3441d58a616c7c862c6076036bed94e31b",
+    "profile_sha256": "7d7365280a6b0a374db3ddffe120282686ebd9c471ecce8f7a9d53d5dea56559",
+    "scope_sha256": "ae0ce63a1a63a02118d3773e2fc980296b17e3c66f29f60b0e8613919dd30cb6",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0559-N01",
@@ -34190,8 +34458,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "cec894773d6952d00c70e7b610fe06669e429f58c1b31ae4268639676395135e",
-    "profile_sha256": "22a09ffbcd957a3b0f2d79629a11a3392caa777030a4f3ba0e5996c1ca05c03b"
+    "review_sha256": "9e7762a2d10723166bdfee5cabdea356930bdc5f052904629c47802b8cc07158",
+    "profile_sha256": "22a09ffbcd957a3b0f2d79629a11a3392caa777030a4f3ba0e5996c1ca05c03b",
+    "scope_sha256": "bdc812c238ea60c345d83fc5c799ab88ff59ac2be1e3c219709f10ec752e73dc",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0562-N01",
@@ -34691,8 +34963,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "d99d4ae7577678e0139e986baef1253ce1a79f122a4051ccaec5e13a43dee1ac",
-    "profile_sha256": "202b498715b5e7f8839287d229145bc3e28d0a5442cab82164aeca8ea95bf397"
+    "review_sha256": "b702bcba18948276ae335291e800d2fb394026a1ebe5bbcc45fe7e781f5355aa",
+    "profile_sha256": "202b498715b5e7f8839287d229145bc3e28d0a5442cab82164aeca8ea95bf397",
+    "scope_sha256": "8b86b3e7dbac1c4c3f82522ed87e57f720d51a0db79b8d7ceb47f729f3fd6db7",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0565-N01",
@@ -35192,8 +35468,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e78922a7df0e2e968a8f812e07e60e6b9b70475e3058bdba52481023c8aa8b34",
-    "profile_sha256": "459b35e249e730b82150fbcf7b5415c3ac70cb158183c2433a12e1a10d7ab17a"
+    "review_sha256": "d4705351e3f4f3483a7cce0c54eb1f128b97852b5d75778bef7c916e69c983aa",
+    "profile_sha256": "459b35e249e730b82150fbcf7b5415c3ac70cb158183c2433a12e1a10d7ab17a",
+    "scope_sha256": "4d7ab36278aa831e734db7dd1085e5ae8b1b4268deaf43a13f36752e2d923c46",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0576-N01",
@@ -35693,8 +35973,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "d0371068e2690896cd9b77c5fc4afc4de3f3a00754b22ec23009b8555032684d",
-    "profile_sha256": "7219c8ff58be2d858e8b8aad2d96e5899f5abc3733e9bf8be15b75ed0a318aed"
+    "review_sha256": "f16c6688caa22389d143cbdba9899575652ba99b9d6390ebcc8dcc3b200fda50",
+    "profile_sha256": "7219c8ff58be2d858e8b8aad2d96e5899f5abc3733e9bf8be15b75ed0a318aed",
+    "scope_sha256": "51037cfe7a8d0b9a533e67f7bdf215e3f7b984a1c14f3a3adcdeff94ce9dc188",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0579-N01",
@@ -36194,8 +36478,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "867dcb955b14c50bf29f8216476ee3679e0ad2026cda3cfa3b4afcd976cd3118",
-    "profile_sha256": "3c8a59571d0ef4445b99342121f8dcd460fe3f1d8808c19fa78b4c8c61db6bcf"
+    "review_sha256": "e930c5beacf47614f07d6e2a3ea6e04e3c5b053b27b9e8d4dd4fb8ebb92711dc",
+    "profile_sha256": "3c8a59571d0ef4445b99342121f8dcd460fe3f1d8808c19fa78b4c8c61db6bcf",
+    "scope_sha256": "63058a2faf6bc1147f5c93d60cea9f400a61af3055ba41ba08a5802840901853",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0582-N01",
@@ -36695,8 +36983,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "7c12d3cf1b03627faff21901273e655c664c21bccb598c10c642265f9c52a0c6",
-    "profile_sha256": "7c0f143c8c7a5062c69f853a71e5739c27518b8ea534bfa063e77b55ca9ece5c"
+    "review_sha256": "9909ca20b5a817b9da8ff5d70555a2a0f2bc583fa4cb7f35dd3e55009450872d",
+    "profile_sha256": "7c0f143c8c7a5062c69f853a71e5739c27518b8ea534bfa063e77b55ca9ece5c",
+    "scope_sha256": "4eac81206b5b9e4dca3b8b83bc3a435f5c9433ba532685513b817e177fb11053",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0585-N01",
@@ -37196,8 +37488,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "5531dd1d1d8cb5dba6f1f3e09d44348b029d46184701abade9a57c5dbf22c1ca",
-    "profile_sha256": "fdc476dece0705bc1bdc7bc38362c87f2998742356e1428b08124f8f85d435ab"
+    "review_sha256": "b44ed6e10f6ef38135767b657089e63cf5a54501de6d782f43e7ab4c9348a5f5",
+    "profile_sha256": "fdc476dece0705bc1bdc7bc38362c87f2998742356e1428b08124f8f85d435ab",
+    "scope_sha256": "a69fe8498a61358ecf89dc618629249ed0b40fd4b8617613b75f9c42a18c3c17",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0588-N01",
@@ -37697,8 +37993,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "0c3065caea8ee2e5d771f1917e416c0449749855cce9708f1948270df759144c",
-    "profile_sha256": "f3ff8d0a1ae79ba1697d9adfd403346a81e19be46d27ba796a68d56ea32c641e"
+    "review_sha256": "bb1764250fc25c4dece5f9e0cf4bfa2f0b47ed34dca0c02df0276b3bb989c8ed",
+    "profile_sha256": "f3ff8d0a1ae79ba1697d9adfd403346a81e19be46d27ba796a68d56ea32c641e",
+    "scope_sha256": "e38f90720a3165fb64d455a98bb3a96343ed76da4bb7d56e9643624a693d3a74",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0591-N01",
@@ -38198,8 +38498,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "ba45619de2ba1f4966dabfe64c22f9592c9867c9a3bf7a6914652be8820edcb7",
-    "profile_sha256": "1d9f598d870d4aefa49813bc5fad937345f6cd009fa4fd8fd2e6bbd0c220fb5f"
+    "review_sha256": "0b3ba98f4262997726b5951847172a1b3e02be54fc39a0d6aa1d4f4927e6db87",
+    "profile_sha256": "1d9f598d870d4aefa49813bc5fad937345f6cd009fa4fd8fd2e6bbd0c220fb5f",
+    "scope_sha256": "00b2a5849aedd151c07129238bd8a8a21da7323e1f547330e8c6213d8aea7edf",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0597-N01",
@@ -38699,8 +39003,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "283551e2c73f189bfb48b7edab6b2fdd3a3d4ff39b618cb127e477ea47a175f4",
-    "profile_sha256": "bedd2002f24a01ff677a60bfbc676905b6f5db87f9379d0f11238e10a6e81e2a"
+    "review_sha256": "4ca359fbbcdbc4dba9bd95b690c245d2814cb89f4b1bb2d68e185ca7f047e9af",
+    "profile_sha256": "bedd2002f24a01ff677a60bfbc676905b6f5db87f9379d0f11238e10a6e81e2a",
+    "scope_sha256": "d21d821fee6f589f37ea4c578631a83fb5133b1a124e1324a4bda62282b253c3",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0600-N01",
@@ -39200,8 +39508,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "dbdcf30dc01196e6e69deb866307a6884b1033233da4c778db13fbdef946a0d9",
-    "profile_sha256": "f0d47ea63455005119846a364f19e0ed10e841923c1cd494804915cf8ce3b111"
+    "review_sha256": "b2c9541565abce18f6994f21e5092b9eceab800603cd93179bd50793b192ee82",
+    "profile_sha256": "f0d47ea63455005119846a364f19e0ed10e841923c1cd494804915cf8ce3b111",
+    "scope_sha256": "33a111b123ae8b949e95051b268140052fd06c57587c441a887999e3f3c5cd62",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0603-N01",
@@ -39701,8 +40013,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "8846d137f96e244f95bc80566f8ac0f0030ae22de8e49e3c0af5e7a2d6a13894",
-    "profile_sha256": "3d0b086a8da30632543798017a43022d3e919309ba5960146639566737436ca1"
+    "review_sha256": "21d54b2fc2f2becda7bd06fcc85e15ebf28c00309c6bd242c0448194769d1475",
+    "profile_sha256": "3d0b086a8da30632543798017a43022d3e919309ba5960146639566737436ca1",
+    "scope_sha256": "53175298049cb49bd19e085e02c1c558fbb77567b318c324efbc0aa258338124",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0606-N01",
@@ -40202,8 +40518,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "dc711713ccd7f7790f1ab94f99e0b53ff77bf9bab0e96bc3685b480cb6fbc635",
-    "profile_sha256": "c37ce233bca68130f8166b55848c9644752d69528d9f84f6289133c9049f629c"
+    "review_sha256": "a1f66b69a21011ff38309e96bdb7d48709522789e701e183bd75ae14feb97b71",
+    "profile_sha256": "c37ce233bca68130f8166b55848c9644752d69528d9f84f6289133c9049f629c",
+    "scope_sha256": "624135606db24a856c899fb64254c825cd8fba08220ec47ee71ca379ff020926",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0609-N01",
@@ -40703,8 +41023,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "d9021958e63daca418bae503b928216da7151800d811a07e4c7771f15f12337f",
-    "profile_sha256": "8edcc8572fbb1098e97c2e14ba92d50a012971f844745d93eaec247f83a6a582"
+    "review_sha256": "da2b7b9188117e9b4ac5acdaa3d8452a87754bde0e5be2c0f1905f6e46e78c2e",
+    "profile_sha256": "8edcc8572fbb1098e97c2e14ba92d50a012971f844745d93eaec247f83a6a582",
+    "scope_sha256": "ba95268022e75d7bd413a3241258c5783e2f8e8d701cd866d88ef63c4d064a8c",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0616-N01",
@@ -41204,8 +41528,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "2b33caa5d09b392d290de8c5404faf11b8afe2704063c93206346b7ec19cda05",
-    "profile_sha256": "4364f755a773f82beec93dcbc1c9f39bba910086dff981cbc6e73d6aab4e3d68"
+    "review_sha256": "9a919b7833b0890db845e9a3a06e15cb13c63e1bb6bd70f1d8fa928b31cd00ec",
+    "profile_sha256": "4364f755a773f82beec93dcbc1c9f39bba910086dff981cbc6e73d6aab4e3d68",
+    "scope_sha256": "02a310b477b6cc919383ec7f940a8b669d71c3eb41aa68852f34ae3e2e004b32",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0627-N01",
@@ -41705,8 +42033,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "67b7fe7be73aa8d50c0e3342dbd794d80b40d783c65408d4eec4b4e9d24e5b50",
-    "profile_sha256": "f882d65cf1b18c02d2ae5deb72254213f92184183b175f5522645194a27d7652"
+    "review_sha256": "6493b5b9a79c0bfd2c1c050f460297ba4010e4e32e2937840b05738c99b1d0f5",
+    "profile_sha256": "f882d65cf1b18c02d2ae5deb72254213f92184183b175f5522645194a27d7652",
+    "scope_sha256": "d42e2a3b1c3dcadea409cf454b6438b43774d9480d6086ea23aa33d8c7f2186c",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0632-N01",
@@ -42206,8 +42538,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "3ddf98ed6b7a729831a74e506bec292fe1cff2ab796a603a1cb062e3bc9f1da7",
-    "profile_sha256": "768a9d3056e58035f02b18d7839e50690791a627015abf692824b83d494a2ac8"
+    "review_sha256": "b6174a9f51460515d08a07450c366a58552a386ce907e2a9ff05fba398bb8bd1",
+    "profile_sha256": "768a9d3056e58035f02b18d7839e50690791a627015abf692824b83d494a2ac8",
+    "scope_sha256": "a61adeb35ad1a8d4c2dab4bfb41295eaf16395d3646cffd859aee1347e961873",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0637-N01",
@@ -42707,8 +43043,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "41082672ff60eef85f5de75d91b8d4656f18f864f8ae6726606dadcee5315bdc",
-    "profile_sha256": "dc6fc06d096b6045fb9554e2fe7092724a79025179f7e32496bf2cc6c04b47bd"
+    "review_sha256": "753ed830d5b9d96cf67399b2cda2e9a05c97cb26f271876df74a2e20925fea36",
+    "profile_sha256": "dc6fc06d096b6045fb9554e2fe7092724a79025179f7e32496bf2cc6c04b47bd",
+    "scope_sha256": "ab7adaebe6b7a0ffd2c9f861f04cedc948f5a12a68312f8f714ca54e47c71fd3",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0644-N01",
@@ -43208,8 +43548,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "919bb236bd32df2cf1ea09eca6c9f60985d4d1618059930b549709df60dcf4ad",
-    "profile_sha256": "c84c92821fc8e7175e5c6d6a5c392885595ccae91374be44dd21896db432f514"
+    "review_sha256": "df1ce96687f6a6fa8a47ed7c31143e85b71a14aa8e6fffe3b6c0a6be04fa2861",
+    "profile_sha256": "c84c92821fc8e7175e5c6d6a5c392885595ccae91374be44dd21896db432f514",
+    "scope_sha256": "61a051e95218270b096ea6355d51cfbdd7a2c6ad8909c8e6c552f89c346f789f",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0650-N01",
@@ -43709,8 +44053,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "5dfcd3a011f92330648836b232f3a4ff5c854c74b0f6ece92d078cdd9a4afb7d",
-    "profile_sha256": "5ec34af830cbbb4055dc4aff677e794428c4d85bebdf19f837c95b9037553218"
+    "review_sha256": "c4d8776970e1f70fc9ecbc0892d0d7b8477e52c1c583f2b76dd7dfbf8edbb4c8",
+    "profile_sha256": "5ec34af830cbbb4055dc4aff677e794428c4d85bebdf19f837c95b9037553218",
+    "scope_sha256": "fb96ff75b57109630bed7f1549f6c69b7526a21cf85983b27969a3247f3d7214",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0661-N01",
@@ -44210,8 +44558,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "ff29c610ca49e6ee519e702e0698db7ed02798ccbc809c49400498a9adf513fd",
-    "profile_sha256": "df6a01414edb37d0392847ef7a3c7e3b461f1ebc3a43ccdfdee1993c13ebe0a7"
+    "review_sha256": "d7288c2bc33c107e3c7ee017b94fdfc33bd1487ee0bb1de18ebefcd31976c4ec",
+    "profile_sha256": "df6a01414edb37d0392847ef7a3c7e3b461f1ebc3a43ccdfdee1993c13ebe0a7",
+    "scope_sha256": "3a43f249192b14e21f58918816b023d2c49659e844ea6065bfab42e93f62719e",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0667-N01",
@@ -44711,8 +45063,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "68fae51e957878a5160688edb98d3736ebc842391cbff0c94e52cb05a1068009",
-    "profile_sha256": "b8ad17ddb9a086545bd5672308559ec9694c293be107e4ccf733413e3a7f5422"
+    "review_sha256": "cb304e386ef0b19fc68f3fef633b67e4091b90363d42dbe4c81495c8781c3d76",
+    "profile_sha256": "b8ad17ddb9a086545bd5672308559ec9694c293be107e4ccf733413e3a7f5422",
+    "scope_sha256": "a4a54bb43e47392cf673e161a8dbe5a885e52747eecf4d0d8ce7c52c3094fdd3",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0673-N01",
@@ -45212,8 +45568,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "1f0dd89100a9c3ab2bf07d64106ff414ec2a0172aa4e27fbc3c7e96e8345efac",
-    "profile_sha256": "20f8b0bc10bd83504bdfbe155f21960f9c560a65eb51cbc6ecf0eb5f96034bd1"
+    "review_sha256": "956c8e3d4edb0fd0dbcd91afe6a0ca890a7b826ce6717ef23cd2fac34b027e0e",
+    "profile_sha256": "20f8b0bc10bd83504bdfbe155f21960f9c560a65eb51cbc6ecf0eb5f96034bd1",
+    "scope_sha256": "e2d2732317756a0dc8d4f6964ce0ff423678c5766129fb8c3f34d9b84b7f9dbe",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0679-N01",
@@ -45713,8 +46073,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e14a6431a74a2dd43b172c12be580a3d3f0acb5d49b4fe0f5373e8063300db09",
-    "profile_sha256": "75117bd133584635497828eeb9cf426e7cf07a8f07c6e8e62a20e5cec757521e"
+    "review_sha256": "4c219f295cad12c40464823ef6be1214b686cec51e6c4ec9211f6ba2b23e6496",
+    "profile_sha256": "75117bd133584635497828eeb9cf426e7cf07a8f07c6e8e62a20e5cec757521e",
+    "scope_sha256": "6b5aa1a63d7c38fd5019349c639889a0f0550a4beca327bafb1877847121e95c",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0685-N01",
@@ -46210,8 +46574,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "2f7bd02a3eeb344c208125a23008c7ff7ad71bdecb47e95923b66b951eddadf5",
-    "profile_sha256": "5137b8900c7ad47d18c5b9cffc6cd1e204edfc790332a4e64f2d65b1c3156bfe"
+    "review_sha256": "498e64cccd6aeb2ab729a94ab41faf146f53b371fd38451dc3afe195368ec0dd",
+    "profile_sha256": "5137b8900c7ad47d18c5b9cffc6cd1e204edfc790332a4e64f2d65b1c3156bfe",
+    "scope_sha256": "27af08b2b6c0e4273a89f7850ff2e747ada147c2e76e383e37cc17bc9396aa6d",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0690-N01",
@@ -46710,8 +47078,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e08de9fdfddd8fe4269153adee4daaf3f228ddc35216a2efc3c3db337ddaf9b1",
-    "profile_sha256": "f26979574799db9581c494c0b8a0fb543a6175a32409224906940c6fac104f86"
+    "review_sha256": "7267d4754c45701d04ff9a8c1f537b20745a5544653c20c222b38942b4463f4d",
+    "profile_sha256": "f26979574799db9581c494c0b8a0fb543a6175a32409224906940c6fac104f86",
+    "scope_sha256": "4eea5bc48f837aebd9f6475a0404b2e91f17208b4d4b8af183c23ba819295f08",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0657-N01",
@@ -47211,8 +47583,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "49b3285ae7fbffc4aaeadef3fb6d67f3ee4445e1c31387b551723ffcb02b31e8",
-    "profile_sha256": "f1b4d72656b7c54d517fd76d8afb2be119a22aa2082e055cd80b51884558b66b"
+    "review_sha256": "0edcd93a886629e46427993867b67f097b7fee9f77327a898b438a6e16104848",
+    "profile_sha256": "f1b4d72656b7c54d517fd76d8afb2be119a22aa2082e055cd80b51884558b66b",
+    "scope_sha256": "aad925d158504b43066b357921afd5219badc4d319901f8b015ce6240253e532",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0660-N01",
@@ -47712,8 +48088,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "8a25a9de3e72e3782a0e4cff2e3013c783dfb41a1998b99a7624cd70b7f8bd3d",
-    "profile_sha256": "fa1ce879c8aef18188d43d51304eebd459cea85faf4a3643b4af65a7616d6504"
+    "review_sha256": "d5c1a0d9ee699e0409b7ef80c6b7947fdccecaff14264caa0d3c1d25b69545d9",
+    "profile_sha256": "fa1ce879c8aef18188d43d51304eebd459cea85faf4a3643b4af65a7616d6504",
+    "scope_sha256": "c12e2f72118be21d518a5871577f8ebcc1cccab34022ada8130ca10e3bd88b87",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0697-N01",
@@ -48213,8 +48593,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "6aa14ec91a3f892b6a8dd7bd8e7ffc3ebdfd2dadc4d0ba08b0d6bc4b3c813b8a",
-    "profile_sha256": "d4ae24be6e21eb0c34787f828c68e4444b829d0de0207e123269a86fc9154e01"
+    "review_sha256": "a9fb71ff53315da738f7a467bcac948cbace3faea07bf8f2d2acd6518175cad8",
+    "profile_sha256": "d4ae24be6e21eb0c34787f828c68e4444b829d0de0207e123269a86fc9154e01",
+    "scope_sha256": "14cf3e3f0bd515dc6d6cb1a7ec469da734d3022b424eff1230a448754fb49c8c",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0703-N01",
@@ -48714,8 +49098,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "127bdc75c0f6225a5145969d3363ef58c01a26da81a612febaab83abd8226e60",
-    "profile_sha256": "5984cbf6635819f992beffac176b661d96f56582a5cd544bff9cb52bf5811a7a"
+    "review_sha256": "f2ccb7587135c76d8bbce05fd55e71d43a84992bebd328efe06a59055fa8f0bf",
+    "profile_sha256": "5984cbf6635819f992beffac176b661d96f56582a5cd544bff9cb52bf5811a7a",
+    "scope_sha256": "ed1053de3351e39de8bc95a282cae6c8f940efd5330469973579919d92bb6d3b",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0708-N01",
@@ -49211,8 +49599,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "cadb25bdc1dceee1189e4948e68d6616821b12ce3763fdc2759096e073817248",
-    "profile_sha256": "f27a68034d021e8ba42edcf75f5e724907408dd7f41cfb3bbc33ee2e06d89e41"
+    "review_sha256": "c1022e6f78d4c71692ea49f10398f7cf083a7f4837c17695abeb865f96d5c78e",
+    "profile_sha256": "f27a68034d021e8ba42edcf75f5e724907408dd7f41cfb3bbc33ee2e06d89e41",
+    "scope_sha256": "e7e585aa2cb8df9ea0cde8ccd631993f25dedc48d985ad9523c456a979bdccaa",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0713-N01",
@@ -49712,8 +50104,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "5f03925167620190a242739b2dec1ba23d6227a6c8e7a681a78056d1545574fd",
-    "profile_sha256": "8d70d4a4e38e1d68a8124d264001da69eb75a4d1a39ecfd3c1c6a6d9d592573f"
+    "review_sha256": "6220038b4aa8d70003776be0c9c610d2ea0d8fb13ff2e55a7b8734b77914a4bd",
+    "profile_sha256": "8d70d4a4e38e1d68a8124d264001da69eb75a4d1a39ecfd3c1c6a6d9d592573f",
+    "scope_sha256": "b1166e59732348ba1324d239d7e304834ee8766eda98a5dbaea8f0933a425e65",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0718-N01",
@@ -50210,8 +50606,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "4c1b62cbd4e881993c5e9bba4503944f6c239b583a939f8f1b78b5e6e5dfbbf8",
-    "profile_sha256": "2e453ba9cc85218853fbfaefb5bb900dacceb62a2d82aa53508cd0249fcf5ebe"
+    "review_sha256": "569a320006611d23cfbc20751a6a9a47675c1c23a18e4d16320c312e56407f49",
+    "profile_sha256": "2e453ba9cc85218853fbfaefb5bb900dacceb62a2d82aa53508cd0249fcf5ebe",
+    "scope_sha256": "9dc88df3bbc06368007d0f955c8fa567257c333628542c5bc6f47c49131c0049",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0725-N01",
@@ -50711,8 +51111,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "68c21d2d11834106b676a23c4a19b2332b5b0d51271cabca1c3ebb17cd797a46",
-    "profile_sha256": "d168087752f4617b3337d5bf3ef5afc4b02eb57d4faf443d93320408ae334655"
+    "review_sha256": "4b549f11c0d40134ed8abe0510808e43a7a49d5763396727e794d2333ce6aca1",
+    "profile_sha256": "d168087752f4617b3337d5bf3ef5afc4b02eb57d4faf443d93320408ae334655",
+    "scope_sha256": "5bbad30b1980ac7eb99547eacdeee0495df52acf263956f68424ccb58c618c3a",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0737-N01",
@@ -51212,8 +51616,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "ad0b4da811146a2ef1e74cd75341d5ec67f7d83c253577e9513eb0b77ce5d207",
-    "profile_sha256": "ab7bc04215653e96253d2852470021720adfea1ba0c16a1112de8ff2701b7ad0"
+    "review_sha256": "56d4217eb74ad54ee99dc8fccdfb439fd80fe210e06a4c7aa336d31e80b9df6d",
+    "profile_sha256": "ab7bc04215653e96253d2852470021720adfea1ba0c16a1112de8ff2701b7ad0",
+    "scope_sha256": "bb521593fcc6a2362700536d379e2d9245a169f80423edc66a0705a9a482910e",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0742-N01",
@@ -51713,8 +52121,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "c43a81d5a5aac85bf488a5f25f505a0c538e1962f906982df9ad5bac0ae839e2",
-    "profile_sha256": "da206797e66b1faa6fb6fbce339807b68a33f96fb31cc6a3b6e92b02301bf2ea"
+    "review_sha256": "dc1b85cb21e6e40590a386a5b94fffee46a69f263dd1fc051039ba038d494827",
+    "profile_sha256": "da206797e66b1faa6fb6fbce339807b68a33f96fb31cc6a3b6e92b02301bf2ea",
+    "scope_sha256": "92fc81391254e3593d343379261598f7bc9227a8fac5d705db44a75579766829",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "C0747-N01",
@@ -52214,8 +52626,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "0a7304d796af710a5775d14aaa7e510121583d3318368530dc92e38a615a7209",
-    "profile_sha256": "4136d801af33489129f138f1b706b46d0484d5bbbc8fa27ba2d999cb8d26e3f3"
+    "review_sha256": "7797b28bf6e6ea38351f0360e58408d39f9d2d71339942e38dfa4747d260f042",
+    "profile_sha256": "4136d801af33489129f138f1b706b46d0484d5bbbc8fa27ba2d999cb8d26e3f3",
+    "scope_sha256": "af8598735e6a321d801769e5f5b0aa442177400de6a5c859c487c8f8c0e0f947",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": "2026-09-25",
+    "review_date_known": true
   },
   {
     "case_id": "W001",
@@ -52727,8 +53143,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "de094e2d225bf7e39befe89ef9ed7c52c042c703bfe0237ccf414166f9bb4636",
-    "profile_sha256": "9e016d217819713082314b4e2860578e83b7b1e43290d0818197e52a11dfaa5f"
+    "review_sha256": "94f90838f2af9d393748a8d61ac7731917bc5fdceed5309e156505730cfff338",
+    "profile_sha256": "9e016d217819713082314b4e2860578e83b7b1e43290d0818197e52a11dfaa5f",
+    "scope_sha256": "6c6815c9d4cce50ff97ad1d640a6c17e798c34776dffc5831b4233a68e1eac83",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W002",
@@ -53240,8 +53660,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "26c27406dbd393abcd34ef0112d1f55ddbe11c949f93df52738275257a183c9e",
-    "profile_sha256": "254306f9ef2616886fa18b3988a0e21937d2aca3cc1eefc6ca32be72dd09bb6a"
+    "review_sha256": "b90d4d34f05a9cf29be8f0cdea019698532ee0661b7ef7497faf5e1a90696e2f",
+    "profile_sha256": "254306f9ef2616886fa18b3988a0e21937d2aca3cc1eefc6ca32be72dd09bb6a",
+    "scope_sha256": "e2b8a2f407d6830b8b1098ac0bfa4601f51ea99499e599eda23c1cb29409a559",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W003",
@@ -53753,8 +54177,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "b198ac5b1b668a31508546958611b5cf2e425140776e1840ecf81d7e9bdafe60",
-    "profile_sha256": "305a06747343518ed1556ea6a8c7691bed7241de660fede9cb2f97f9dc93431a"
+    "review_sha256": "84d2da73c7ffb06dbb8bf31e4aaec83ad33a98e252a2489136f892f725e45965",
+    "profile_sha256": "305a06747343518ed1556ea6a8c7691bed7241de660fede9cb2f97f9dc93431a",
+    "scope_sha256": "71c8e4f680d456051c87ccd9fb79026152996c79008111389ce5e8dc508ca428",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W004",
@@ -54266,8 +54694,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "818ea3ce805cb076499a254f1a55e90c54e3e00682c9329f6b5e1143724e4f8d",
-    "profile_sha256": "12c9ccdae482a68f40f01436641cbcce2d6c9aa0ad597cce2efa0941d15bad51"
+    "review_sha256": "8f0bec87b7db5b6d1b29244eba708cdeeee9636a62e5caccedffb956973586b7",
+    "profile_sha256": "12c9ccdae482a68f40f01436641cbcce2d6c9aa0ad597cce2efa0941d15bad51",
+    "scope_sha256": "88f4878c6ba94627a13323eb0d02c2bdbfb9c0e4355cda72cd0d021641d4cb00",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W005",
@@ -54779,8 +55211,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "9215fb0d19e8884fad2cd6cb72c1b96e662d2fe3995f7e6b89dd3986ae2e17eb",
-    "profile_sha256": "b172b229438e96b6700291ff26ed6bfb19e9e936d26900a58a23c5b324d7f808"
+    "review_sha256": "76b77b38395a2d06ec0fbace7a18c468d1070fd72c71944ae845104a6765efa3",
+    "profile_sha256": "b172b229438e96b6700291ff26ed6bfb19e9e936d26900a58a23c5b324d7f808",
+    "scope_sha256": "40c41588dc3049ab62ad78138d843d9a2187a647bf9abcdea535972164478ac9",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W006",
@@ -55292,8 +55728,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "bfbf15a2049358f9d16d7e0b104dba86135fc5d529a833f906e2634ac75dfb36",
-    "profile_sha256": "3b2308bb43963c745ef629e11109cfa414d685d94e59de9161546b6c836de6fa"
+    "review_sha256": "067a6eb1bdebc0ce72fa64e46f0ccc72c0e0b15a765a7944fa1a97a0446b8573",
+    "profile_sha256": "3b2308bb43963c745ef629e11109cfa414d685d94e59de9161546b6c836de6fa",
+    "scope_sha256": "b2ee3b85ca107ca61699e912ff04ec644f5790067d6e1f6720b977949ac962a7",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W007",
@@ -55805,8 +56245,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "cfad89cf18c788820a8f076e293f41948a2ffcd28f8e65f12fb82d37fe6062aa",
-    "profile_sha256": "006248040ad0024d641beea5715ce047f91e4de08f3d79dd7f3ef6cb1a669ecb"
+    "review_sha256": "b74571b06021e6473617d113457182db633f075945219273439254c51918f0a9",
+    "profile_sha256": "006248040ad0024d641beea5715ce047f91e4de08f3d79dd7f3ef6cb1a669ecb",
+    "scope_sha256": "4825eff218ae026996f60ded4ad6ceb80091c490a68ce722d1972717d52e271e",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W008",
@@ -56318,8 +56762,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "7b1a7c562fbf23f0fb077cdee4df8806b65cb9bcf8033008defeb1a400b0d733",
-    "profile_sha256": "9a398bf14d7ee82449c628ae22c8abee555871c6190001d13980f762b93968bb"
+    "review_sha256": "8a8374a6f394d42ec212cb7af6796b1410c6fe66fbf8800f07d1f8222db9e424",
+    "profile_sha256": "9a398bf14d7ee82449c628ae22c8abee555871c6190001d13980f762b93968bb",
+    "scope_sha256": "075d8488783b5316feb344719673f8994d8fbbddadb30b29bcfab6efbe250a80",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W009",
@@ -56821,8 +57269,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "901e87144ce5e07ee3b0fa509fd112adad7ec2918d076ac02a8a18c59603c8f2",
-    "profile_sha256": "d3f4d878fb988780203fb68a182589811663c8fbbd62174b1880e16674bb86a5"
+    "review_sha256": "19a2f618cfdc9711e89f3d5b84697696669198e77e4531b5e118affbd8e899af",
+    "profile_sha256": "d3f4d878fb988780203fb68a182589811663c8fbbd62174b1880e16674bb86a5",
+    "scope_sha256": "328ee6c7cd330edfa387353464e2fc9c109e246dcbd0309c13de29a43da11144",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W010",
@@ -57324,14 +57776,18 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "7f52d3d9e8cbc48cf7ff1bc9e27d389146da04db94c7a7359c418eec0ed73889",
-    "profile_sha256": "e65a9c6c974974e211c7281950090e7af698f7c4119481da169429b531f915e3"
+    "review_sha256": "dc10a6fe2272210ed0784a0fa662a4e217de0f2445726d897e38bb35d1761aa1",
+    "profile_sha256": "e65a9c6c974974e211c7281950090e7af698f7c4119481da169429b531f915e3",
+    "scope_sha256": "3c859e9bf2c1ef0509f9c3c2a16288fba248e71865da557bc2426f30275828d7",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W011",
     "axes": {
       "TRL": {
-        "public_evidence_stage": 9,
+        "public_evidence_stage": null,
         "checked_stages": [
           9
         ],
@@ -57341,7 +57797,7 @@
         "interpretation": "仅适用于限定对象与证据期间；未知不代表技术退步"
       },
       "CRL": {
-        "public_evidence_stage": 2,
+        "public_evidence_stage": null,
         "checked_stages": [
           2,
           4,
@@ -57638,9 +58094,9 @@
         "level": 9,
         "key": "application",
         "requirement": "实际工程成功使用并有功能性能证据",
-        "declared_status": "met",
-        "effective_status": "met",
-        "rationale": "官网记录已调试投运及调频、无功、容量用途",
+        "declared_status": "unknown",
+        "effective_status": "unknown",
+        "rationale": "v0.2.1复核：来源只记录commissioning及main applications，没有实际调频/无功服务的功能性能结果，不能证明TRL9 application门槛。",
         "observation_ids": [
           "WO-dc9fe18029594fc4"
         ],
@@ -57720,9 +58176,9 @@
         "level": 2,
         "key": "value",
         "requirement": "形成用户价值或商业探索反馈",
-        "declared_status": "met",
-        "effective_status": "met",
-        "rationale": "实现项目容量和频率服务用途；未披露买方法人及结算",
+        "declared_status": "unknown",
+        "effective_status": "unknown",
+        "rationale": "v0.2.1复核：容量与频率服务是所列用途，没有已实现服务结果或用户价值反馈，CRL2 value证据不足。",
         "observation_ids": [
           "WO-33c1c12934f11db0"
         ],
@@ -57837,8 +58293,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "e1c9248c6da005b5f470e37c9f676535933710f07ddec87f389ca646bcddec98",
-    "profile_sha256": "b5f986dba13eb49447f4b5de343cb70f10850f93172f931e58e40029d7f0bf3d"
+    "review_sha256": "3dc36f9f73d73c5ca2bd79faee4470619e0be9372e31217672f9def567797ca5",
+    "profile_sha256": "b5f986dba13eb49447f4b5de343cb70f10850f93172f931e58e40029d7f0bf3d",
+    "scope_sha256": "69c526f0f6a479147249078e41e3a812f0554be7b27c145d6f53b7b2dce081c5",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W012",
@@ -58340,8 +58800,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "efcd6b1914421b4ab33462991d3af993ca2e2490320fe9df4a2dcad0de370f04",
-    "profile_sha256": "f23017320c7db4a4f50b4da19195208c84fb8649a833c1a24ebb230de38c9c32"
+    "review_sha256": "0dfc622c7d64952267d6461ba573c3b67701e9c28e6e7acafb5efd8e13356c4a",
+    "profile_sha256": "f23017320c7db4a4f50b4da19195208c84fb8649a833c1a24ebb230de38c9c32",
+    "scope_sha256": "f551ee70b7e22a4000cfaa806d5e936b8c8de88add82355137b32da0fbb149ef",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W013",
@@ -58843,8 +59307,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "de4deccf7a9bca38cd62992eabe8ae5ccdaf75b59108cb1ca3595b7ab3392cc4",
-    "profile_sha256": "b2bb1e89d13683535eb7d9f8edf2d9d4e2cdfa4d9bb807b4b6bc017e66e308a6"
+    "review_sha256": "0c6365432176b0a8c81d716cd1a2e7edfe38be80f9b9bd0c9eb7451b01224afa",
+    "profile_sha256": "b2bb1e89d13683535eb7d9f8edf2d9d4e2cdfa4d9bb807b4b6bc017e66e308a6",
+    "scope_sha256": "18935262771bfabafef600d8088c025850a0f44ca5769b2146adc1818680ca73",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W014",
@@ -59356,8 +59824,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "5b2a091c3ec2a225459297692da26b007116ffdfbc85fecd54140484c868178e",
-    "profile_sha256": "5f63842276af83aba063742eb125b46c0287f1b3f0d7948734fdbc801f74eb34"
+    "review_sha256": "b9b387b31412da870d31402c4d4ea6e292ef88b1a27883f11add9292ddd18b57",
+    "profile_sha256": "5f63842276af83aba063742eb125b46c0287f1b3f0d7948734fdbc801f74eb34",
+    "scope_sha256": "092cb86c3eba3d055b9c649dd4212ac331aa59af606d2332a4e0fbe261044736",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W015",
@@ -59862,8 +60334,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "c0ecfe29e8018fa6fc066eebcf483249cee58aee6b2d9e085ea37175c60a654e",
-    "profile_sha256": "e1ce0e9b3b4f09b9ac104212d5284495901d6fdbb4a75e96e4b1bd87594955a7"
+    "review_sha256": "79678a2a49d6bc31dad19f3d97338edbc76c227d483f8d5b2bfc8d1633d468cd",
+    "profile_sha256": "e1ce0e9b3b4f09b9ac104212d5284495901d6fdbb4a75e96e4b1bd87594955a7",
+    "scope_sha256": "55a906ad6f8489e3a4a1c7a9cf190548618d4d2257db46def0e631845ba953f3",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W016",
@@ -60365,8 +60841,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "ec85bb68a0da0b26d1ebe56e233c4a40f512535a84072e58f60d479e352e7f39",
-    "profile_sha256": "4c84899557cd21cf28f679e69fb4b9fd889fdcb54468c72d738e41f8e3dc0f62"
+    "review_sha256": "59b6ab6e2426474555587e6bbf45ad94c8ab69dbd70e425957757ea7858a4463",
+    "profile_sha256": "4c84899557cd21cf28f679e69fb4b9fd889fdcb54468c72d738e41f8e3dc0f62",
+    "scope_sha256": "cdc5329bc0220a47ad9f337c1b89ac905fb535e1dd390192ae18244980095e4d",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W017",
@@ -60868,8 +61348,12 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "44bbd5f36c40c8456940a7509eeb3ed77d903317b0c1ac6a87575b1eb51d3f9c",
-    "profile_sha256": "2270ce4bd23f95f5db00f2ba9ad29681825b5802dc78cae85bd22edd202078b2"
+    "review_sha256": "6a8b3291cf99ba28ee4d7aa39ab562d8c569238ccc2154b23893838b26aa6689",
+    "profile_sha256": "2270ce4bd23f95f5db00f2ba9ad29681825b5802dc78cae85bd22edd202078b2",
+    "scope_sha256": "9a2edfcf0980ebeeb3f0d6528855021c3e8c7979ad60abc551bcc6dac4d27fda",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   },
   {
     "case_id": "W018",
@@ -61381,7 +61865,11 @@
         "unresolved_negative": []
       }
     ],
-    "review_sha256": "45453ef8f8dbd21ee26baa6541796a0ca6343c20a5016f31864f39957a5c2869",
-    "profile_sha256": "94988841fd7ea7ec1b75a89e6106b97e8c80c57ea5533ce1ac87341807903b3f"
+    "review_sha256": "9c49f9f7a83e9f1ee961ea142a998970cb2b943f65006baee4dd77f8e0963ced",
+    "profile_sha256": "94988841fd7ea7ec1b75a89e6106b97e8c80c57ea5533ce1ac87341807903b3f",
+    "scope_sha256": "9ee1723bbabca6227649d5b808421cf47f9628d008fd608e00acf854ceb9a899",
+    "rules_sha256": "402fe7afaaa372ffefe81bf0c1c47746e3bc911af7513c5009f7127e0ccfa58d",
+    "review_date": null,
+    "review_date_known": false
   }
 ]

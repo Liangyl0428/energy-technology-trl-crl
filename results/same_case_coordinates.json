@@ -77,13 +77,6 @@
     "period": "不晚于2019；改造7个月"
   },
   {
-    "case_id": "W011",
-    "canonical_name": "Pelham储能项目26台Sunny Central Storage 2475",
-    "TRL": 9,
-    "CRL": 2,
-    "period": "2017-11投运"
-  },
-  {
     "case_id": "W014",
     "canonical_name": "Hornsdale一期100MW储能调频服务系统",
     "TRL": 9,
