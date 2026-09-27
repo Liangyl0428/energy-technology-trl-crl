@@ -1,117 +1,70 @@
-# 全量主题关联下的 TRL/CRL 灵敏度与证据消融
+# TRL/CRL：证据消融与灵敏度实验报告
 
-{
-  "cases": 122,
-  "sources": 114,
-  "passages": 126,
-  "observations": 453,
-  "scenario_count": 724,
-  "source_loo_cases_with_any_axis_changed": 118,
-  "source_loo_fragile_known_trl": 108,
-  "source_loo_fragile_known_crl": 23,
-  "upgrades": 0,
-  "cross_axis_ablation_independence_passed": true,
-  "frozen_evidence_only": true,
-  "new_remote_evidence_added": 0,
-  "limitation": "Conservative withdrawal: any removed citation resets the gate to unknown; remaining support is not semantically re-adjudicated. Not an accuracy experiment.",
-  "time_limit": "All 126 available_by values are 2026-09-25. Earlier knowledge-date tests return unknown; they cannot reconstruct historical maturity.",
-  "mapping_limit": "Top3 expands candidate coverage only. No cosine threshold certifies semantic correctness or transfers grades."
-}
+## 结论
 
-## 留一实验
+在 122 个有明确评估边界的案例中，118 个在撤回某一来源后至少一个成熟度轴变化。结果较依赖现有证据，不能把全量主题匹配误解为全部主题都有可靠成熟度等级。
 
-|                            |   ('changed_cases', 'min') |   ('changed_cases', 'mean') |   ('changed_cases', 'max') |   ('unchanged_fraction', 'min') |   ('unchanged_fraction', 'mean') |   ('unchanged_fraction', 'max') |   ('known_to_unknown', 'min') |   ('known_to_unknown', 'mean') |   ('known_to_unknown', 'max') |
-|:---------------------------|---------------------------:|----------------------------:|---------------------------:|--------------------------------:|---------------------------------:|--------------------------------:|------------------------------:|-------------------------------:|------------------------------:|
-| ('observation_loo', 'CRL') |                          0 |                    0.152318 |                          1 |                        0.991803 |                         0.998751 |                               1 |                             0 |                       0.152318 |                             1 |
-| ('observation_loo', 'TRL') |                          0 |                    0.701987 |                          1 |                        0.991803 |                         0.994246 |                               1 |                             0 |                       0.701987 |                             1 |
-| ('passage_loo', 'CRL')     |                          0 |                    0.18254  |                          1 |                        0.991803 |                         0.998504 |                               1 |                             0 |                       0.18254  |                             1 |
-| ('passage_loo', 'TRL')     |                          0 |                    0.873016 |                          1 |                        0.991803 |                         0.992844 |                               1 |                             0 |                       0.873016 |                             1 |
-| ('source_loo', 'CRL')      |                          0 |                    0.201754 |                         10 |                        0.918033 |                         0.998346 |                               1 |                             0 |                       0.201754 |                            10 |
-| ('source_loo', 'TRL')      |                          0 |                    0.947368 |                          8 |                        0.934426 |                         0.992235 |                               1 |                             0 |                       0.947368 |                             8 |
+| 覆盖项 | 数量 |
+| --- | --- |
+| 案例 | 122 |
+| 来源 | 114 |
+| 段落 | 126 |
+| 事实观察 | 453 |
+| 实验情景 | 724 |
+| 撤回后反而升级 | 0 |
 
-整体平均保持率会被每次未受影响的对象抬高，应重点读取 case_fragility.csv 中各对象自身证据脆弱性。未知不是 0 级，等级降幅只对消融后仍有等级者计算。
+## 实验验证什么
 
-## 来源类型与时间
+TRL 衡量技术就绪程度，CRL 衡量商业就绪程度，两个轴独立判定。逐次撤回来源、段落或观察，改变证据类型、可知日期及主题关联条件，再检查等级变化。每个情景分别记录两个轴，所以情景表行数是情景数的两倍。
 
-| kind                 | scenario                          | axis   |   removed_evidence |   removed_observations |   changed_cases |   unchanged_fraction |   known_cases |   unknown_fraction |   known_to_unknown | mean_drop_among_still_known   |   upgrades |
-|:---------------------|:----------------------------------|:-------|-------------------:|-----------------------:|----------------:|---------------------:|--------------:|-------------------:|-------------------:|:------------------------------|-----------:|
-| source_type_ablation | government_case_compilation       | TRL    |                 10 |                     62 |               8 |             0.934426 |           100 |           0.180328 |                  8 |                               |          0 |
-| source_type_ablation | government_case_compilation       | CRL    |                 10 |                     62 |              10 |             0.918033 |            13 |           0.893443 |                 10 |                               |          0 |
-| source_type_ablation | paper                             | TRL    |                 97 |                    322 |              90 |             0.262295 |            18 |           0.852459 |                 90 |                               |          0 |
-| source_type_ablation | paper                             | CRL    |                 97 |                    322 |               3 |             0.97541  |            20 |           0.836066 |                  3 |                               |          0 |
-| source_type_ablation | patent                            | TRL    |                  4 |                      4 |               4 |             0.967213 |           104 |           0.147541 |                  4 |                               |          0 |
-| source_type_ablation | patent                            | CRL    |                  4 |                      4 |               0 |             1        |            23 |           0.811475 |                  0 |                               |          0 |
-| source_type_ablation | policy                            | TRL    |                  3 |                     19 |               1 |             0.991803 |           107 |           0.122951 |                  1 |                               |          0 |
-| source_type_ablation | policy                            | CRL    |                  3 |                     19 |               3 |             0.97541  |            20 |           0.836066 |                  3 |                               |          0 |
-| source_type_ablation | public_project_or_research_source | TRL    |                 12 |                     46 |               5 |             0.959016 |           103 |           0.155738 |                  5 |                               |          0 |
-| source_type_ablation | public_project_or_research_source | CRL    |                 12 |                     46 |               7 |             0.942623 |            16 |           0.868852 |                  7 |                               |          0 |
-| source_type_ablation | public_research_source            | TRL    |                  0 |                      0 |               0 |             1        |           108 |           0.114754 |                  0 |                               |          0 |
-| source_type_ablation | public_research_source            | CRL    |                  0 |                      0 |               0 |             1        |            23 |           0.811475 |                  0 |                               |          0 |
-| availability_cutoff  | 2025-12-31                        | TRL    |                126 |                    453 |             108 |             0.114754 |             0 |           1        |                108 |                               |          0 |
-| availability_cutoff  | 2025-12-31                        | CRL    |                126 |                    453 |              23 |             0.811475 |             0 |           1        |                 23 |                               |          0 |
-| availability_cutoff  | 2026-06-30                        | TRL    |                126 |                    453 |             108 |             0.114754 |             0 |           1        |                108 |                               |          0 |
-| availability_cutoff  | 2026-06-30                        | CRL    |                126 |                    453 |              23 |             0.811475 |             0 |           1        |                 23 |                               |          0 |
-| availability_cutoff  | 2026-09-24                        | TRL    |                126 |                    453 |             108 |             0.114754 |             0 |           1        |                108 |                               |          0 |
-| availability_cutoff  | 2026-09-24                        | CRL    |                126 |                    453 |              23 |             0.811475 |             0 |           1        |                 23 |                               |          0 |
-| availability_cutoff  | 2026-09-25                        | TRL    |                  0 |                      0 |               0 |             1        |           108 |           0.114754 |                  0 |                               |          0 |
-| availability_cutoff  | 2026-09-25                        | CRL    |                  0 |                      0 |               0 |             1        |            23 |           0.811475 |                  0 |                               |          0 |
+这是冻结证据的稳健性检查，不是准确率测试，也没有补采新证据。采用保守撤回规则：移除必需引用会使对应门槛回到“未知”，没有重新人工裁决剩余证据能否支撑原判断。
 
-## 映射阈值（Top1，无间隔门槛）
+## 单一来源依赖
 
-|   top_k |   cosine_min |   top1_margin_min | entity_type   |   retained_entities |   candidate_links |   covered_topics |   theme_trl_assigned |   theme_crl_assigned | mapping_still_requires_semantic_review   |
-|--------:|-------------:|------------------:|:--------------|--------------------:|------------------:|-----------------:|---------------------:|---------------------:|:-----------------------------------------|
-|       1 |         0    |                 0 | case          |                 122 |               122 |               86 |                    0 |                    0 | True                                     |
-|       1 |         0    |                 0 | direction     |                 391 |               391 |              114 |                    0 |                    0 | True                                     |
-|       1 |         0.6  |                 0 | case          |                 122 |               122 |               86 |                    0 |                    0 | True                                     |
-|       1 |         0.6  |                 0 | direction     |                 391 |               391 |              114 |                    0 |                    0 | True                                     |
-|       1 |         0.65 |                 0 | case          |                 120 |               120 |               85 |                    0 |                    0 | True                                     |
-|       1 |         0.65 |                 0 | direction     |                 311 |               311 |               95 |                    0 |                    0 | True                                     |
-|       1 |         0.7  |                 0 | case          |                 100 |               100 |               74 |                    0 |                    0 | True                                     |
-|       1 |         0.7  |                 0 | direction     |                  30 |                30 |               21 |                    0 |                    0 | True                                     |
-|       1 |         0.75 |                 0 | case          |                  47 |                47 |               37 |                    0 |                    0 | True                                     |
-|       1 |         0.75 |                 0 | direction     |                   1 |                 1 |                1 |                    0 |                    0 | True                                     |
+| 指标 | 案例数 |
+| --- | --- |
+| 已知TRL受至少一次来源撤回影响 | 108 |
+| 已知CRL受至少一次来源撤回影响 | 23 |
+| 任一轴受来源撤回影响 | 118 |
 
-当前引擎执行时间、对象和判据绑定校验；删证据检验支持依赖性，不等于删掉标准中的必要条件。全部结果仍为公开证据初评，未经独立专家验证。
+不能只看每次撤回后全体案例的“不变比例”：删除某个案例的证据本来就不会影响大量无关案例。[逐案例脆弱性](case_fragility.csv) 更能体现依赖关系。
 
+## 撤回不同类型证据的影响
 
-## 全量版本绑定
+| 撤回类型 | 评估轴 | 删除段落 | 等级变化案例 | 已知变未知 |
+| --- | --- | --- | --- | --- |
+| 政府案例汇编 | TRL | 10 | 8 | 8 |
+| 政府案例汇编 | CRL | 10 | 10 | 10 |
+| 论文 | TRL | 97 | 90 | 90 |
+| 论文 | CRL | 97 | 3 | 3 |
+| 专利 | TRL | 4 | 4 | 4 |
+| 专利 | CRL | 4 | 0 | 0 |
+| 政策 | TRL | 3 | 1 | 1 |
+| 政策 | CRL | 3 | 3 | 3 |
+| 公开项目/研究来源 | TRL | 12 | 5 | 5 |
+| 公开项目/研究来源 | CRL | 12 | 7 | 7 |
+| 公开研究来源 | TRL | 0 | 0 | 0 |
+| 公开研究来源 | CRL | 0 | 0 | 0 |
 
-{
-  "cases": 122,
-  "sources": 114,
-  "passages": 126,
-  "observations": 453,
-  "scenario_count": 724,
-  "source_loo_cases_with_any_axis_changed": 118,
-  "source_loo_fragile_known_trl": 108,
-  "source_loo_fragile_known_crl": 23,
-  "upgrades": 0,
-  "cross_axis_ablation_independence_passed": true,
-  "frozen_evidence_only": true,
-  "new_remote_evidence_added": 0,
-  "limitation": "Conservative withdrawal: any removed citation resets the gate to unknown; remaining support is not semantically re-adjudicated. Not an accuracy experiment.",
-  "time_limit": "All 126 available_by values are 2026-09-25. Earlier knowledge-date tests return unknown; they cannot reconstruct historical maturity.",
-  "mapping_limit": "Top3 expands candidate coverage only. No cosine threshold certifies semantic correctness or transfers grades.",
-  "full_population_records": 5119004,
-  "classification_summary_sha256": "67d7d140720a99a87ae46fcf171e34515c1629ae4a402aa116dc30b1e4683568",
-  "mapping_sha256": "ba84ce24ab2002824f6c04dec3540e692764f861cbaed607843df4dc470825a2",
-  "input_evidence_sha256": {
-    "case_technology_links.json": "3fd73326885e8898824ecd1dd6c6bd40b07346fc964aa0f06a022ff8629f24dc",
-    "dataset.json": "0fc17d5665e3b5f2482bd18f4629622c664914c71228795b1e01090cd7e70743",
-    "evidence.json": "e2d5c3ba55de858c421e95000caaaf56e9c8218a8d46a5d09d2abac89687e4f3",
-    "gate_reviews.json": "a18ac5b185463eb7f6e5793f70557606fa2da091f4f56ecdbe6aa5a9b9a17f2e",
-    "objects.json": "65b3e2f15781f2a5bb82c818b0e220189f6b662ca799ed276cebbac500cce2d2",
-    "observations.json": "66dfd4fed7f0aa4b499ee1f97c740129fc1067dbafe16f5fa95b9e7dcab223b3",
-    "observed_facts.json": "d96b1a188d6fe42ccc56bc052c09d7542e48141ece3339557bd6cf9360e7edd5",
-    "sources.json": "9f30ec20cbe0cbdd795aeef6c9af934af809df24042a53d9704ff61b219b4f35",
-    "technical_profiles.json": "5bb35c207205ac5e17316103c3fa6659714aedf9595d3f4a2af78725c0682d81",
-    "technology_registry.json": "dd388a7c93a4fb0a5cbb4dea25fef23c1a3e28795b72ec2e9b5021e42416c452",
-    "theme_direction_links.json": "dcab5996a8eb883ac245dc58214809b5d6ed32d7407b7a4c00cad50ba5c9fef6",
-    "themes.json": "ff9d5912300e6010fdbe8072ac13f3189b6026ae0c423805e2a2c290b687cf12"
-  },
-  "rerun_with_full_mapping": true,
-  "classification_scope": "all frozen sources",
-  "maturity_scope": "all existing bounded evidence objects; no fabricated grades for 500 themes"
-}
+若某类证据实际删除数量为零，“没有变化”不能证明稳健。跨轴独立性检查通过仅说明两个轴没有错误串用证据，不证明等级准确。
 
-证据实验通过共用评估引擎执行。全量关联不代表512万条记录都具有成熟度证据。
+## 主题关联门槛
+
+固定余弦下限为 0，以下展示 Top1 检索随第一、第二主题相似度差距门槛变化的结果。
+
+| 对象 | 最低相似度差距 | 保留对象 | 覆盖主题 | 自动赋TRL主题 | 自动赋CRL主题 |
+| --- | --- | --- | --- | --- | --- |
+| 案例 | 0.0 | 122 | 86 | 0 | 0 |
+| 技术方向 | 0.0 | 391 | 114 | 0 | 0 |
+| 案例 | 0.01 | 57 | 46 | 0 | 0 |
+| 技术方向 | 0.01 | 109 | 48 | 0 | 0 |
+| 案例 | 0.02 | 30 | 25 | 0 | 0 |
+| 技术方向 | 0.02 | 27 | 22 | 0 | 0 |
+
+Top3 仅扩大候选检索范围。相似度不能把案例的等级转移给整个主题；[完整参数网格](mapping_sensitivity.csv) 中的关联仍需语义审核。
+
+## 日期和覆盖边界
+
+分类底座覆盖全量冻结来源，但成熟度证据仅覆盖上述案例。全部 126 个段落的可知日期为 2026-09-25，更早的知识截止日会得到未知，不能据此还原真实历史成熟度。应优先为单一来源依赖的案例补充独立证据，再人工复核。
+
+明细：[摘要及输入指纹](SUMMARY.json)、[逐情景结果](evidence_scenarios.csv)、[关联主题后的案例脆弱性](full_topic_case_fragility.csv)。

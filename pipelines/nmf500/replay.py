@@ -15,7 +15,7 @@ from trl_crl.pipeline import INPUT_NAMES,write_outputs
 
 
 def replay(output):
-    overlay=REPO/'assets/nmf500/taxonomy_overlay'
+    overlay=REPO/'tests/fixtures/nmf500/taxonomy_overlay'
     with TemporaryDirectory(prefix='trl-nmf500-') as tmp:
         for name in INPUT_NAMES:
             source=overlay/(name+'.json')

@@ -147,7 +147,7 @@ def run(data_dir, mapping_file, output):
 if __name__=='__main__':
     p=argparse.ArgumentParser()
     p.add_argument('--data',type=Path,default=REPO/'data')
-    p.add_argument('--mapping',type=Path,default=REPO/'results/nmf500/theme_context_top3.csv')
-    p.add_argument('--output',type=Path,default=REPO/'results/nmf500/experiments')
+    p.add_argument('--mapping',type=Path,default=REPO/'tests/fixtures/nmf500_results/theme_context_top3.csv')
+    p.add_argument('--output',type=Path,default=REPO/'tests/fixtures/nmf500_results/experiments')
     args=p.parse_args()
     run(args.data,args.mapping,args.output)

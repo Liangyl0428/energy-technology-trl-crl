@@ -25,3 +25,7 @@
 |实验|[实验报告](assets/full_nmf500/experiments/REPORT.md)|
 
 [方法与证据边界](docs/METHOD.md) · [字段说明](docs/DATA_SCHEMA.md) · [复现运行](docs/REPRODUCING.md) · [核心文件清单](docs/CORE_FILES.md) · [使用范围](NOTICE.md)。
+
+## 目录导航
+
+[完整项目结构及每个文件用途](docs/PROJECT_STRUCTURE.md)。当前成果在 `assets/full_nmf500/`；`tests/fixtures/` 只用于回归测试。

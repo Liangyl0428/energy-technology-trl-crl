@@ -26,7 +26,7 @@ class DiagnosticsTests(unittest.TestCase):
 
     def test_actual_evidence_and_mapping_diagnostics(self):
         with tempfile.TemporaryDirectory(prefix='trl-experiment-test-') as tmp:
-            diagnostics.run(REPO/'data',REPO/'results/nmf500/theme_context_top3.csv',Path(tmp))
+            diagnostics.run(REPO/'data',REPO/'tests/fixtures/nmf500_results/theme_context_top3.csv',Path(tmp))
             result=json.loads((Path(tmp)/'SUMMARY.json').read_text())
             self.assertEqual(result['scenario_count'],724)
             self.assertEqual(result['upgrades'],0)
@@ -41,7 +41,7 @@ class DiagnosticsTests(unittest.TestCase):
             for name in ['assessment_units', 'assessments', 'direction_evidence_profiles',
                          'same_case_coordinates', 'evidence_gaps', 'SUMMARY', 'INPUT_CHECKSUMS']:
                 self.assertEqual(json.loads((Path(tmp)/(name+'.json')).read_text()),
-                    json.loads((REPO/'results/nmf500'/(name+'.json')).read_text()), name)
+                    json.loads((REPO/'tests/fixtures/nmf500_results'/(name+'.json')).read_text()), name)
 
 
 if __name__=='__main__':

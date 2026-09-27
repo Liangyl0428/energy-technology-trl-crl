@@ -19,7 +19,7 @@ def test_full_evidence_experiments_bind_new_mapping(tmp_path):
     (source/'COMPLETE.json').write_text(json.dumps({'summary_sha256':digest,'validation_sha256':sha(source/'VALIDATION.json')}))
     pd.DataFrame({'category_id':[f'F{i+1:04d}' for i in range(500)]}).to_csv(source/'topic_catalog.csv',index=False)
     # Test fixture only: never replace actual full-run mappings with this data.
-    links=pd.read_csv(REPO/'results/nmf500/theme_context_top3.csv')
+    links=pd.read_csv(REPO/'tests/fixtures/nmf500_results/theme_context_top3.csv')
     links['category_id']=links.category_id.str.replace('N','F',regex=False)
     links.to_csv(inp/'theme_context_top3.csv',index=False)
     objects=json.loads((REPO/'data/objects.json').read_text())

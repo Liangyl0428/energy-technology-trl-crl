@@ -7,9 +7,10 @@
     "evidence_scenarios.csv": "764ddd7570def6bfce4c0d90536a81113990af1f03f04b711cc74dbc4e87b85e",
     "case_fragility.csv": "a042277d7c6bd5d123401154ab7d864d6fcd904c206731dfce9bab8c57000e67",
     "changed_cases.csv": "89184570936b1fdc63683ea2f8361dce6725ed3f6794999ad39c1bcdd9cdcd64",
-    "REPORT.md": "dd882cab1f7949e2f02c60e2ba87679a73f36804b684154ea1e8f0760af08175",
+    "REPORT.md": "fc52e2fc5e064740cfd7b6e15a3136f650e502f2623c2f4ab7e9f574e5cc04a0",
     "SUMMARY.json": "620dcb4453c2a9c25698192ee4f660430e35be2a8ed0c060303e180ea5750628"
   },
   "documentation_normalized": true,
-  "source_complete_sha256": "9ba7cb65a67ba490870d285bb763d07935103b3d2b1fa67db50d6d4622775b44"
+  "source_complete_sha256": "9ba7cb65a67ba490870d285bb763d07935103b3d2b1fa67db50d6d4622775b44",
+  "readable_report_refreshed": true
 }

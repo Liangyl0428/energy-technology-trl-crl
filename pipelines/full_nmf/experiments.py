@@ -39,10 +39,8 @@ def run(source,inp,out):
     fragility=pd.read_csv(out/'case_fragility.csv').merge(case_links,on='case_id',validate='many_to_one')
     fragility.to_csv(out/'full_topic_case_fragility.csv',index=False)
     (out/'SUMMARY.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n')
-    report=(out/'REPORT.md').read_text()
-    report=report.replace('# TRL/CRL 灵敏度与证据消融','# 全量主题关联下的 TRL/CRL 灵敏度与证据消融',1)
-    report+='\n\n## 全量版本绑定\n\n'+json.dumps(summary,ensure_ascii=False,indent=2)+'\n\n证据实验通过共用评估引擎执行。全量关联不代表512万条记录都具有成熟度证据。\n'
-    (out/'REPORT.md').write_text(report)
+    import runpy
+    runpy.run_path(str(REPO/'pipelines/full_nmf/report.py'))['render'](out)
     (out/'COMPLETE.json').write_text(json.dumps({'passed':True,'classification_summary_sha256':complete['summary_sha256'],
         'files':{p.name:sha(p) for p in out.iterdir() if p.is_file() and p.name!='COMPLETE.json'}},indent=2)+'\n')
 

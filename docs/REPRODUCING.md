@@ -20,3 +20,12 @@
     python tools/check_current_release.py
 
 大型向量保留在工作区。核心源码、证据及紧凑结果的完整性见provenance/CORE_FILES.json与assets/full_nmf500/MANIFEST.json。
+
+## 仅重建报告和目录说明
+
+无需重跑模型即可执行：
+
+    python pipelines/full_nmf/report.py --input assets/full_nmf500/experiments
+    python tools/project_structure.py
+
+报告直接汇总已有 CSV/JSON；若修改了发布文件，提交前必须同步更新成果指纹与核心文件清单。
