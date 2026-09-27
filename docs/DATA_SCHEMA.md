@@ -6,7 +6,7 @@
 |---|---|
 |`data/objects.json`|122个有界对象；无预先填入的TRL/CRL值|
 |`data/technology_registry.json`|391候选方向与122对象的登记信息|
-|`data/themes.json`|750主题及对应记录数、候选方向|
+|`data/themes.json`|证据登记的来源主题上下文；当前输出目录以assets/full_nmf500中的F主题为准|
 |`data/theme_direction_links.json`|主题—候选方向关联|
 |`data/case_technology_links.json`|对象—方向关联及关系类型|
 |`data/technical_profiles.json`|技术分解建议、性能要求和评审状态|

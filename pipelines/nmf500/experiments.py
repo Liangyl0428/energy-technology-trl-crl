@@ -139,7 +139,7 @@ def run(data_dir, mapping_file, output):
         mapping_limit='Top3 expands candidate coverage only. No cosine threshold certifies semantic correctness or transfers grades.')
     (output/'SUMMARY.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2)+'\n')
     aggregate=result[result.kind.isin(['source_loo','passage_loo','observation_loo'])].rename(columns={'axis':'evidence_axis'}).groupby(['kind','evidence_axis'])[['changed_cases','unchanged_fraction','known_to_unknown']].agg(['min','mean','max'])
-    report='# TRL/CRL 灵敏度与证据消融\n\n'+json.dumps(summary,ensure_ascii=False,indent=2)+'\n\n## 留一实验\n\n'+aggregate.to_markdown()+'\n\n整体平均保持率会被每次未受影响的对象抬高，应重点读取 case_fragility.csv 中各对象自身证据脆弱性。未知不是 0 级，等级降幅只对消融后仍有等级者计算。\n\n## 来源类型与时间\n\n'+result[result.kind.isin(['source_type_ablation','availability_cutoff'])].to_markdown(index=False)+'\n\n## 映射阈值（Top1，无间隔门槛）\n\n'+mapping_frame[(mapping_frame.top_k==1)&(mapping_frame.top1_margin_min==0)].to_markdown(index=False)+'\n\nv0.2.1补充时间、对象和判据绑定校验，并修正W011证据解释；删证据检验支持依赖性，不等于删掉标准中的必要条件。全部结果仍为公开证据初评，未经独立专家验证。\n'
+    report='# TRL/CRL 灵敏度与证据消融\n\n'+json.dumps(summary,ensure_ascii=False,indent=2)+'\n\n## 留一实验\n\n'+aggregate.to_markdown()+'\n\n整体平均保持率会被每次未受影响的对象抬高，应重点读取 case_fragility.csv 中各对象自身证据脆弱性。未知不是 0 级，等级降幅只对消融后仍有等级者计算。\n\n## 来源类型与时间\n\n'+result[result.kind.isin(['source_type_ablation','availability_cutoff'])].to_markdown(index=False)+'\n\n## 映射阈值（Top1，无间隔门槛）\n\n'+mapping_frame[(mapping_frame.top_k==1)&(mapping_frame.top1_margin_min==0)].to_markdown(index=False)+'\n\n当前引擎执行时间、对象和判据绑定校验；删证据检验支持依赖性，不等于删掉标准中的必要条件。全部结果仍为公开证据初评，未经独立专家验证。\n'
     (output/'REPORT.md').write_text(report)
     print(json.dumps(summary,ensure_ascii=False,indent=2))
 
