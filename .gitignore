@@ -15,3 +15,7 @@ research_output/
 work/
 build/
 dist/
+
+# Full document exports remain external runtime assets.
+platform/assets/*/paper_assignments/
+platform/assets/*/paper_topic_relations/

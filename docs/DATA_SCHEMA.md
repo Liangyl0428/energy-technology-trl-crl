@@ -38,3 +38,10 @@
 `trl_public_evidence_stage`和`crl_public_evidence_stage`是公开证据阶段；`formal_trl`、`formal_crl`均为空。JSON中`null`在Excel/CSV显示为空，不使用0或1替代未知。
 
 事实类型包括`reported_actual`（来源报告实际值）、`installed`（实际安装）、`nameplate`（额定）、`planned_total`（规划）、`synthetic_price_calculation`（合成价格计算）。这些类型不能互相替代。
+
+
+## P0 当前主题交付字段
+
+`assets/full_nmf500/case_hotspot_links.csv` 的 TRL/CRL 等级仅为整数或空单元格；同名 JSON 为整数/null。状态、阶段名、缺证据说明和展示文本另列，完整契约见[平台字典](https://github.com/Liangyl0428/energy-topic-identification/blob/main/platform/docs/数据与指标字典.md)。`category_name` 从当前 F500 目录关联，原名称保存在 `legacy_category_name`；Top3 为候选检索，主题级等级仍为空。
+
+不要使用展示文本做筛选/绘图，也不要把未知转为 0。现有规则对应 TRL 1—9、CRL 1—5；本次未变更判级。

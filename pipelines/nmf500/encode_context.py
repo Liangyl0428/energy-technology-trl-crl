@@ -10,8 +10,13 @@ import sys
 import time
 
 REPO = Path(__file__).resolve().parents[2]
-ROOT = REPO.parent
-sys.path[:0] = [str(ROOT / 'aaaa/bge_m3/_runtime'), str(ROOT / 'aaaa/bge_m3/_core')]
+sys.path.insert(0,str(REPO))
+sys.path.insert(0,str(REPO.parent))
+from runtime_config import load_runtime
+RUNTIME=load_runtime()
+ROOT=RUNTIME.path('data_root')
+DELIVERY=RUNTIME.path('delivery_root')
+sys.path[:0] = [str(RUNTIME.path('bge_runtime_dir')), str(RUNTIME.path('bge_core_dir'))]
 import numpy as np
 from tokenizers import Tokenizer
 import onnxruntime as ort
@@ -36,7 +41,7 @@ def contexts():
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument('--output', type=Path, default=REPO / 'work/nmf500/context')
+    p.add_argument('--output', type=Path, default=RUNTIME.path('context_dir'))
     args = p.parse_args()
     out = args.output
     out.mkdir(parents=True, exist_ok=True)
@@ -51,7 +56,7 @@ def main():
         print('Reusing verified context embeddings', flush=True)
         return
     (out / 'contexts.json').write_text(json.dumps(rows, ensure_ascii=False, indent=2))
-    model = ROOT / 'aaaa/bge_m3/models/bge-m3'
+    model = RUNTIME.path('bge_model_dir')
     tokenizer = Tokenizer.from_file(str(model / 'tokenizer.json'))
     tokenizer.enable_truncation(max_length=2048)
     tokenizer.no_padding()

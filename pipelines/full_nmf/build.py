@@ -7,10 +7,17 @@ import sys
 import numpy as np
 import pandas as pd
 
-REPO=Path(__file__).resolve().parents[2];ROOT=REPO.parent
+REPO=Path(__file__).resolve().parents[2]
+sys.path.insert(0,str(REPO))
+sys.path.insert(0,str(REPO.parent))
+from runtime_config import load_runtime
+RUNTIME=load_runtime()
+ROOT=RUNTIME.path('data_root')
+DELIVERY=RUNTIME.path('delivery_root')
 sys.path[:0]=[str(REPO),str(REPO/'pipelines/nmf500')]
 from mapping import ranked_links
 from trl_crl.pipeline import assess
+from trl_crl.delivery import typed_units,sync_topic_metadata,write_case_table
 
 
 def current_contexts():
@@ -57,10 +64,11 @@ def build(source,hotspots,out,context):
     out.mkdir(parents=True,exist_ok=True)
     links.to_csv(out/'theme_context_top3.csv',index=False)
     _,results=assess(REPO/'data')
-    units=pd.DataFrame(results['assessment_units'])
+    units=typed_units(results)
     cases=links[links.entity_type.eq('case') & links['rank'].eq(1)].set_index('entity_id')
     units['legacy_category_id']=units['category_id'] if 'category_id' in units else ''
     units['category_id']=units.case_id.map(cases.category_id)
+    units=sync_topic_metadata(units,catalog)
     units['mapping_cosine']=units.case_id.map(cases.cosine)
     units['mapping_needs_review']=True
     if units.category_id.isna().any():
@@ -68,7 +76,7 @@ def build(source,hotspots,out,context):
     hot=pd.read_csv(hotspots/'hotspot_metrics.csv').set_index('category_id')
     for field in ['core_score','emerging_score','core_numeric_candidate','emerging_numeric_candidate']:
         units[field]=units.category_id.map(hot[field])
-    units.to_csv(out/'case_hotspot_links.csv',index=False)
+    write_case_table(units,out/'case_hotspot_links.csv')
     profiles=catalog.copy()
     profiles['candidate_case_count']=profiles.category_id.map(units.category_id.value_counts()).fillna(0).astype(int)
     profiles['theme_trl']=None;profiles['theme_crl']=None
@@ -85,4 +93,4 @@ def build(source,hotspots,out,context):
 
 
 if __name__=='__main__':
-    p=argparse.ArgumentParser();p.add_argument('--classification',type=Path,default=ROOT/'energy-topic-identification/work/full_nmf500_20260926');p.add_argument('--hotspots',type=Path,default=ROOT/'energy-topic-hotspots/outputs/full_nmf500_20260926');p.add_argument('--output',type=Path,default=REPO/'results/full_nmf500_20260926');p.add_argument('--context',type=Path,default=REPO/'work/nmf500/context');a=p.parse_args();build(a.classification,a.hotspots,a.output,a.context)
+    p=argparse.ArgumentParser();p.add_argument('--classification',type=Path,default=RUNTIME.path('classification_run'));p.add_argument('--hotspots',type=Path,default=RUNTIME.path('hotspots_run'));p.add_argument('--output',type=Path,default=RUNTIME.path('maturity_run'));p.add_argument('--context',type=Path,default=RUNTIME.path('context_dir'));a=p.parse_args();build(a.classification,a.hotspots,a.output,a.context)

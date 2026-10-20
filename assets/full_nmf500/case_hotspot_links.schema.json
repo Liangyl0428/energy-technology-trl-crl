@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "P0 bounded maturity case export",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "case_id",
+      "category_id",
+      "category_name",
+      "trl_public_evidence_stage",
+      "crl_public_evidence_stage",
+      "trl_evidence_status",
+      "crl_evidence_status",
+      "paired_axes_usable"
+    ],
+    "properties": {
+      "case_id": {
+        "type": "string"
+      },
+      "category_id": {
+        "type": "string",
+        "pattern": "^F[0-9]{4}$"
+      },
+      "category_name": {
+        "type": "string"
+      },
+      "category_ids": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "paired_axes_usable": {
+        "type": "boolean"
+      },
+      "trl_public_evidence_stage": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "minimum": 1,
+        "maximum": 9
+      },
+      "trl_evidence_status": {
+        "enum": [
+          "supported",
+          "unknown",
+          "conflict"
+        ]
+      },
+      "trl_has_conflict": {
+        "type": "boolean"
+      },
+      "trl_stage_name": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "trl_missing_evidence": {
+        "type": "string"
+      },
+      "trl_explanation": {
+        "type": "string"
+      },
+      "trl_display": {
+        "type": "string"
+      },
+      "crl_public_evidence_stage": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "minimum": 1,
+        "maximum": 5
+      },
+      "crl_evidence_status": {
+        "enum": [
+          "supported",
+          "unknown",
+          "conflict"
+        ]
+      },
+      "crl_has_conflict": {
+        "type": "boolean"
+      },
+      "crl_stage_name": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "crl_missing_evidence": {
+        "type": "string"
+      },
+      "crl_explanation": {
+        "type": "string"
+      },
+      "crl_display": {
+        "type": "string"
+      }
+    }
+  },
+  "description": "JSON integer/null contract. CSV uses empty cells for null and JSON text for category_ids. Evidence preassessment only; source rules remain unchanged."
+}

@@ -1,3 +1,6 @@
-# csv.writer intentionally emits CRLF for spreadsheet interoperability.
-# Preserve bytes because the release manifest hashes the generated files.
-*.csv whitespace=cr-at-eol
+# Preserve exact bytes for manifest hashing (no line-ending conversion).
+* -text
+
+# Exact source excerpts contain significant original line whitespace.
+assets/full_nmf500/p1/evidence_index.csv -whitespace
+assets/full_nmf500/p1/observation_index.csv -whitespace

@@ -1,0 +1,501 @@
+﻿category_id,case_count,case_ids,trl_distribution,crl_distribution,paired_case_ids,theme_trl,theme_crl,mapping_scope,review_status,interpretation,taxonomy_version,business_version
+F0001,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0002,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0003,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0004,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0005,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0006,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0007,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0008,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0009,2,"[""C0499-N01"", ""C0627-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0010,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0011,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0012,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0013,1,"[""C0122-B01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0014,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0015,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0016,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0017,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0018,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0019,1,"[""C0515-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0020,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0021,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0022,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0023,3,"[""C0443-B01"", ""C0098-B02"", ""W004""]","{""4"": 1, ""unknown"": 1, ""9"": 1}","{""unknown"": 1, ""2"": 2}","[""W004""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0024,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0025,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0026,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0027,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0028,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0029,2,"[""C0254-B01"", ""C0278-B01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0030,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0031,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0032,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0033,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0034,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0035,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0036,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0037,2,"[""C0685-N01"", ""C0747-N01""]","{""2"": 1, ""4"": 1}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0038,1,"[""C0495-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0039,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0040,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0041,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0042,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0043,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0044,1,"[""C0532-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0045,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0046,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0047,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0048,1,"[""C0549-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0049,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0050,1,"[""C0679-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0051,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0052,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0053,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0054,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0055,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0056,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0057,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0058,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0059,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0060,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0061,2,"[""C0210-B01"", ""C0588-N01""]","{""4"": 1, ""unknown"": 1}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0062,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0063,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0064,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0065,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0066,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0067,2,"[""C0504-N01"", ""C0632-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0068,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0069,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0070,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0071,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0072,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0073,2,"[""W007"", ""W010""]","{""9"": 1, ""unknown"": 1}","{""2"": 2}","[""W007""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0074,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0075,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0076,1,"[""W018""]","{""9"": 1}","{""2"": 1}","[""W018""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0077,2,"[""C0559-N01"", ""C0600-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0078,2,"[""C0191-B01"", ""C0191-B02""]","{""6"": 1, ""unknown"": 1}","{""unknown"": 1, ""2"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0079,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0080,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0081,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0082,1,"[""C0091-B01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0083,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0084,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0085,2,"[""C0246-B01"", ""C0525-N01""]","{""unknown"": 1, ""4"": 1}","{""2"": 1, ""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0086,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0087,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0088,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0089,1,"[""C0742-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0090,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0091,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0092,1,"[""C0540-N01""]","{""6"": 1}","{""2"": 1}","[""C0540-N01""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0093,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0094,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0095,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0096,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0097,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0098,1,"[""C0356-B01""]","{""2"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0099,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0100,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0101,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0102,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0103,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0104,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0105,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0106,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0107,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0108,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0109,1,"[""C0490-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0110,1,"[""C0251-B01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0111,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0112,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0113,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0114,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0115,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0116,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0117,1,"[""C0684-B01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0118,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0119,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0120,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0121,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0122,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0123,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0124,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0125,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0126,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0127,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0128,1,"[""C0585-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0129,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0130,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0131,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0132,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0133,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0134,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0135,1,"[""C0637-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0136,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0137,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0138,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0139,3,"[""C0593-B01"", ""C0221-B01"", ""C0487-N01""]","{""4"": 3}","{""unknown"": 3}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0140,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0141,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0142,3,"[""C0067-B01"", ""C0529-N01"", ""C0531-N01""]","{""4"": 3}","{""unknown"": 3}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0143,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0144,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0145,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0146,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0147,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0148,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0149,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0150,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0151,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0152,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0153,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0154,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0155,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0156,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0157,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0158,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0159,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0160,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0161,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0162,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0163,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0164,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0165,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0166,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0167,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0168,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0169,2,"[""C0665-B01"", ""W005""]","{""9"": 2}","{""3"": 1, ""2"": 1}","[""C0665-B01"", ""W005""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0170,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0171,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0172,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0173,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0174,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0175,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0176,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0177,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0178,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0179,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0180,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0181,1,"[""W015""]","{""9"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0182,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0183,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0184,1,"[""W001""]","{""9"": 1}","{""3"": 1}","[""W001""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0185,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0186,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0187,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0188,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0189,2,"[""C0514-N01"", ""C0703-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0190,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0191,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0192,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0193,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0194,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0195,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0196,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0197,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0198,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0199,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0200,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0201,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0202,1,"[""C0524-N01""]","{""unknown"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0203,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0204,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0205,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0206,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0207,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0208,2,"[""C0155-B01"", ""C0576-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0209,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0210,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0211,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0212,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0213,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0214,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0215,1,"[""C0718-N01""]","{""2"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0216,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0217,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0218,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0219,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0220,1,"[""C0435-B01""]","{""4"": 1}","{""2"": 1}","[""C0435-B01""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0221,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0222,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0223,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0224,1,"[""C0606-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0225,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0226,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0227,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0228,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0229,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0230,4,"[""C0501-N01"", ""C0520-N01"", ""C0521-N01"", ""C0673-N01""]","{""4"": 3, ""1"": 1}","{""unknown"": 4}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0231,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0232,1,"[""C0533-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0233,1,"[""C0356-B02""]","{""2"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0234,2,"[""W006"", ""W016""]","{""9"": 1, ""unknown"": 1}","{""2"": 1, ""3"": 1}","[""W006""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0235,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0236,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0237,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0238,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0239,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0240,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0241,2,"[""C0609-N01"", ""C0708-N01""]","{""4"": 1, ""2"": 1}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0242,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0243,2,"[""C0294-B01"", ""C0657-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0244,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0245,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0246,1,"[""C0509-B01""]","{""unknown"": 1}","{""2"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0247,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0248,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0249,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0250,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0251,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0252,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0253,1,"[""C0713-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0254,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0255,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0256,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0257,4,"[""C0535-N01"", ""C0562-N01"", ""W002"", ""W009""]","{""4"": 2, ""9"": 1, ""unknown"": 1}","{""unknown"": 2, ""3"": 2}","[""W002""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0258,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0259,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0260,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0261,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0262,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0263,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0264,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0265,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0266,1,"[""W017""]","{""unknown"": 1}","{""2"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0267,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0268,1,"[""C0500-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0269,1,"[""C0124-B02""]","{""2"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0270,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0271,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0272,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0273,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0274,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0275,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0276,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0277,1,"[""W014""]","{""9"": 1}","{""3"": 1}","[""W014""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0278,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0279,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0280,1,"[""C0510-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0281,1,"[""C0603-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0282,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0283,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0284,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0285,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0286,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0287,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0288,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0289,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0290,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0291,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0292,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0293,2,"[""C0519-N01"", ""C0616-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0294,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0295,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0296,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0297,1,"[""C0009-B01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0298,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0299,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0300,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0301,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0302,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0303,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0304,3,"[""C0513-N01"", ""C0543-N01"", ""W013""]","{""4"": 2, ""unknown"": 1}","{""unknown"": 2, ""3"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0305,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0306,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0307,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0308,2,"[""C0552-N01"", ""C0582-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0309,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0310,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0311,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0312,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0313,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0314,1,"[""C0690-N01""]","{""2"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0315,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0316,1,"[""W003""]","{""9"": 1}","{""3"": 1}","[""W003""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0317,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0318,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0319,1,"[""C0246-B02""]","{""2"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0320,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0321,1,"[""C0124-B01""]","{""2"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0322,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0323,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0324,1,"[""C0507-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0325,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0326,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0327,1,"[""C0493-B01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0328,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0329,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0330,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0331,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0332,1,"[""C0497-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0333,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0334,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0335,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0336,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0337,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0338,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0339,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0340,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0341,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0342,1,"[""C0492-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0343,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0344,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0345,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0346,2,"[""C0186-B01"", ""C0725-N01""]","{""unknown"": 1, ""4"": 1}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0347,2,"[""C0512-N01"", ""C0661-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0348,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0349,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0350,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0351,3,"[""C0518-B01"", ""C0491-N01"", ""C0697-N01""]","{""4"": 3}","{""unknown"": 3}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0352,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0353,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0354,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0355,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0356,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0357,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0358,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0359,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0360,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0361,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0362,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0363,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0364,1,"[""C0556-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0365,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0366,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0367,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0368,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0369,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0370,1,"[""C0565-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0371,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0372,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0373,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0374,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0375,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0376,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0377,1,"[""C0060-B01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0378,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0379,1,"[""C0737-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0380,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0381,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0382,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0383,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0384,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0385,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0386,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0387,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0388,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0389,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0390,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0391,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0392,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0393,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0394,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0395,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0396,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0397,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0398,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0399,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0400,1,"[""C0216-B01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0401,1,"[""C0502-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0402,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0403,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0404,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0405,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0406,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0407,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0408,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0409,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0410,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0411,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0412,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0413,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0414,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0415,1,"[""C0597-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0416,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0417,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0418,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0419,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0420,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0421,1,"[""C0660-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0422,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0423,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0424,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0425,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0426,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0427,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0428,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0429,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0430,1,"[""C0517-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0431,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0432,1,"[""C0650-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0433,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0434,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0435,1,"[""C0591-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0436,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0437,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0438,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0439,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0440,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0441,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0442,1,"[""W012""]","{""unknown"": 1}","{""2"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0443,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0444,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0445,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0446,1,"[""C0644-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0447,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0448,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0449,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0450,1,"[""W008""]","{""9"": 1}","{""2"": 1}","[""W008""]",,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0451,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0452,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0453,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0454,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0455,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0456,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0457,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0458,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0459,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0460,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0461,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0462,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0463,1,"[""C0494-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0464,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0465,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0466,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0467,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0468,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0469,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0470,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0471,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0472,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0473,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0474,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0475,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0476,2,"[""C0546-N01"", ""C0579-N01""]","{""4"": 2}","{""unknown"": 2}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0477,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0478,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0479,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0480,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0481,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0482,1,"[""W011""]","{""unknown"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0483,1,"[""C0098-B01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0484,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0485,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0486,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0487,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0488,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0489,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0490,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0491,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0492,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0493,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0494,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0495,1,"[""C0667-N01""]","{""4"": 1}","{""unknown"": 1}",[],,,current_primary_candidate_only,candidate_mapping_pending_review,候选关联对象的证据分布；样本非行业普查，不能按最大值或均值给主题评级。,full_nmf500_20260926,energy_business_p1_20261018
+F0496,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0497,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0498,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0499,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018
+F0500,0,[],{},{},[],,,current_primary_candidate_only,candidate_mapping_pending_review,当前没有候选关联对象；不表示该方向没有成熟产品。,full_nmf500_20260926,energy_business_p1_20261018

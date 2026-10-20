@@ -2,7 +2,7 @@
 
 ## 从哪里开始
 
-当前计算入口是 `pipelines/full_nmf/`，当前成果仅在 `assets/full_nmf500/`。`tests/fixtures/` 是固定回归输入，不是另一套待选用成果。共享模块和兼容实现因当前调用或测试需要而保留，不应直接替代全量入口。
+模块基础计算入口在 `pipelines/full_nmf/`；F500 与 P1/P2 模块成果在 `assets/full_nmf500/`。主题识别仓库另有关键词及多主题流水线，联合手册、预览和紧凑交付在其 `platform/`。不同版本的范围和入口以 README 为准。`tests/fixtures/` 是固定回归输入，不是另一套待选用成果。共享模块和兼容实现因当前调用或测试需要而保留，不应直接替代全量入口。
 
 阅读 [当前报告](../assets/full_nmf500/experiments/REPORT.md)、[方法](METHOD.md) 和 [复现步骤](REPRODUCING.md)。下面逐项列出全部 Git 管理的文件及目录，不用省略号隐藏文件。
 
@@ -24,13 +24,34 @@ energy-technology-trl-crl/  # 当前发布源码与紧凑成果
 │       │   ├── evidence_scenarios.csv  # 逐证据撤回情景的双轴变化
 │       │   ├── full_topic_case_fragility.csv  # 连接当前主题的案例证据依赖
 │       │   └── mapping_sensitivity.csv  # 主题关联参数网格及覆盖变化
+│       ├── p1/  # F500业务解释与证据接口
+│       │   ├── INPUTS.json  # 结果/配置：INPUTS
+│       │   ├── case_insights.csv  # 结果/配置：case / insights
+│       │   ├── case_insights.json  # 结果/配置：case / insights
+│       │   ├── evidence_index.csv  # 结果/配置：evidence / index
+│       │   ├── evidence_index.json  # 结果/配置：evidence / index
+│       │   ├── gate_evidence.csv  # 结果/配置：gate / evidence
+│       │   ├── gate_evidence.json  # 结果/配置：gate / evidence
+│       │   ├── observation_index.csv  # 结果/配置：observation / index
+│       │   ├── observation_index.json  # 结果/配置：observation / index
+│       │   ├── source_index.csv  # 结果/配置：source / index
+│       │   ├── source_index.json  # 结果/配置：source / index
+│       │   ├── topic_case_distributions.csv  # 结果/配置：topic / case / distributions
+│       │   └── topic_case_distributions.json  # 结果/配置：topic / case / distributions
+│       ├── p2/  # 51个题名业务主题及对应趋势/对象解读
+│       │   ├── case_decision_cards.csv  # 结果/配置：case / decision / cards
+│       │   └── case_decision_cards.json  # 结果/配置：case / decision / cards
 │       ├── MANIFEST.json  # 当前发布结果的 SHA-256 指纹
 │       ├── POSTPROCESS_DELIVERY.json  # 三仓库交付及实验绑定记录
 │       ├── REPORT.md  # 面向读者的结果报告
 │       ├── SUMMARY.json  # 机器可读统计摘要
 │       ├── case_hotspot_links.csv  # 案例与热点指标连接
+│       ├── case_hotspot_links.json  # 结果/配置：case / hotspot / links
+│       ├── case_hotspot_links.schema.json  # 结果/配置：case / hotspot / links.schema
 │       ├── theme_context_top3.csv  # 案例和技术方向的前三个候选主题
 │       └── theme_evidence_profiles.csv  # 各主题可检索证据概况，不是主题等级
+├── config/  # 目录：config
+│   └── runtime_paths.json  # 结果/配置：runtime / paths
 ├── data/  # 有边界的成熟度证据输入，必须保留
 │   ├── case_technology_links.json  # 案例与技术对象关系
 │   ├── dataset.json  # 证据数据集元信息
@@ -50,11 +71,13 @@ energy-technology-trl-crl/  # 当前发布源码与紧凑成果
 │   ├── FULL_EXPERIMENTS.md  # 实验设计和解释限制
 │   ├── FULL_NMF.md  # 全量主题流程说明
 │   ├── METHOD.md  # 当前算法与适用边界
+│   ├── PLATFORM_INTEGRATION.md  # 结果/配置：PLATFORM / INTEGRATION
 │   ├── PROJECT_STRUCTURE.md  # 本文件：全部受版本管理文件的用途索引
 │   └── REPRODUCING.md  # 环境、输入和复现步骤
 ├── pipelines/  # 计算与复现入口
 │   ├── full_nmf/  # 当前全量主流程
 │   │   ├── build.py  # 构建本阶段计算结果
+│   │   ├── build_crl_reason.py  # 兼容回归辅助：build / crl / reason；保留用于依赖链或测试
 │   │   ├── experiments.py  # 执行消融及灵敏度实验
 │   │   └── report.py  # 生成人类可读结果报告
 │   └── nmf500/  # 共享计算模块或固定回归流程；当前入口见 full_nmf
@@ -106,6 +129,8 @@ energy-technology-trl-crl/  # 当前发布源码与紧凑成果
 │   ├── test_full_nmf.py  # 回归测试：full / nmf
 │   ├── test_mapping_boundaries.py  # 回归测试：mapping / boundaries
 │   ├── test_nmf500_diagnostics.py  # 回归测试：nmf500 / diagnostics
+│   ├── test_p0_delivery.py  # 回归测试：p0 / delivery
+│   ├── test_portable_runtime.py  # 回归测试：portable / runtime
 │   └── test_readable_report.py  # 回归测试：readable / report
 ├── tools/  # 发布校验、清单及维护工具
 │   ├── bind_review_scopes.py  # 将审核记录绑定到明确对象边界
@@ -115,7 +140,9 @@ energy-technology-trl-crl/  # 当前发布源码与紧凑成果
 │   ├── __init__.py  # Python 包初始化
 │   ├── __main__.py  # 模块命令行入口
 │   ├── common.py  # 公共路径、配置和辅助函数
+│   ├── delivery.py  # 兼容回归辅助：delivery；保留用于依赖链或测试
 │   ├── engine.py  # 逐对象双轴成熟度推理
+│   ├── insights.py  # 兼容回归辅助：insights；保留用于依赖链或测试
 │   ├── pipeline.py  # 数据加载、评估与成果输出
 │   ├── report.py  # 生成人类可读结果报告
 │   ├── research.py  # 研究证据整理辅助
@@ -124,9 +151,11 @@ energy-technology-trl-crl/  # 当前发布源码与紧凑成果
 ├── .gitignore  # 排除缓存、本地大数据和运行输出
 ├── NOTICE.md  # 数据来源和使用声明
 ├── README.md  # 项目入口：当前方法、结果及运行说明
+├── p1_common.py  # 业务导出的类型与版本辅助函数
 ├── pyproject.toml  # 包元数据、依赖与命令入口
 ├── requirements-nmf500.txt  # 运行/测试依赖版本约束（用途由文件后缀区分）
-└── requirements.txt  # 运行/测试依赖版本约束（用途由文件后缀区分）
+├── requirements.txt  # 运行/测试依赖版本约束（用途由文件后缀区分）
+└── runtime_config.py  # 可搬迁的显式输入路径解析
 ```
 
 ## 不随仓库发布的本地内容
